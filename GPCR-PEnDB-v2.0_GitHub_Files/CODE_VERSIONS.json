@@ -1,0 +1,92 @@
+{
+  "format_version": 1,
+  "recorded_date_utc": "2026-09-29",
+  "hash_algorithm": "SHA-256",
+  "manuscript_code": {
+    "Codes/Code_S10_resolve_context_required.py": "b2c93d150569a629dd47a74e43b34ee02560650558c3cf44ce85249c65380618",
+    "Codes/Code_S11_finalize_context_resolution.py": "204b5b0ec01abba45b0a5830a642da844decf935dd52e7bef06e8eb309a156a9",
+    "Codes/Code_S12_final_ambiguity_audit.py": "6d5f8bd5d7b502d27c0fd2f70f59e300c28a8531f2f63b40a70f5d7947bcd36d",
+    "Codes/Code_S13_classify_association_categories.py": "52bc184673b737b381a66a0101cada12a1db49b02c70d1aa10acccd91250a31d",
+    "Codes/Code_S14_build_database_tables.py": "ad4f3825b4338ba655c716fb9fbe4e0ac05f5a846ade529c2af9a7da22c744d3",
+    "Codes/Code_S15_generate_final_qc_metrics.py": "2497f0197abb5eeac0300e8adbe45e523691e3f3e259f1ef509cf58e8d839f74",
+    "Codes/Code_S1_collect_uniprot_terminology.py": "2805cf947d1667f819606bba7e269b2b7b1fba25966b23245424cc4beafdabff",
+    "Codes/Code_S2_collect_hgnc_terminology.py": "b5ab0eea44081fc1ac9555f70d1927b8cdfa1f7fc0927a8024625b0d54667bc9",
+    "Codes/Code_S3_audit_gpcr_names.py": "9b755c6ad2b22c78444fcbf32c4e2703ddc1db049701b75b0bbcf24eb37975ba",
+    "Codes/Code_S4_collect_context_evidence.py": "190b55de9407ad5db8e4354cc37641286b625fc1abdfaf584b287eca6b2ca899",
+    "Codes/Code_S5_triage_gpcr_names.py": "eec1caf77c134c30fd626a5d2a1744af2254314d69d36c627267831582024c59",
+    "Codes/Code_S6_finalize_gpcr_terminology.py": "f7a9f5f1444a622c58e5a704e0692f79c9f1d1cc8cac7b40f9790ee2259c9cbd",
+    "Codes/Code_S7_build_cancer_terminology.py": "e7979ca88414222a226720ff080f4480cc156b8b6796644779d8c2472cc8e862",
+    "Codes/Code_S8_search_gpcr_cancer_pubmed.py": "5f61c476017ede55f7fbc8a74db704323dd78eee7ee8f601cebe14ce55a3b6ea",
+    "Codes/Code_S9_validate_retrieved_publications.py": "f3a58654fc1990b955428f10303609869ab01102afaf0bcca7a443a692eb0af4",
+    "Codes/_frozen_entry.py": "9fd882c681f087cdcd2fa49880ed572544188d89de8d1cb60d8e7da9ad848ec9",
+    "run_frozen.py": "b338143f1a6f77afaee75a8c7f053f64cd57cad70663acd0c4c9500c99fe6b37"
+  },
+  "refresh_code": {
+    "Refresh/Codes/Code_S10_resolve_context_required.py": "f5b307928fd2c47300264daeb8f2ed6f159289f1451945cbbb8d003bb491c770",
+    "Refresh/Codes/Code_S11_finalize_context_resolution.py": "a790f109d30158db4c0a3681b40d351ba7b32d76dd9cd497517b4db6c9b172e3",
+    "Refresh/Codes/Code_S12_final_ambiguity_audit.py": "346fb682b174f1548f6888e0e5237d6705e617e913165669ea3c4ba9258a281a",
+    "Refresh/Codes/Code_S13_classify_association_categories.py": "26d3e2cb0555ab7fcee698da49e10236b49f9052d3133cfd51b0fb83e0c718b0",
+    "Refresh/Codes/Code_S14_build_database_tables.py": "c31cec1f39c0d91df4eac60ef406b2685b4d5e05902d0b60bb60e32e2037455c",
+    "Refresh/Codes/Code_S15_generate_final_qc_metrics.py": "12b3b5dae5dd809bc1595c75d0bc5b93b344e6d5889fb6aac38721026836f584",
+    "Refresh/Codes/Code_S1_collect_uniprot_terminology.py": "dab419d0409207cfb99edd149b59ff6956dd1e177596d598ece0a3e574862d7f",
+    "Refresh/Codes/Code_S2_collect_hgnc_terminology.py": "0942dff42112d66973a5ef3f3e6af5f9ebbdfcd9ad5feb5f16e49efe50922ac3",
+    "Refresh/Codes/Code_S3_audit_gpcr_names.py": "fd9bd102e62d3e37c8c6df1a1f4f68034a92c8933db5b9c30a57692a1a240c41",
+    "Refresh/Codes/Code_S4_collect_context_evidence.py": "41ffdd2ac0261c6aeac3c5cf42bada4db5a5980bd378a0c4f4d92b33ef7328ec",
+    "Refresh/Codes/Code_S5_triage_gpcr_names.py": "cce772800696eca4232a3aa92c223176d8dea4ce6e439ef139eae21ba47486cd",
+    "Refresh/Codes/Code_S6_finalize_gpcr_terminology.py": "81e7ffe593c7f3f309c6f32f6618eae45c6a309dac1521d84d4fd24a60f069f7",
+    "Refresh/Codes/Code_S7_build_cancer_terminology.py": "5810aa46e4a65ce0d98a3f2b0d63ceab43dd83256cc246839cf5b2cf251f3e9c",
+    "Refresh/Codes/Code_S8_search_gpcr_cancer_pubmed.py": "76eec85dcdbacf917211d1d149490e9ffe2ad6cc4cc25fc480c99b1d59b100c0",
+    "Refresh/Codes/Code_S9_validate_retrieved_publications.py": "fd802558a400822163d3938342318d2740ee74aa5ff441bdbb9592790c94e2c7",
+    "Refresh/Codes/_refresh_review_support.py": "ffe76fbacbf12d9c3fd0c0d7b66c36a6a2ba1b5316e8d5bfeef23b156bd4b5f7",
+    "Refresh/_run_stage.py": "d85279695298da1a4621abd9481e79bc3d44ded5aef476963a0b2d7ccc5fa2d2",
+    "run_refresh.py": "1895bfda7051bfc3d48ee27bf09f85c18796a488ee319b8a48a37e80fe720675"
+  },
+  "refresh_tests": {
+    "Refresh/tests/test_refresh.py": "e69bc53b14c3305ce4eee73458a0fe4054c1e4bc41671b5cf13560679225276b"
+  },
+  "data": {
+    "Data/Data_S10_CORRECTED_FINAL_Human_GPCR_Cancer_PubMed_Classified.csv": "03d8fd6150af80f6f46ae943ea2a6231f9294562907109a6900018ae93284351",
+    "Data/Data_S11_CORRECTED_FINAL_Human_GPCR_Cancer_PubMed_Associations_Retained.csv": "03d8fd6150af80f6f46ae943ea2a6231f9294562907109a6900018ae93284351",
+    "Data/Data_S12_CORRECTED_FINAL16_DB_Papers_GPCR_Cancer.csv": "c4aa1be4eefa98e7a22928579eeb01090b8d6ba0502fe9c22bcaeae0c8a9efe9",
+    "Data/Data_S13_CORRECTED_FINAL16_DB_Associations_GPCR_Cancer.csv": "e8ee4f415682df7da858d989959943be1467bade5b069131bba9c5b61134fc9d",
+    "Data/Data_S14_CORRECTED_FINAL16_DB_Page_GPCR_to_Cancers.csv": "c250d5542f4c724334355b5f07661af4a485df6c30b06c84e32a215cb7ee8dc4",
+    "Data/Data_S15_CORRECTED_FINAL16_DB_Page_Cancer_to_GPCRs.csv": "c2c32ed1bc90eec0ec788ec8efe2ca2a3c224d1404dcb3cb366b8117d7ad0659",
+    "Data/Data_S16_CORRECTED_FINAL12_Manuscript_Metrics.txt": "c6b33cf0d0163537a7624f9377a2e303a3dcdea7b0ed2b61e89da5b27a108f44",
+    "Data/Data_S17_CORRECTED_FINAL12_Integrity_Report.txt": "f61ffeac48be509112e076ddc8d22334acfd91d499acc1dfdc298b04328c2b99",
+    "Data/Data_S1_Alias_Candidate_Universe.csv": "52f3c876053dd507371cec9361b90dd2438b3384fc81824ceaaa68efe20329dc",
+    "Data/Data_S2_Alias_Audit_Recommendations.csv": "89a2abd3c6f16945d153088bc4eedcacea1bee71f4738c47ccd39304fb2bacb9",
+    "Data/Data_S3_Alias_Final_Decisions.csv": "2179c6ca4af3eca04c501b07055db6c1b96b698cc9c8d8a9e7c9ecb7aa344845",
+    "Data/Data_S4_GPCR_Alias_Table_FINAL_VALIDATED.csv": "95900611d304e5a6646361699ce025e2b643d9dfb4b0db3a249603af0226d00b",
+    "Data/Data_S5_Cancer_Terminology.csv": "888cf2e1d96ed26963921c251415d89db0b3c49b2a6ea12dc9774bfee2a34b06",
+    "Data/Data_S6_GPCR_Cancer_PubMed_PMIDs_Long.csv": "9b2ded96a213d6367da6a2e41e335c69d4a0668bfc89ff84913653c2d6b19bc7",
+    "Data/Data_S7_GPCR_Cancer_PubMed_Search_Summary.csv": "35d7c691bef9591d716e7bc9ee5d69a32e7fe9f1ffbfeca7b104e9ca8d731ff8",
+    "Data/Data_S8_Human_GPCR_Cancer_PubMed_Papers_FINAL_CORRECTED.csv": "11ed4cd418bebc521daa0caa30115d31c041cbb49322c11cf1ecc54cb8b9aa06",
+    "Data/Data_S9_Association_Category_Definitions.csv": "d2c65bff08fa94f5d6b07963b6dc36c2634894b44c059c13f862727f0ebce741"
+  },
+  "modified_refresh_stages": [
+    1,
+    3,
+    11,
+    12
+  ],
+  "unchanged_refresh_stages": [
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    13,
+    14,
+    15
+  ],
+  "provenance_note": "Manuscript code is preserved from the previous final supplementary ZIP. Refresh code starts from the supplied online scripts, with changes documented in Refresh/CHANGES.md. These hashes identify delivered versions; they do not by themselves prove historical execution.",
+  "offline_replay_support": {
+    "Offline_Guard/Bio/Entrez.py": "51077953169f5d5ef8af04070dc1e1af19565351ac5a7d6624a9c819563a6f8a",
+    "Offline_Guard/Bio/__init__.py": "5a3bb141458e34be706df5f96573b98dbe29455c7d335588b6ce4b87036f879c",
+    "Offline_Guard/requests.py": "d17eba87e8b37b558fa0e5894a731f7e889038f072fba08e0106ec164d2789f5",
+    "Offline_Guard/sitecustomize.py": "ada9e70f18c67cdcef67045e37cadf6e8a1d36dafd62631bd514ccff86712195"
+  }
+}

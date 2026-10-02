@@ -1,0 +1,53 @@
+GPCR-PEnDB manuscript and refresh workflow verification
+Verification date: 29 September 2026
+
+PRESERVED MANUSCRIPT COMPONENT
+The original Codes/, run_frozen.py, Data S1-S17, inputs, caches,
+intermediates, and REPLAY_VERIFICATION.txt are byte-identical to the
+previous final supplementary ZIP. Only its README was replaced.
+Code S1 checks rebuilt term membership and uses the archived display table
+for exact downstream replay. Historical S3 responses are reconstructed
+from audit results; original raw S3 XML was not preserved.
+
+ARCHIVED REPLAY: PASS
+All 15 stages ran successfully in a fresh output folder. The runner's
+comparisons passed for the 15 calculated Data outputs and bundled CSV
+intermediates. S1 term membership matched. S7 differs only in Cache_Used.
+Data S5 and S9 remain supplied reference tables.
+Final counts: 458 GPCRs, 33 cancers, 3,680 associations, 18,892 records,
+15,010 unique PMIDs, 16 categories, zero integrity failures.
+
+REFRESH COMPATIBILITY: PASS
+Modified refresh S11 and S12 were executed on the complete archived input
+records. S11 final records and S12 corrected final records were each
+byte-identical to their historical counterparts. Automatic search,
+alias-assessment, ambiguity, and classification rules remain unchanged.
+Refresh-specific modifications are documented in Refresh/CHANGES.md;
+they are additions for future runs, not historical code provenance.
+
+FOCUSED REFRESH TESTS: 11 PASSED
+Refresh/tests/test_refresh.py uses synthetic records and simulated services.
+Checks cover preserved scientific functions, raw-response persistence and
+reuse, hash verification, failed downloads, input preflight, interruption
+recovery and attempt logs, original collision-rule compatibility, actual
+stage execution through the runner worker, new context/ambiguity reviews,
+KEEP and REJECT paths, and invalid/incomplete decisions.
+
+SMALL LIVE SOURCE CHECKS: PASS
+UniProt: Q92633 retrieved and parsed as LPAR1 with seven terminology terms.
+HGNC: current complete-set TSV retrieved and accepted by input preflight.
+PubMed ESearch: an LPAR1 query returned two PMIDs at a probe-only limit of
+two; raw XML was saved and reused. Packaged search limits are unchanged.
+PubMed EFetch: PMID 10632375 retrieved and title/abstract metadata parsed.
+
+SCOPE
+A complete new live collection has not been run. It requires the user's
+NCBI_EMAIL, current HGNC input, and current curator decisions at review
+pauses. New results are not expected to match the historical counts.
+CODE_VERSIONS.json identifies the delivered code versions. Refresh state,
+logs, raw responses, and review records provide provenance for each new run;
+code hashes alone do not establish when the historical code was executed.
+
+ENVIRONMENT
+Linux x86_64; Python 3.12.14; pandas 2.2.3; requests 2.34.2;
+Biopython 1.88. The archived replay uses the bundled Offline_Guard.

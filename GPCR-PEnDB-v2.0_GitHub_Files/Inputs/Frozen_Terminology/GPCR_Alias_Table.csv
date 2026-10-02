@@ -1,0 +1,833 @@
+UniProt_ID,Original_Gene,Official_Gene,Protein_Name,Search_Terms
+Q16570,ACKR1,ACKR1,Atypical chemokine receptor 1,ACKR1;Atypical chemokine receptor 1;DARC;Duffy antigen receptor for chemokines;Duffy antigen/chemokine receptor;Duffy blood group antigen;FY;Fy glycoprotein;Glycoprotein D;GPD;GpFy;Plasmodium vivax receptor
+O00590,ACKR2,ACKR2,Atypical chemokine receptor 2,ACKR2;Atypical chemokine receptor 2;C-C chemokine receptor D6;CCBP2;CCR10;Chemokine receptor CCR-10;Chemokine receptor CCR-9;Chemokine-binding protein 2;Chemokine-binding protein D6;CMKBR9;D6
+P25106,ACKR3,ACKR3,Atypical chemokine receptor 3,ACKR3;Atypical chemokine receptor 3;C-X-C chemokine receptor type 7;Chemokine orphan receptor 1;CMKOR1;CXC-R7;CXCR-7;CXCR7;G protein-coupled receptor 159;G protein-coupled receptor RDC1 homolog;GPR159;RDC-1;RDC1
+Q9NPB9,ACKR4,ACKR4,Atypical chemokine receptor 4,ACKR4;Atypical chemokine receptor 4;C-C chemokine receptor type 11;C-C CKR-11;CC chemokine receptor-like 1;CC-CKR-11;CCBP2;CCR-11;CCR11;CCRL1;CCX CKR;VSHK1
+P41586,ADCYAP1R1,ADCYAP1R1,Pituitary adenylate cyclase-activating polypeptide type I receptor,ADCYAP1R1;PAC1 receptor;PAC1R;PACAP type I receptor;PACAP-R-1;PACAP-R1;Pituitary adenylate cyclase-activating polypeptide type I receptor
+Q86SQ6,ADGRA1,ADGRA1,Adhesion G protein-coupled receptor A1,ADGRA1;Adhesion G protein-coupled receptor A1;G protein-coupled receptor 123;GPR123;KIAA1828
+Q96PE1,ADGRA2,ADGRA2,Adhesion G protein-coupled receptor A2,ADGRA2;Adhesion G protein-coupled receptor A2;G protein-coupled receptor 124;GPR124;KIAA1531;TEM5;Tumor endothelial marker 5
+Q8IWK6,ADGRA3,ADGRA3,Adhesion G protein-coupled receptor A3,ADGRA3;Adhesion G protein-coupled receptor A3;G protein-coupled receptor 125;GPR125;UNQ556/PRO1113
+O14514,ADGRB1,ADGRB1,Adhesion G protein-coupled receptor B1,ADGRB1;Adhesion G protein-coupled receptor B1;BAI1;Brain-specific angiogenesis inhibitor 1
+O60241,ADGRB2,ADGRB2,Adhesion G protein-coupled receptor B2,ADGRB2;Adhesion G protein-coupled receptor B2;BAI2;Brain-specific angiogenesis inhibitor 2
+O60242,ADGRB3,ADGRB3,Adhesion G protein-coupled receptor B3,ADGRB3;Adhesion G protein-coupled receptor B3;BAI3;Brain-specific angiogenesis inhibitor 3;KIAA0550
+Q6QNK2,ADGRD1,ADGRD1,Adhesion G protein-coupled receptor D1,ADGRD1;Adhesion G protein-coupled receptor D1;G protein-coupled receptor 133;G protein-coupled receptor PGR25;GPR133;PGR25
+Q7Z7M1,ADGRD2,ADGRD2,Adhesion G protein-coupled receptor D2,ADGRD2;Adhesion G protein-coupled receptor D2;G protein-coupled receptor 144;G protein-coupled receptor PGR24;GPR144;PGR24
+Q14246,ADGRE1,ADGRE1,Adhesion G protein-coupled receptor E1,ADGRE1;Adhesion G protein-coupled receptor E1;EGF-like module receptor 1;EGF-like module-containing mucin-like hormone receptor-like 1;EMR1;EMR1 hormone receptor;TM7LN3
+Q9UHX3,ADGRE2,ADGRE2,Adhesion G protein-coupled receptor E2,ADGRE2;Adhesion G protein-coupled receptor E2;EGF-like module receptor 2;EGF-like module-containing mucin-like hormone receptor-like 2;EMR2
+Q9BY15,ADGRE3,ADGRE3,Adhesion G protein-coupled receptor E3,ADGRE3;Adhesion G protein-coupled receptor E3;EGF-like module receptor 3;EGF-like module-containing mucin-like hormone receptor-like 3;EMR3;UNQ683/PRO1562
+Q86SQ3,ADGRE4P,ADGRE4P,Putative adhesion G protein-coupled receptor E4P,ADGRE4P;EGF-like module receptor 4;EGF-like module-containing mucin-like hormone receptor-like 4;EMR4;EMR4P;G protein-coupled receptor 127;G protein-coupled receptor PGR16;GPR127;PGR16;Putative adhesion G protein-coupled receptor E4P
+Q5T601,ADGRF1,ADGRF1,Adhesion G protein-coupled receptor F1,ADGRF1;Adhesion G protein-coupled receptor F1;G protein-coupled receptor 110;G protein-coupled receptor KPG_012;GPR110;PGR19
+Q8IZF7,ADGRF2,ADGRF2P,Putative adhesion G protein-coupled receptor F2P,ADGRF2;ADGRF2P;Adhesion G protein-coupled receptor F2;G protein-coupled receptor 111;G protein-coupled receptor PGR20;GPR111;PGR20;Putative adhesion G protein-coupled receptor F2P
+Q8IZF5,ADGRF3,ADGRF3,Adhesion G protein-coupled receptor F3,ADGRF3;Adhesion G protein-coupled receptor F3;G protein-coupled receptor 113;G protein-coupled receptor PGR23;GPR113;PGR23;UNQ9196/PRO34000
+Q8IZF3,ADGRF4,ADGRF4,Adhesion G protein-coupled receptor F4,ADGRF4;Adhesion G protein-coupled receptor F4;G protein-coupled receptor 115;G protein-coupled receptor PGR18;GPR115;PGR18
+Q8IZF2,ADGRF5,ADGRF5,Adhesion G protein-coupled receptor F5,ADGRF5;Adhesion G protein-coupled receptor F5;G protein-coupled receptor 116;GPR116;KIAA0758
+Q9Y653,ADGRG1,ADGRG1,Adhesion G protein-coupled receptor G1,ADGRG1;Adhesion G protein-coupled receptor G1;G protein-coupled receptor 56;GPR56;TM7LN4;TM7XN1;UNQ540/PRO1083
+Q8IZP9,ADGRG2,ADGRG2,Adhesion G protein-coupled receptor G2,ADGRG2;Adhesion G protein-coupled receptor G2;G protein-coupled receptor 64;GPR64;HE6;He6;Human epididymis-specific protein 6;TM7LN2
+Q86Y34,ADGRG3,ADGRG3,Adhesion G protein-coupled receptor G3,ADGRG3;Adhesion G protein-coupled receptor G3;G protein-coupled receptor 97;GPR97;PGR26
+Q8IZF6,ADGRG4,ADGRG4,Adhesion G protein-coupled receptor G4,ADGRG4;Adhesion G protein-coupled receptor G4;G protein-coupled receptor 112;GPR112
+Q8IZF4,ADGRG5,ADGRG5,Adhesion G protein-coupled receptor G5,ADGRG5;Adhesion G protein-coupled receptor G5;G protein-coupled receptor 114;G protein-coupled receptor PGR27;GPR114;PGR27;UNQ2524/PRO6017
+Q86SQ4,ADGRG6,ADGRG6,Adhesion G protein-coupled receptor G6,ADGRG6;Adhesion G protein-coupled receptor G6;Developmentally regulated G protein-coupled receptor;DREG;G protein-coupled receptor 126;GPR126;Vascular inducible G protein-coupled receptor;VIGR
+Q96K78,ADGRG7,ADGRG7,Adhesion G protein-coupled receptor G7,ADGRG7;Adhesion G protein-coupled receptor G7;G protein-coupled receptor 128;GPR128
+O94910,ADGRL1,ADGRL1,Adhesion G protein-coupled receptor L1,ADGRL1;Adhesion G protein-coupled receptor L1;Calcium-independent alpha-latrotoxin receptor 1;CIRL-1;KIAA0821;Latrophilin-1;LEC2;Lectomedin-2;LPHN1
+O95490,ADGRL2,ADGRL2,Adhesion G protein-coupled receptor L2,ADGRL2;Adhesion G protein-coupled receptor L2;Calcium-independent alpha-latrotoxin receptor 2;CIRL-2;KIAA0786;Latrophilin homolog 1;Latrophilin-2;LEC1;Lectomedin-1;LPHH1;LPHN2
+Q9HAR2,ADGRL3,ADGRL3,Adhesion G protein-coupled receptor L3,ADGRL3;Adhesion G protein-coupled receptor L3;Calcium-independent alpha-latrotoxin receptor 3;CIRL-3;KIAA0768;Latrophilin-3;LEC3;Lectomedin-3;LPHN3
+Q9HBW9,ADGRL4,ADGRL4,Adhesion G protein-coupled receptor L4,"ADGRL4;Adhesion G protein-coupled receptor L4;EGF, latrophilin and seven transmembrane domain-containing protein 1;EGF-TM7-latrophilin-related protein;ELTD1;ETL;ETL protein;UNQ202/PRO228"
+Q8WXG9,ADGRV1,ADGRV1,Adhesion G protein-coupled receptor V1,ADGRV1;Adhesion G protein-coupled receptor V1;G protein-coupled receptor 98;GPR98;KIAA0686;KIAA1943;MASS1;Monogenic audiogenic seizure susceptibility protein 1 homolog;Usher syndrome type-2C protein;Very large G protein-coupled receptor 1;VLGR1
+P30542,ADORA1,ADORA1,Adenosine receptor A1,Adenosine receptor A1;ADORA1
+P29274,ADORA2A,ADORA2A,Adenosine receptor A2a,Adenosine receptor A2a;ADORA2;ADORA2A
+P29275,ADORA2B,ADORA2B,Adenosine receptor A2b,Adenosine receptor A2b;ADORA2B
+P0DMS8,ADORA3,ADORA3,Adenosine receptor A3,Adenosine receptor A3;ADORA3
+P35348,ADRA1A,ADRA1A,Alpha-1A adrenergic receptor,ADRA1A;ADRA1C;Alpha-1A adrenergic receptor;Alpha-1A adrenoceptor;Alpha-1A adrenoreceptor;Alpha-1C adrenergic receptor;Alpha-adrenergic receptor 1c
+P35368,ADRA1B,ADRA1B,Alpha-1B adrenergic receptor,ADRA1B;Alpha-1B adrenergic receptor;Alpha-1B adrenoceptor;Alpha-1B adrenoreceptor
+P25100,ADRA1D,ADRA1D,Alpha-1D adrenergic receptor,ADRA1A;ADRA1D;Alpha-1A adrenergic receptor;Alpha-1D adrenergic receptor;Alpha-1D adrenoceptor;Alpha-1D adrenoreceptor;Alpha-adrenergic receptor 1a
+P08913,ADRA2A,ADRA2A,Alpha-2A adrenergic receptor,ADRA2A;ADRA2R;ADRAR;Alpha-2 adrenergic receptor subtype C10;Alpha-2A adrenergic receptor;Alpha-2A adrenoceptor;Alpha-2A adrenoreceptor;Alpha-2AAR
+P18089,ADRA2B,ADRA2B,Alpha-2B adrenergic receptor,ADRA2B;ADRA2L1;ADRA2RL1;Alpha-2 adrenergic receptor subtype C2;Alpha-2B adrenergic receptor;Alpha-2B adrenoceptor;Alpha-2B adrenoreceptor;Alpha-2BAR
+P18825,ADRA2C,ADRA2C,Alpha-2C adrenergic receptor,ADRA2C;ADRA2L2;ADRA2RL2;Alpha-2 adrenergic receptor subtype C4;Alpha-2C adrenergic receptor;Alpha-2C adrenoceptor;Alpha-2C adrenoreceptor;Alpha-2CAR
+P08588,ADRB1,ADRB1,Beta-1 adrenergic receptor,ADRB1;ADRB1R;B1AR;Beta-1 adrenergic receptor;Beta-1 adrenoceptor;Beta-1 adrenoreceptor
+P07550,ADRB2,ADRB2,Beta-2 adrenergic receptor,ADRB2;ADRB2R;B2AR;Beta-2 adrenergic receptor;Beta-2 adrenoceptor;Beta-2 adrenoreceptor
+P13945,ADRB3,ADRB3,Beta-3 adrenergic receptor,ADRB3;ADRB3R;B3AR;Beta-3 adrenergic receptor;Beta-3 adrenoceptor;Beta-3 adrenoreceptor
+P30556,AGTR1,AGTR1,Type-1 angiotensin II receptor,AGTR1;AGTR1A;AGTR1B;Angiotensin II type-1 receptor;AT1 receptor;AT1AR;AT1BR;AT2R1;AT2R1B;Type-1 angiotensin II receptor
+P50052,AGTR2,AGTR2,Type-2 angiotensin II receptor,AGTR2;Angiotensin II type-2 receptor;AT2 receptor;Type-2 angiotensin II receptor
+P35414,APLNR,APLNR,Apelin receptor,AGTRL1;Angiotensin receptor-like 1;Apelin receptor;APJ;APLNR;G protein-coupled receptor APJ;G protein-coupled receptor HG11
+P37288,AVPR1A,AVPR1A,Vasopressin V1a receptor,Antidiuretic hormone receptor 1a;AVPR V1a;AVPR1;AVPR1A;V1aR;Vascular/hepatic-type arginine vasopressin receptor;Vasopressin V1a receptor
+P47901,AVPR1B,AVPR1B,Vasopressin V1b receptor,Antidiuretic hormone receptor 1b;AVPR V1b;AVPR V3;AVPR1B;AVPR3;V1bR;Vasopressin V1b receptor;Vasopressin V3 receptor;VPR3
+P30518,AVPR2,AVPR2,Vasopressin V2 receptor,ADHR;Antidiuretic hormone receptor;AVPR V2;AVPR2;DIR;DIR3;Renal-type arginine vasopressin receptor;V2R;Vasopressin V2 receptor
+P46663,BDKRB1,BDKRB1,B1 bradykinin receptor,B1 bradykinin receptor;B1R;BDKRB1;BK-1 receptor;BRADYB1
+P30411,BDKRB2,BDKRB2,B2 bradykinin receptor,B2 bradykinin receptor;B2R;BDKRB2;BK-2 receptor;BKR2
+P32247,BRS3,BRS3,Bombesin receptor subtype-3,Bombesin receptor subtype-3;BRS-3;BRS3
+Q16581,C3AR1,C3AR1,C3a anaphylatoxin chemotactic receptor,AZ3B;C3a anaphylatoxin chemotactic receptor;C3a-R;C3AR;C3AR1;C3R1;HNFAG09
+P21730,C5AR1,C5AR1,C5a anaphylatoxin chemotactic receptor 1,C5a anaphylatoxin chemotactic receptor;C5a anaphylatoxin chemotactic receptor 1;C5a-R;C5aR;C5AR;C5AR1;C5R1
+Q9P296,C5AR2,C5AR2,C5a anaphylatoxin chemotactic receptor 2,C5a anaphylatoxin chemotactic receptor 2;C5AR2;C5L2;Complement component 5a receptor 2;G protein-coupled receptor 77;GPR77
+P30988,CALCR,CALCR,Calcitonin receptor,Calcitonin receptor;CALCR;CT-R
+Q16602,CALCRL,CALCRL,Calcitonin gene-related peptide type 1 receptor,Calcitonin gene-related peptide type 1 receptor;Calcitonin receptor-like receptor;CALCRL;CGRP type 1 receptor;CGRPR;CRLR
+P41180,CASR,CASR,Extracellular calcium-sensing receptor,CaR;CASR;CaSR;Extracellular calcium-sensing receptor;GPRC2A;hCasR;Parathyroid cell calcium-sensing receptor 1;PCAR1;PCaR1
+P32238,CCKAR,CCKAR,Cholecystokinin receptor type A,CCK-A receptor;CCK-AR;CCK1-R;CCKAR;CCKRA;Cholecystokinin receptor type A;Cholecystokinin-1 receptor
+P32239,CCKBR,CCKBR,Gastrin/cholecystokinin type B receptor,CCK-B receptor;CCK-BR;CCK2-R;CCKBR;CCKRB;Cholecystokinin-2 receptor;Gastrin/cholecystokinin type B receptor
+P32246,CCR1,CCR1,C-C chemokine receptor type 1,C-C chemokine receptor type 1;C-C CKR-1;CC-CKR-1;CCR-1;CCR1;CMKBR1;CMKR1;HM145;LD78 receptor;Macrophage inflammatory protein 1-alpha receptor;MIP-1alpha-R;RANTES-R;SCYAR1
+P46092,CCR10,CCR10,C-C chemokine receptor type 10,C-C chemokine receptor type 10;C-C CKR-10;CC-CKR-10;CCR-10;CCR10;G protein-coupled receptor 2;GPR2
+P41597,CCR2,CCR2,C-C chemokine receptor type 2,C-C chemokine receptor type 2;C-C CKR-2;CC-CKR-2;CCR-2;CCR2;CMKBR2;MCP-1-R;Monocyte chemoattractant protein 1 receptor
+P51677,CCR3,CCR3,C-C chemokine receptor type 3,C C CKR3;C-C chemokine receptor type 3;C-C CKR-3;CC-CKR-3;CCR-3;CCR3;CKR 3;CKR3;CMKBR3;Eosinophil eotaxin receptor
+P51679,CCR4,CCR4,C-C chemokine receptor type 4,C-C chemokine receptor type 4;C-C CKR-4;CC-CKR-4;CCR-4;CCR4;CMKBR4;K5-5
+P51681,CCR5,CCR5,C-C chemokine receptor type 5,C-C chemokine receptor type 5;C-C CKR-5;CC-CKR-5;CCR-5;CCR5;CHEMR13;CMKBR5;HIV-1 fusion coreceptor
+P51684,CCR6,CCR6,C-C chemokine receptor type 6,C-C chemokine receptor type 6;C-C CKR-6;CC-CKR-6;CCR-6;CCR6;Chemokine receptor-like 3;CKR-L3;CKRL3;CMKBR6;DRY6;G protein-coupled receptor 29;GPR-CY4;GPR29;GPRCY4;LARC receptor;STRL22
+P32248,CCR7,CCR7,C-C chemokine receptor type 7,BLR2;C-C chemokine receptor type 7;C-C CKR-7;CC-CKR-7;CCR-7;CCR7;CDw197;CMKBR7;EBI1;EBV-induced G protein-coupled receptor 1;Epstein-Barr virus-induced G protein-coupled receptor 1;EVI1;MIP-3 beta receptor
+P51685,CCR8,CCR8,C-C chemokine receptor type 8,C-C chemokine receptor type 8;C-C CKR-8;CC chemokine receptor CHEMR1;CC-CKR-8;CCR-8;CCR8;Chemokine receptor-like 1;CKR-L1;CKRL1;CMKBR8;CMKBRL2;GPR-CY6;GPRCY6;TER1
+P51686,CCR9,CCR9,C-C chemokine receptor type 9,C-C chemokine receptor type 9;C-C CKR-9;CC-CKR-9;CCR-9;CCR9;G protein-coupled receptor 28;GPR-9-6;GPR28
+O00421,CCRL2,CCRL2,C-C chemokine receptor-like 2,C-C chemokine receptor-like 2;CCR11;CCR6;CCRL2;Chemokine receptor CCR11;Chemokine receptor X;CKRX;CRAM;HCR;Putative MCP-1 chemokine receptor
+P48960,CD97,ADGRE5,Adhesion G protein-coupled receptor E5,ADGRE5;Adhesion G protein-coupled receptor E5;CD97;Leukocyte antigen CD97
+Q9NYQ6,CELSR1,CELSR1,Cadherin EGF LAG seven-pass G-type receptor 1,Cadherin EGF LAG seven-pass G-type receptor 1;Cadherin family member 9;CDHF9;CELSR1;Flamingo homolog 2;FMI2;hFmi2
+Q9HCU4,CELSR2,CELSR2,Cadherin EGF LAG seven-pass G-type receptor 2,Cadherin EGF LAG seven-pass G-type receptor 2;Cadherin family member 10;CDHF10;CELSR2;EGF-like protein 2;EGFL2;Epidermal growth factor-like protein 2;Flamingo homolog 3;KIAA0279;MEGF3;Multiple EGF-like domains protein 3;Multiple epidermal growth factor-like domains protein 3
+Q9NYQ7,CELSR3,CELSR3,Cadherin EGF LAG seven-pass G-type receptor 3,Cadherin EGF LAG seven-pass G-type receptor 3;Cadherin family member 11;CDHF11;CELSR3;EGF-like protein 1;EGFL1;Epidermal growth factor-like protein 1;Flamingo homolog 1;FMI1;hFmi1;KIAA0812;MEGF2;Multiple EGF-like domains protein 2;Multiple epidermal growth factor-like domains protein 2
+P11229,CHRM1,CHRM1,Muscarinic acetylcholine receptor M1,CHRM1;Muscarinic acetylcholine receptor M1
+P08172,CHRM2,CHRM2,Muscarinic acetylcholine receptor M2,CHRM2;Muscarinic acetylcholine receptor M2
+P20309,CHRM3,CHRM3,Muscarinic acetylcholine receptor M3,CHRM3;Muscarinic acetylcholine receptor M3
+P08173,CHRM4,CHRM4,Muscarinic acetylcholine receptor M4,CHRM4;Muscarinic acetylcholine receptor M4
+P08912,CHRM5,CHRM5,Muscarinic acetylcholine receptor M5,CHRM5;Muscarinic acetylcholine receptor M5
+Q99788,CMKLR1,CMKLR1,Chemerin-like receptor 1,Chemerin-like receptor 1;Chemokine-like receptor 1;CHEMR23;CMKLR1;DEZ;G protein-coupled receptor ChemR23;G protein-coupled receptor DEZ
+P21554,CNR1,CNR1,Cannabinoid receptor 1,CANN6;Cannabinoid receptor 1;CB-R;CB1;CNR;CNR1
+P34972,CNR2,CNR2,Cannabinoid receptor 2,Cannabinoid receptor 2;CB-2;CB2;CB2A;CB2B;CNR2;CX5;hCB2
+P34998,CRHR1,CRHR1,Corticotropin-releasing hormone receptor 1,Corticotropin-releasing factor receptor 1;Corticotropin-releasing hormone receptor 1;CRF-R-1;CRF-R1;CRFR;CRFR-1;CRFR1;CRH-R-1;CRH-R1;CRHR;CRHR1
+Q13324,CRHR2,CRHR2,Corticotropin-releasing hormone receptor 2,Corticotropin-releasing factor receptor 2;Corticotropin-releasing hormone receptor 2;CRF-R-2;CRF-R2;CRF2R;CRFR-2;CRH-R-2;CRH-R2;CRH2R;CRHR2
+P49238,CX3CR1,CX3CR1,CX3C chemokine receptor 1,Beta chemokine receptor-like 1;C-X3-C CKR-1;CMK-BRL-1;CMK-BRL1;CMKBRL1;CX3C chemokine receptor 1;CX3CR1;Fractalkine receptor;G protein-coupled receptor 13;GPR13;V28
+P25024,CXCR1,CXCR1,C-X-C chemokine receptor type 1,C-X-C chemokine receptor type 1;CDw128a;CMKAR1;CXC-R1;CXCR-1;CXCR1;High affinity interleukin-8 receptor A;IL-8 receptor type 1;IL-8R A;IL8RA
+P25025,CXCR2,CXCR2,C-X-C chemokine receptor type 2,C-X-C chemokine receptor type 2;CDw128b;CXC-R2;CXCR-2;CXCR2;GRO/MGSA receptor;High affinity interleukin-8 receptor B;IL-8 receptor type 2;IL-8R B;IL8RB
+P49682,CXCR3,CXCR3,C-X-C chemokine receptor type 3,C-X-C chemokine receptor type 3;CKR-L2;CXC-R3;CXCR-3;CXCR3;G protein-coupled receptor 9;GPR9;Interferon-inducible protein 10 receptor;IP-10 receptor
+P61073,CXCR4,CXCR4,C-X-C chemokine receptor type 4,C-X-C chemokine receptor type 4;CXC-R4;CXCR-4;CXCR4;FB22;Fusin;HM89;LAP-3;LCR1;LESTR;Leukocyte-derived seven transmembrane domain receptor;Lipopolysaccharide-associated protein 3;LPS-associated protein 3;NPYRL;SDF-1 receptor;Stromal cell-derived factor 1 receptor
+P32302,CXCR5,CXCR5,C-X-C chemokine receptor type 5,BLR1;Burkitt lymphoma receptor 1;C-X-C chemokine receptor type 5;CXC-R5;CXCR-5;CXCR5;MDR-15;MDR15;Monocyte-derived receptor 15
+O00574,CXCR6,CXCR6,C-X-C chemokine receptor type 6,BONZO;C-X-C chemokine receptor type 6;CDw186;CXC-R6;CXCR-6;CXCR6;G protein-coupled receptor bonzo;G protein-coupled receptor STRL33;STRL33;TYMSTR
+Q9Y271,CYSLTR1,CYSLTR1,Cysteinyl leukotriene receptor 1,CYSLT1;CYSLTR1;CysLTR1;Cysteinyl leukotriene D4 receptor;Cysteinyl leukotriene receptor 1;G protein-coupled receptor HG55;HMTMF81;LTD4 receptor
+Q9NS75,CYSLTR2,CYSLTR2,Cysteinyl leukotriene receptor 2,CYSLT2;CYSLT2R;CYSLTR2;CysLTR2;Cysteinyl leukotriene receptor 2;G protein-coupled receptor GPCR21;G protein-coupled receptor HG57;hGPCR21;HPN321;PSEC0146
+P21728,DRD1,DRD1,D(1A) dopamine receptor,D(1A) dopamine receptor;Dopamine D1 receptor;DRD1
+P14416,DRD2,DRD2,D(2) dopamine receptor,D(2) dopamine receptor;Dopamine D2 receptor;DRD2
+P35462,DRD3,DRD3,D(3) dopamine receptor,D(3) dopamine receptor;Dopamine D3 receptor;DRD3
+P21917,DRD4,DRD4,D(4) dopamine receptor,D(2C) dopamine receptor;D(4) dopamine receptor;Dopamine D4 receptor;DRD4
+P21918,DRD5,DRD5,D(1B) dopamine receptor,D(1B) dopamine receptor;D(5) dopamine receptor;D1beta dopamine receptor;Dopamine D5 receptor;DRD1B;DRD1L2;DRD5
+P25101,EDNRA,EDNRA,Endothelin-1 receptor,EDNRA;Endothelin receptor type A;Endothelin-1 receptor;ET-A;ETA;ETA-R;ETRA;hET-AR
+P24530,EDNRB,EDNRB,Endothelin receptor type B,EDNRB;Endothelin receptor non-selective type;Endothelin receptor type B;ET-B;ET-BR;ETRB
+P25116,F2R,F2R,Proteinase-activated receptor 1,CF2R;Coagulation factor II receptor;F2R;PAR-1;PAR1;Proteinase-activated receptor 1;Thrombin receptor;TR
+P55085,F2RL1,F2RL1,Proteinase-activated receptor 2,Coagulation factor II receptor-like 1;F2RL1;G protein-coupled receptor 11;GPR11;PAR-2;PAR2;Proteinase-activated receptor 2;Thrombin receptor-like 1
+O00254,F2RL2,F2RL2,Proteinase-activated receptor 3,Coagulation factor II receptor-like 2;F2RL2;PAR-3;PAR3;Proteinase-activated receptor 3;Thrombin receptor-like 2
+Q96RI0,F2RL3,F2RL3,Proteinase-activated receptor 4,Coagulation factor II receptor-like 3;F2RL3;PAR-4;PAR4;Proteinase-activated receptor 4;Thrombin receptor-like 3
+O14842,FFAR1,FFAR1,Free fatty acid receptor 1,FFAR1;Free fatty acid receptor 1;G protein-coupled receptor 40;GPR40
+O15552,FFAR2,FFAR2,Free fatty acid receptor 2,FFA2;FFAR2;Free fatty acid receptor 2;G protein-coupled receptor 43;GPCR43;GPR43
+O14843,FFAR3,FFAR3,Free fatty acid receptor 3,FFAR3;Free fatty acid receptor 3;G protein-coupled receptor 41;GPR41
+Q5NUL3,FFAR4,FFAR4,Free fatty acid receptor 4,FFAR4;Free fatty acid receptor 4;G protein-coupled receptor 120;G protein-coupled receptor 129;G protein-coupled receptor GT01;G protein-coupled receptor PGR4;GPR120;GPR129;O3FAR1;Omega-3 fatty acid receptor 1;PGR4
+P21462,FPR1,FPR1,N-formyl peptide receptor 1,fMet-Leu-Phe receptor;fMLP receptor;FPR1;N-formyl peptide receptor 1;N-formylpeptide chemoattractant receptor
+P25090,FPR2,FPR2,N-formyl peptide receptor 2,ALX;FMLP-R-I;FMLP-related receptor I;Formyl peptide receptor-like 1;FPR2;FPRH1;FPRL1;HM63;Lipoxin A4 receptor;LXA4 receptor;LXA4R;N-formyl peptide receptor 2;RFP
+P25089,FPR3,FPR3,N-formyl peptide receptor 3,FMLP-R-II;FMLP-related receptor II;Formyl peptide receptor-like 2;FPR3;FPRL2;N-formyl peptide receptor 3
+P23945,FSHR,FSHR,Follicle-stimulating hormone receptor,Follicle-stimulating hormone receptor;Follitropin receptor;FSH-R;FSHR;LGR1
+Q9UP38,FZD1,FZD1,Frizzled-1,Frizzled-1;Fz-1;FZD1;FzE1;hFz1
+Q9ULW2,FZD10,FZD10,Frizzled-10,Frizzled-10;Fz-10;FZD10;FzE7;hFz10
+Q14332,FZD2,FZD2,Frizzled-2,Frizzled-2;Fz-2;FZD2;FzE2;hFz2
+Q9NPG1,FZD3,FZD3,Frizzled-3,Frizzled-3;Fz-3;FZD3;hFz3
+Q9ULV1,FZD4,FZD4,Frizzled-4,Frizzled-4;Fz-4;FZD4;FzE4;hFz4
+Q13467,FZD5,FZD5,Frizzled-5,C2orf31;Frizzled-5;Fz-5;FZD5;FzE5;hFz5
+O60353,FZD6,FZD6,Frizzled-6,Frizzled-6;Fz-6;FZD6;hFz6
+O75084,FZD7,FZD7,Frizzled-7,Frizzled-7;Fz-7;FZD7;FzE3;hFz7
+Q9H461,FZD8,FZD8,Frizzled-8,Frizzled-8;Fz-8;FZD8;hFz8
+O00144,FZD9,FZD9,Frizzled-9,Frizzled-9;Fz-9;FZD3;FZD9;FzE6;hFz9
+Q9UBS5,GABBR1,GABBR1,Gamma-aminobutyric acid type B receptor subunit 1,GABA-B receptor 1;GABA-B-R1;GABA-BR1;GABABR1;GABBR1;Gamma-aminobutyric acid type B receptor subunit 1;Gb1;GPRC3A
+O75899,GABBR2,GABBR2,Gamma-aminobutyric acid type B receptor subunit 2,G protein-coupled receptor 51;GABA-B receptor 2;GABA-B-R2;GABA-BR2;GABABR2;GABBR2;Gamma-aminobutyric acid type B receptor subunit 2;Gb2;GPR51;GPRC3B;HG20
+P47211,GALR1,GALR1,Galanin receptor type 1,GAL1-R;Galanin receptor type 1;GALNR;GALNR1;GALR-1;GALR1
+O43603,GALR2,GALR2,Galanin receptor type 2,GAL2-R;Galanin receptor type 2;GALNR2;GALR-2;GALR2
+O60755,GALR3,GALR3,Galanin receptor type 3,GAL3-R;Galanin receptor type 3;GALNR3;GALR-3;GALR3
+P47871,GCGR,GCGR,Glucagon receptor,GCGR;GL-R;Glucagon receptor
+Q02643,GHRHR,GHRHR,Growth hormone-releasing hormone receptor,GHRH receptor;GHRHR;GRF receptor;GRFR;Growth hormone-releasing factor receptor;Growth hormone-releasing hormone receptor
+Q92847,GHSR,GHSR,Growth hormone secretagogue receptor type 1,GH-releasing peptide receptor;Ghrelin receptor;GHRP;GHS-R;GHSR;Growth hormone secretagogue receptor type 1
+P48546,GIPR,GIPR,Gastric inhibitory polypeptide receptor,Gastric inhibitory polypeptide receptor;GIP-R;GIPR;Glucose-dependent insulinotropic polypeptide receptor
+P43220,GLP1R,GLP1R,Glucagon-like peptide 1 receptor,GLP-1 receptor;GLP-1-R;GLP-1R;GLP1R;Glucagon-like peptide 1 receptor
+O95838,GLP2R,GLP2R,Glucagon-like peptide 2 receptor,GLP-2 receptor;GLP-2-R;GLP-2R;GLP2R;Glucagon-like peptide 2 receptor
+P30968,GNRHR,GNRHR,Gonadotropin-releasing hormone receptor,GnRH receptor;GnRH-R;GNRHR;Gonadotropin-releasing hormone receptor;GRHR
+Q96P88,GNRHR2,GNRHR2,Putative gonadotropin-releasing hormone II receptor,GnRH II receptor;GnRH-II-R;GNRHR2;Putative gonadotropin-releasing hormone II receptor;Type II GnRH receptor
+Q8TDU6,GPBAR1,GPBAR1,G protein-coupled bile acid receptor 1,BG37;G protein-coupled bile acid receptor 1;G protein-coupled receptor GPCR19;GPBAR1;hBG37;hGPCR19;M-BAR;Membrane-type receptor for bile acids;TGR5
+Q99527,GPER1,GPER1,G protein-coupled estrogen receptor 1,CEPR;Chemoattractant receptor-like 2;CMKRL2;DRY12;FEG-1;Flow-induced endothelial G protein-coupled receptor 1;G protein-coupled estrogen receptor 1;G protein-coupled receptor 30;GPCR-Br;GPER;GPER1;GPR30;IL8-related receptor DRY12;LYGPR;Lymphocyte-derived G protein-coupled receptor;Membrane estrogen receptor;mER
+P46091,GPR1,CMKLR2,Chemerin-like receptor 2,Chemerin chemokine-like receptor 2;Chemerin-like receptor 2;Chemokine-like receptor 2;CMKLR2;G protein-coupled receptor 1;GPR1
+Q96P66,GPR101,GPR101,Probable G protein-coupled receptor 101,GPR101;Probable G protein-coupled receptor 101
+Q8TDV5,GPR119,GPR119,Glucose-dependent insulinotropic receptor,G protein-coupled receptor 119;Glucose-dependent insulinotropic receptor;GPR119
+P47775,GPR12,GPR12,G protein-coupled receptor 12,G protein-coupled receptor 12;GPR12
+Q9UNW8,GPR132,GPR132,Probable G protein-coupled receptor 132,G2 accumulation protein;G2A;GPR132;Probable G protein-coupled receptor 132
+Q8IZ08,GPR135,GPR135,G protein-coupled receptor 135,G protein-coupled receptor 135;GPR135
+O60478,GPR137B,GPR137B,Integral membrane protein GPR137B,GPR137B;Integral membrane protein GPR137B;TM7SF1;Transmembrane 7 superfamily member 1 protein
+Q6DWJ6,GPR139,GPR139,Probable G protein-coupled receptor 139,G protein-coupled receptor PGR3;G(q)-coupled orphan receptor GPRg1;GPR139;GPRG1;PGR3;Probable G protein-coupled receptor 139
+Q7Z602,GPR141,GPR141,Probable G protein-coupled receptor 141,G protein-coupled receptor PGR13;GPR141;PGR13;Probable G protein-coupled receptor 141
+Q7Z601,GPR142,GPR142,G protein-coupled receptor 142,G protein-coupled receptor 142;G protein-coupled receptor PGR2;GPR142;GPRG1B;PGR2
+Q96CH1,GPR146,GPR146,G protein-coupled receptor 146,G protein-coupled receptor 146;G protein-coupled receptor PGR8;GPR146;PGR8
+Q8TDV2,GPR148,GPR148,Probable G protein-coupled receptor 148,Brain and testis restricted GPCR;BTR;G protein-coupled receptor PGR6;GPR148;PGR6;Probable G protein-coupled receptor 148
+Q86SP6,GPR149,GPR149,Probable G protein-coupled receptor 149,G protein-coupled receptor PGR10;GPR149;PGR10;Probable G protein-coupled receptor 149
+P49685,GPR15,GPR15,G protein-coupled receptor 15,BoB;Brother of Bonzo;G protein-coupled receptor 15;GPR15
+Q8NGU9,GPR150,GPR150,Probable G protein-coupled receptor 150,GPR150;Probable G protein-coupled receptor 150
+Q8TDV0,GPR151,GPR151,G protein-coupled receptor 151,G protein-coupled receptor 151;G protein-coupled receptor PGR7;Galanin receptor 4;Galanin-receptor-like protein;GALR4;GALRL;GalRL;GPCR-2037;GPR151;PGR7
+Q8TDT2,GPR152,GPR152,Probable G protein-coupled receptor 152,G protein-coupled receptor PGR5;GPR152;PGR5;Probable G protein-coupled receptor 152
+Q6NV75,GPR153,GPR153,Probable G protein-coupled receptor 153,G protein-coupled receptor PGR1;GPR153;PGR1;Probable G protein-coupled receptor 153
+Q8NFN8,GPR156,GPR156,Probable G protein-coupled receptor 156,G protein-coupled receptor PGR28;GABAB-related G protein-coupled receptor;GABABL;GPR156;PGR28;Probable G protein-coupled receptor 156
+Q5UAW9,GPR157,GPR157,G protein-coupled receptor 157,G protein-coupled receptor 157;GPR157
+Q5T848,GPR158,GPR158,Metabotropic glycine receptor,G protein-coupled receptor 158;GPR158;KIAA1136;Metabotropic glycine receptor;mGlyR
+Q9UJ42,GPR160,GPR160,Probable G protein-coupled receptor 160,G protein-coupled receptor GPCR1;GPCR150;GPR160;hGPCR1;Probable G protein-coupled receptor 160
+Q8N6U8,GPR161,GPR161,G protein-coupled receptor 161,G protein-coupled receptor 161;G protein-coupled receptor RE2;GPR161
+Q16538,GPR162,GPR162,Probable G protein-coupled receptor 162,Gene-rich cluster gene A protein;GPR162;GRCA;Probable G protein-coupled receptor 162
+Q13304,GPR17,GPR17,Uracil nucleotide/cysteinyl leukotriene receptor,G protein-coupled receptor 17;GPR17;P2Y-like receptor;R12;UDP/CysLT receptor;Uracil nucleotide/cysteinyl leukotriene receptor
+O14626,GPR171,GPR171,G protein-coupled receptor 171,G protein-coupled receptor 171;G protein-coupled receptor H963;GPR171;H963
+Q9NS66,GPR173,GPR173,Probable G protein-coupled receptor 173,GPR173;Probable G protein-coupled receptor 173;SREB3;Super conserved receptor expressed in brain 3
+Q9BXC1,GPR174,GPR174,Probable G protein-coupled receptor 174,FKSG79;GPCR17;GPR174;Probable G protein-coupled receptor 174
+Q14439,GPR176,GPR176,G protein-coupled receptor 176,G protein-coupled receptor 176;GPR176;HB-954
+Q6PRD1,GPR179,GPR179,Probable G protein-coupled receptor 179,GPR158-like;GPR158L;GPR158L1;GPR179;Probable G protein-coupled receptor 158-like 1;Probable G protein-coupled receptor 179
+Q14330,GPR18,GPR18,N-arachidonyl glycine receptor,G protein-coupled receptor 18;GPCRW;GPR18;N-arachidonyl glycine receptor;NAGly receptor
+O15218,GPR182,ACKR5,Atypical chemokine receptor 5,ACKR5;ADMR;Atypical chemokine receptor 5;G protein-coupled receptor 182;GPR182
+P32249,GPR183,GPR183,G protein-coupled receptor 183,EBI2;EBV-induced G protein-coupled receptor 2;Epstein-Barr virus-induced G protein-coupled receptor 2;G protein-coupled receptor 183;GPR183;hEBI2
+Q15760,GPR19,GPR19,Probable G protein-coupled receptor 19,GPR-NGA;GPR19;Probable G protein-coupled receptor 19
+Q99678,GPR20,GPR20,G protein-coupled receptor 20,G protein-coupled receptor 20;GPR20
+Q99679,GPR21,GPR21,Probable G protein-coupled receptor 21,GPR21;Probable G protein-coupled receptor 21
+Q99680,GPR22,GPR22,G protein-coupled receptor 22,G protein-coupled receptor 22;GPR22
+O00155,GPR25,GPR25,C-X-C chemokine receptor GPR25,C-X-C chemokine receptor GPR25;G protein-coupled receptor 25;GPR25
+Q8NDV2,GPR26,GPR26,G protein-coupled receptor 26,G protein-coupled receptor 26;GPR26
+Q9NS67,GPR27,GPR27,Probable G protein-coupled receptor 27,GPR27;Probable G protein-coupled receptor 27;SREB1;Super conserved receptor expressed in brain 1
+P46089,GPR3,GPR3,G protein-coupled receptor 3,ACCA;ACCA orphan receptor;G protein-coupled receptor 3;GPR3
+O00270,GPR31,GPR31,"12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor","12-(S)-HETE receptor;12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor;12-HETER;G protein-coupled receptor 31;GPR31;GPR31/12-HETER"
+O75388,GPR32,GPR32,Probable G protein-coupled receptor 32,GPR32;Probable G protein-coupled receptor 32
+Q8NGA4,GPR32P1,GPR32P1,Putative G protein-coupled receptor GPR32P1,G protein-coupled 32 pseudogene;G protein-coupled 32 pseudogene 1;G protein-coupled receptor GPCR39;GPR32P1;hGPCR39;Putative G protein-coupled receptor GPR32P1
+Q49SQ1,GPR33,GPR33,Probable G protein-coupled receptor 33,GPR33;Probable G protein-coupled receptor 33
+Q9UPC5,GPR34,GPR34,Probable G protein-coupled receptor 34,GPR34;Probable G protein-coupled receptor 34
+Q9HC97,GPR35,GPR35,G protein-coupled receptor 35,G protein-coupled receptor 35;GPR35;KYNA receptor;Kynurenic acid receptor
+O15354,GPR37,GPR37,Prosaposin receptor GPR37,Endothelin B receptor-like protein 1;ETBR-LP-1;G protein-coupled receptor 37;GPR37;PAELR;Parkin-associated endothelin receptor-like receptor;Prosaposin receptor GPR37
+O60883,GPR37L1,GPR37L1,G protein-coupled receptor 37-like 1,Endothelin B receptor-like protein 2;ETBR-LP-2;ETBRLP2;G protein-coupled receptor 37-like 1;GPR37L1
+O43194,GPR39,GPR39,G protein-coupled receptor 39,G protein-coupled receptor 39;GPR39
+P46093,GPR4,GPR4,G protein-coupled receptor 4,G protein-coupled receptor 4;G protein-coupled receptor 6C.l;GPR4;GPR6C.l;hGPR4
+O15529,GPR42,GPR42,G protein-coupled receptor 42,G protein-coupled receptor 42;GPR42;GPR42P
+Q9Y5Y3,GPR45,GPR45,Probable G protein-coupled receptor 45,GPR45;Probable G protein-coupled receptor 45
+Q13585,GPR50,GPR50,Melatonin-related receptor,G protein-coupled receptor 50;GPR50;H9;Melatonin-related receptor
+Q9Y2T5,GPR52,GPR52,G protein-coupled receptor 52,G protein-coupled receptor 52;GPR52
+Q9Y2T6,GPR55,GPR55,G protein-coupled receptor 55,G protein-coupled receptor 55;GPR55
+P46095,GPR6,GPR6,G protein-coupled receptor 6,G protein-coupled receptor 6;GPR6;Sphingosine 1-phosphate receptor GPR6
+Q9BZJ8,GPR61,GPR61,G protein-coupled receptor 61,BALGR;Biogenic amine receptor-like G protein-coupled receptor;G protein-coupled receptor 61;GPCR3;GPR61
+Q9BZJ7,GPR62,GPR62,G protein-coupled receptor 62,G protein-coupled receptor 62;G protein-coupled receptor GPCR8;G protein-coupled receptor KPG_005;GPR62;hGPCR8
+Q9BZJ6,GPR63,GPR63,Probable G protein-coupled receptor 63,GPR63;Probable G protein-coupled receptor 63;PSP24-2;PSP24-beta;PSP24B
+Q8IYL9,GPR65,GPR65,G protein-coupled receptor 65,G protein-coupled receptor 65;GPR65;Psychosine receptor;T-cell death-associated gene 8 protein;TDAG8
+Q15743,GPR68,GPR68,G protein-coupled receptor 68,G protein-coupled receptor 12A;G protein-coupled receptor 68;GPR12A;GPR68;OGR-1;OGR1;Ovarian cancer G protein-coupled receptor 1
+O95800,GPR75,GPR75,Probable G protein-coupled receptor 75,GPR75;Probable G protein-coupled receptor 75
+Q96P69,GPR78,GPR78,G protein-coupled receptor 78,G protein-coupled receptor 78;GPR78;UNQ5925/PRO19818
+Q96P67,GPR82,GPR82,Probable G protein-coupled receptor 82,GPR82;Probable G protein-coupled receptor 82
+Q9NYM4,GPR83,GPR83,G protein-coupled receptor 83,G protein-coupled receptor 72;G protein-coupled receptor 83;GPR72;GPR83;JP05;KIAA1540
+Q9NQS5,GPR84,GPR84,G protein-coupled receptor 84,EX33;G protein-coupled receptor 84;GPR84;Inflammation-related G protein-coupled receptor EX33
+P60893,GPR85,GPR85,Probable G protein-coupled receptor 85,GPR85;Probable G protein-coupled receptor 85;SREB2;Super conserved receptor expressed in brain 2
+Q9BY21,GPR87,GPR87,G protein-coupled receptor 87,FKSG78;G protein-coupled receptor 87;G protein-coupled receptor 95;GPR87;GPR95
+Q9GZN0,GPR88,GPR88,G protein-coupled receptor 88,G protein-coupled receptor 88;GPR88;STRG;Striatum-specific G protein-coupled receptor
+Q8NFJ5,GPRC5A,GPRC5A,Retinoic acid-induced protein 3,G protein-coupled receptor family C group 5 member A;GPCR5A;GPRC5A;PEIG-1;Phorbol ester induced gene 1;RAI3;RAIG-1;RAIG1;Retinoic acid-induced gene 1 protein;Retinoic acid-induced protein 3
+Q9NZH0,GPRC5B,GPRC5B,G protein-coupled receptor family C group 5 member B,A-69G12.1;G protein-coupled receptor family C group 5 member B;GPRC5B;RAIG-2;RAIG2;Retinoic acid-induced gene 2 protein
+Q9NQ84,GPRC5C,GPRC5C,G protein-coupled receptor family C group 5 member C,G protein-coupled receptor family C group 5 member C;GPRC5C;PSEC0087;RAIG-3;RAIG3;Retinoic acid-induced gene 3 protein
+Q9NZD1,GPRC5D,GPRC5D,G protein-coupled receptor family C group 5 member D,G protein-coupled receptor family C group 5 member D;GPRC5D
+Q5T6X5,GPRC6A,GPRC6A,G protein-coupled receptor family C group 6 member A,G protein-coupled receptor family C group 6 member A;G protein-coupled receptor GPCR33;GPRC6A;hGPCR33;hGPRC6A
+Q13255,GRM1,GRM1,Metabotropic glutamate receptor 1,GPRC1A;GRM1;Metabotropic glutamate receptor 1;MGLUR1;mGluR1
+Q14416,GRM2,GRM2,Metabotropic glutamate receptor 2,GPRC1B;GRM2;Metabotropic glutamate receptor 2;mGluR2;MGLUR2
+Q14832,GRM3,GRM3,Metabotropic glutamate receptor 3,GPRC1C;GRM3;Metabotropic glutamate receptor 3;mGluR3;MGLUR3
+Q14833,GRM4,GRM4,Metabotropic glutamate receptor 4,GPRC1D;GRM4;Metabotropic glutamate receptor 4;mGluR4;MGLUR4
+P41594,GRM5,GRM5,Metabotropic glutamate receptor 5,GPRC1E;GRM5;Metabotropic glutamate receptor 5;mGluR5;MGLUR5
+O15303,GRM6,GRM6,Metabotropic glutamate receptor 6,GPRC1F;GRM6;Metabotropic glutamate receptor 6;MGLUR6;mGluR6
+Q14831,GRM7,GRM7,Metabotropic glutamate receptor 7,GPRC1G;GRM7;Metabotropic glutamate receptor 7;MGLUR7;mGluR7
+O00222,GRM8,GRM8,Metabotropic glutamate receptor 8,GPRC1H;GRM8;Metabotropic glutamate receptor 8;MGLUR8;mGluR8
+P30550,GRPR,GRPR,Gastrin-releasing peptide receptor,Gastrin-releasing peptide receptor;GRP-preferring bombesin receptor;GRP-R;GRPR
+Q9BXC0,HCAR1,HCAR1,Hydroxycarboxylic acid receptor 1,FKSG80;G protein-coupled receptor 104;G protein-coupled receptor 81;GPR104;GPR81;HCA1;HCAR1;Hydroxycarboxylic acid receptor 1
+Q8TDS4,HCAR2,HCAR2,Hydroxycarboxylic acid receptor 2,G protein-coupled receptor 109A;G protein-coupled receptor HM74A;GPR109A;HCA2;HCAR2;HM74A;Hydroxycarboxylic acid receptor 2;Niacin receptor 1;NIACR1;Nicotinic acid receptor
+P49019,HCAR3,HCAR3,Hydroxycarboxylic acid receptor 3,G protein-coupled receptor 109B;G protein-coupled receptor HM74;G protein-coupled receptor HM74B;GPR109B;HCA3;HCAR3;HM74B;Hydroxycarboxylic acid receptor 3;Niacin receptor 2;NIACR2;Nicotinic acid receptor 2
+O43613,HCRTR1,HCRTR1,Orexin/Hypocretin receptor type 1,HCRTR1;Hypocretin receptor type 1;Orexin receptor type 1;Orexin/Hypocretin receptor type 1;ORXR1;Ox-1-R;Ox1-R;OX1R;Ox1R;OXR1
+O43614,HCRTR2,HCRTR2,Orexin receptor type 2,HCRTR2;Hypocretin receptor type 2;Orexin receptor type 2;ORXR2;Ox-2-R;Ox2-R;Ox2R;OX2R;OXR2
+P35367,HRH1,HRH1,Histamine H1 receptor,H1-R;H1R;HH1R;Histamine H1 receptor;HRH1
+P25021,HRH2,HRH2,Histamine H2 receptor,Gastric receptor I;H2R;HH2R;Histamine H2 receptor;HRH2
+Q9Y5N1,HRH3,HRH3,Histamine H3 receptor,G protein-coupled receptor 97;GPCR97;H3R;HH3R;Histamine H3 receptor;HRH3
+Q9H3N8,HRH4,HRH4,Histamine H4 receptor,AXOR35;G protein-coupled receptor 105;GPCR105;GPRv53;H4R;HH4R;Histamine H4 receptor;HRH4;Pfi-013;SP9144
+P08908,HTR1A,HTR1A,5-hydroxytryptamine receptor 1A,5-HT-1A;5-HT1A;5-hydroxytryptamine receptor 1A;ADRB2RL1;ADRBRL1;G-21;HTR1A;Serotonin receptor 1A
+P28222,HTR1B,HTR1B,5-hydroxytryptamine receptor 1B,5-HT-1B;5-HT-1D-beta;5-HT1B;5-hydroxytryptamine receptor 1B;HTR1B;HTR1DB;S12;Serotonin 1D beta receptor;Serotonin receptor 1B
+P28221,HTR1D,HTR1D,5-hydroxytryptamine receptor 1D,5-HT-1D;5-HT-1D-alpha;5-HT1D;5-hydroxytryptamine receptor 1D;HTR1D;HTR1DA;HTRL;Serotonin 1D alpha receptor;Serotonin receptor 1D
+P28566,HTR1E,HTR1E,5-hydroxytryptamine receptor 1E,5-HT-1E;5-HT1E;5-hydroxytryptamine receptor 1E;HTR1E;S31;Serotonin receptor 1E
+P30939,HTR1F,HTR1F,5-hydroxytryptamine receptor 1F,5-HT-1F;5-HT1F;5-hydroxytryptamine receptor 1F;HTR1EL;HTR1F;Serotonin receptor 1F
+P28223,HTR2A,HTR2A,5-hydroxytryptamine receptor 2A,5-HT-2;5-HT-2A;5-hydroxytryptamine receptor 2A;HTR2;HTR2A;Serotonin receptor 2A
+P41595,HTR2B,HTR2B,5-hydroxytryptamine receptor 2B,5-HT-2B;5-HT2B;5-hydroxytryptamine receptor 2B;HTR2B;Serotonin receptor 2B
+P28335,HTR2C,HTR2C,5-hydroxytryptamine receptor 2C,5-HT-1C;5-HT-2C;5-HT1C;5-HT2C;5-HTR2C;5-hydroxytryptamine receptor 1C;5-hydroxytryptamine receptor 2C;HTR1C;HTR2C;Serotonin receptor 2C
+Q13639,HTR4,HTR4,5-hydroxytryptamine receptor 4,5-HT-4;5-HT4;5-hydroxytryptamine receptor 4;HTR4;Serotonin receptor 4
+P47898,HTR5A,HTR5A,5-hydroxytryptamine receptor 5A,5-HT-5;5-HT-5A;5-HT5A;5-hydroxytryptamine receptor 5A;HTR5A;Serotonin receptor 5A
+P50406,HTR6,HTR6,5-hydroxytryptamine receptor 6,5-HT-6;5-HT6;5-hydroxytryptamine receptor 6;HTR6;Serotonin receptor 6
+P34969,HTR7,HTR7,5-hydroxytryptamine receptor 7,5-HT-7;5-HT-X;5-HT7;5-hydroxytryptamine receptor 7;HTR7;Serotonin receptor 7
+Q969F8,KISS1R,KISS1R,KiSS-1 receptor,AXOR12;G protein-coupled receptor 54;G protein-coupled receptor OT7T175;GPR54;hOT7T175;Hypogonadotropin-1;KiSS-1 receptor;KiSS-1R;KISS1R;Kisspeptins receptor;Metastin receptor
+Q9BXB1,LGR4,LGR4,Leucine-rich repeat-containing G protein-coupled receptor 4,G protein-coupled receptor 48;GPR48;Leucine-rich repeat-containing G protein-coupled receptor 4;LGR4
+O75473,LGR5,LGR5,Leucine-rich repeat-containing G protein-coupled receptor 5,G protein-coupled receptor 49;G protein-coupled receptor 67;G protein-coupled receptor HG38;GPR49;GPR67;Leucine-rich repeat-containing G protein-coupled receptor 5;LGR5
+Q9HBX8,LGR6,LGR6,Leucine-rich repeat-containing G protein-coupled receptor 6,Leucine-rich repeat-containing G protein-coupled receptor 6;LGR6;UNQ6427/PRO21331;VTS20631
+P22888,LHCGR,LHCGR,Lutropin-choriogonadotropic hormone receptor,LCGR;LGR2;LH/CG-R;LHCGR;LHR;LHRHR;LSH-R;Luteinizing hormone receptor;Lutropin-choriogonadotropic hormone receptor
+Q92633,LPAR1,LPAR1,Lysophosphatidic acid receptor 1,EDG2;LPA receptor 1;LPA-1;LPA1;LPAR1;Lysophosphatidic acid receptor 1;Lysophosphatidic acid receptor Edg-2
+Q9HBW0,LPAR2,LPAR2,Lysophosphatidic acid receptor 2,EDG4;LPA receptor 2;LPA-2;LPA2;LPAR2;Lysophosphatidic acid receptor 2;Lysophosphatidic acid receptor Edg-4
+Q9UBY5,LPAR3,LPAR3,Lysophosphatidic acid receptor 3,EDG7;LPA receptor 3;LPA-3;LPA3;LPAR3;Lysophosphatidic acid receptor 3;Lysophosphatidic acid receptor Edg-7
+Q99677,LPAR4,LPAR4,Lysophosphatidic acid receptor 4,G protein-coupled receptor 23;GPR23;LPA receptor 4;LPA-4;LPA4;LPAR4;Lysophosphatidic acid receptor 4;P2RY9;P2Y purinoceptor 9;P2Y5-like receptor;P2Y9;Purinergic receptor 9
+Q9H1C0,LPAR5,LPAR5,Lysophosphatidic acid receptor 5,G protein-coupled receptor 92;G protein-coupled receptor 93;GPR92;GPR93;LPA receptor 5;LPA-5;LPAR5;Lysophosphatidic acid receptor 5
+P43657,LPAR6,LPAR6,Lysophosphatidic acid receptor 6,LPA receptor 6;LPA-6;LPAR6;Lysophosphatidic acid receptor 6;Oleoyl-L-alpha-lysophosphatidic acid receptor;P2RY5;P2Y purinoceptor 5;P2Y5;Purinergic receptor 5;RB intron encoded G protein-coupled receptor
+Q15722,LTB4R,LTB4R,Leukotriene B4 receptor 1,BLT;BLT1;BLTR;Chemoattractant receptor-like 1;CMKRL1;G protein-coupled receptor 16;GPR16;Leukotriene B4 receptor 1;LTB4-R 1;LTB4-R1;LTB4R;P2RY7;P2Y purinoceptor 7;P2Y7
+Q9NPC1,LTB4R2,LTB4R2,Leukotriene B4 receptor 2,BLT2R;BLTR2;Leukotriene B4 receptor 2;Leukotriene B4 receptor BLT2;LTB4 receptor JULF2;LTB4-R 2;LTB4-R2;LTB4R2;Seven transmembrane receptor BLTR2
+P04201,MAS1,MAS1,Proto-oncogene Mas,MAS;MAS1;Proto-oncogene Mas
+P35410,MAS1L,MAS1L,Mas-related G protein-coupled receptor MRG,MAS-R;Mas-related G protein-coupled receptor MRG;MAS1-like;MAS1L;MRG
+Q01726,MC1R,MC1R,Melanocyte-stimulating hormone receptor,MC1-R;MC1R;Melanocortin receptor 1;Melanocyte-stimulating hormone receptor;MSH-R;MSHR
+Q01718,MC2R,MC2R,Adrenocorticotropic hormone receptor,ACTH receptor;ACTH-R;ACTHR;Adrenocorticotropic hormone receptor;Adrenocorticotropin receptor;MC2-R;MC2R;Melanocortin receptor 2
+P41968,MC3R,MC3R,Melanocortin receptor 3,MC3-R;MC3R;Melanocortin receptor 3
+P32245,MC4R,MC4R,Melanocortin receptor 4,MC4-R;MC4R;Melanocortin receptor 4
+P33032,MC5R,MC5R,Melanocortin receptor 5,MC-2;MC5-R;MC5R;Melanocortin receptor 5
+Q99705,MCHR1,MCHR1,Melanin-concentrating hormone receptor 1,G protein-coupled receptor 24;GPR24;MCH receptor 1;MCH-1R;MCH-R1;MCH1R;MCHR;MCHR-1;MCHR1;Melanin-concentrating hormone receptor 1;SLC-1;SLC1;Somatostatin receptor-like protein
+Q969V1,MCHR2,MCHR2,Melanin-concentrating hormone receptor 2,G protein-coupled receptor 145;GPR145;GPRv17;MCH receptor 2;MCH-2R;MCH-R2;MCH2;MCH2R;MCHR-2;MCHR2;Melanin-concentrating hormone receptor 2;SLT
+O43193,MLNR,MLNR,Motilin receptor,G protein-coupled receptor 38;GPR38;MLNR;Motilin receptor;MTLR;MTLR1
+Q8TDS7,MRGPRD,MRGPRD,Mas-related G protein-coupled receptor member D,Beta-alanine receptor;G protein-coupled receptor TGR7;Mas-related G protein-coupled receptor member D;MRGD;MRGPRD
+Q86SM8,MRGPRE,MRGPRE,Mas-related G protein-coupled receptor member E,G protein-coupled receptor 167;GPR167;Mas-related G protein-coupled receptor member E;MRGE;MRGPRE
+Q96AM1,MRGPRF,MRGPRF,Mas-related G protein-coupled receptor member F,G protein-coupled receptor 140;G protein-coupled receptor 168;GPR140;GPR168;Mas-related G protein-coupled receptor member F;Mas-related gene F protein;MRGF;MRGPRF;PSEC0142
+Q86SM5,MRGPRG,MRGPRG,Mas-related G protein-coupled receptor member G,G protein-coupled receptor 169;GPR169;Mas-related G protein-coupled receptor member G;MRGG;MRGPRG
+Q96LB2,MRGPRX1,MRGPRX1,Mas-related G protein-coupled receptor member X1,Mas-related G protein-coupled receptor member X1;MRGPRX1;MRGX1;Sensory neuron-specific G protein-coupled receptor 3/4;SNSR3;SNSR4
+Q96LB1,MRGPRX2,MRGPRX2,Mas-related G protein-coupled receptor member X2,Mas-related G protein-coupled receptor member X2;MRGPRX2;MRGX2
+Q96LB0,MRGPRX3,MRGPRX3,Mas-related G protein-coupled receptor member X3,Mas-related G protein-coupled receptor member X3;MRGPRX3;MRGX3;Sensory neuron-specific G protein-coupled receptor 1/2;SNSR1;SNSR2
+Q96LA9,MRGPRX4,MRGPRX4,Mas-related G protein-coupled receptor member X4,Mas-related G protein-coupled receptor member X4;MRGPRX4;MRGX4;Sensory neuron-specific G protein-coupled receptor 5/6;SNSR5;SNSR6
+P48039,MTNR1A,MTNR1A,Melatonin receptor type 1A,Mel-1A-R;Mel1a receptor;Melatonin receptor type 1A;MTNR1A
+P49286,MTNR1B,MTNR1B,Melatonin receptor type 1B,Mel-1B-R;Mel1b receptor;Melatonin receptor type 1B;MTNR1B
+P28336,NMBR,NMBR,Neuromedin-B receptor,Epididymis tissue protein Li 185a;Neuromedin-B receptor;Neuromedin-B-preferring bombesin receptor;NMB-R;NMBR
+Q9HB89,NMUR1,NMUR1,Neuromedin-U receptor 1,FM-3;G protein-coupled receptor 66;G protein-coupled receptor FM-3;GPR66;hFM-3;hNmU-R1;Neuromedin-U receptor 1;NMU-R1;NMU1;NMUR1
+Q9GZQ4,NMUR2,NMUR2,Neuromedin-U receptor 2,G protein-coupled receptor FM-4;G protein-coupled receptor TGR-1;Neuromedin-U receptor 2;NMU-R2;NMU2;NMU2R;NMUR2;TGR-1;TGR1
+P48145,NPBWR1,NPBWR1,Neuropeptides B/W receptor type 1,G protein-coupled receptor 7;GPR7;Neuropeptides B/W receptor type 1;NPBWR1
+P48146,NPBWR2,NPBWR2,Neuropeptides B/W receptor type 2,G protein-coupled receptor 8;GPR8;Neuropeptides B/W receptor type 2;NPBWR2
+Q9GZQ6,NPFFR1,NPFFR1,Neuropeptide FF receptor 1,G protein-coupled receptor 147;GPR147;Neuropeptide FF receptor 1;NPFF1;NPFFR1;RFamide-related peptide receptor OT7T022
+Q9Y5X5,NPFFR2,NPFFR2,Neuropeptide FF receptor 2,G protein-coupled receptor 74;G protein-coupled receptor HLWAR77;GPR74;Neuropeptide FF receptor 2;Neuropeptide G protein-coupled receptor;NPFF2;NPFFR2;NPGPR
+Q6W5P4,NPSR1,NPSR1,Neuropeptide S receptor,G protein-coupled receptor 154;G protein-coupled receptor for asthma susceptibility;G protein-coupled receptor PGR14;GPR154;GPRA;Neuropeptide S receptor;NPSR1;PGR14
+P25929,NPY1R,NPY1R,Neuropeptide Y receptor type 1,Neuropeptide Y receptor type 1;NPY1-R;NPY1R;NPYR;NPYY1
+P49146,NPY2R,NPY2R,Neuropeptide Y receptor type 2,Neuropeptide Y receptor type 2;NPY-Y2 receptor;NPY2-R;NPY2R;Y2 receptor
+P50391,NPY4R,NPY4R,Neuropeptide Y receptor type 4,Neuropeptide Y receptor type 4;NPY4-R;NPY4R;Pancreatic polypeptide receptor 1;PP1;PPYR1
+Q15761,NPY5R,NPY5R,Neuropeptide Y receptor type 5,Neuropeptide Y receptor type 5;NPY-Y5 receptor;NPY5-R;NPY5R;NPYR5;NPYY5-R;Y5 receptor
+Q99463,NPY6R,NPY6RP,Putative neuropeptide Y receptor type 6,NPY Y1-like receptor;NPY1RL;NPY6-R;NPY6R;NPY6RP;PP2;Putative neuropeptide Y receptor type 6;Putative pancreatic polypeptide receptor 2;Y2B
+P30989,NTSR1,NTSR1,Neurotensin receptor type 1,High-affinity levocabastine-insensitive neurotensin receptor;Neurotensin receptor type 1;NT-R-1;NTR1;NTRH;NTRR;NTSR1
+O95665,NTSR2,NTSR2,Neurotensin receptor type 2,Levocabastine-sensitive neurotensin receptor;Neurotensin receptor type 2;NT-R-2;NTR2;NTSR2
+P04000,OPN1LW,OPN1LW,Long-wave-sensitive opsin 1,Long-wave-sensitive opsin 1;OPN1LW;RCP;Red cone photoreceptor pigment;Red-sensitive opsin;ROP
+P04001,OPN1MW,OPN1MW,Medium-wave-sensitive opsin 1,GCP;GOP;Green cone photoreceptor pigment;Green-sensitive opsin;Medium-wave-sensitive opsin 1;OPN1MW
+P0DN77,OPN1MW2,OPN1MW2,Medium-wave-sensitive opsin 2,GOP;Green cone photoreceptor pigment;Green-sensitive opsin;Medium-wave-sensitive opsin 2;OPN1MW2;Opsin 1 cone pigments medium-wave-sensitive 2
+P0DN78,OPN1MW3,OPN1MW3,Medium-wave-sensitive opsin 3,GOP;Green cone photoreceptor pigment;Green-sensitive opsin;Medium-wave-sensitive opsin 3;OPN1MW3;opsin 1 cone pigments medium-wave-sensitive 3
+P03999,OPN1SW,OPN1SW,Short-wave-sensitive opsin 1,BCP;Blue cone photoreceptor pigment;Blue-sensitive opsin;BOP;OPN1SW;Short-wave-sensitive opsin 1
+Q9H1Y3,OPN3,OPN3,Opsin-3,ECPN;Encephalopsin;OPN3;Opsin-3;Panopsin
+Q9UHM6,OPN4,OPN4,Melanopsin,Melanopsin;MOP;OPN4;Opsin-4
+Q6U736,OPN5,OPN5,Opsin-5,G protein-coupled receptor 136;G protein-coupled receptor PGR12;GPR136;Neuropsin;OPN5;Opsin-5;PGR12;TMEM13;Transmembrane protein 13
+P41143,OPRD1,OPRD1,Delta-type opioid receptor,D-OR-1;Delta-type opioid receptor;DOR-1;OPRD;OPRD1
+P41145,OPRK1,OPRK1,Kappa-type opioid receptor,K-OR-1;Kappa-type opioid receptor;KOR-1;OPRK;OPRK1
+P41146,OPRL1,OPRL1,Nociceptin receptor,Kappa-type 3 opioid receptor;KOR-3;Nociceptin receptor;OOR;OPRL1;ORL1;Orphanin FQ receptor
+P35372,OPRM1,OPRM1,Mu-type opioid receptor,hMOP;M-OR-1;MOP;MOR-1;MOR1;Mu opiate receptor;Mu opioid receptor;Mu-type opioid receptor;OPRM1
+Q9H208,OR10A2,OR10A2,Olfactory receptor 10A2,HP4;Olfactory receptor 10A2;Olfactory receptor OR11-86;OR10A2;OR10A2P
+P58181,OR10A3,OR10A3,Olfactory receptor 10A3,HTPCRX12;Olfactory receptor 10A3;Olfactory receptor OR11-97;OR10A3
+Q9H209,OR10A4,OR10A4,Olfactory receptor 10A4,HP2;Olfactory receptor 10A4;Olfactory receptor-like protein JCG5;OR10A4;OR10A4P
+Q9H207,OR10A5,OR10A5,Olfactory receptor 10A5,HP3;Olfactory receptor 10A1;Olfactory receptor 10A5;Olfactory receptor 11-403;Olfactory receptor-like protein JCG6;OR10A1;OR10A5;OR11-403
+Q8NH74,OR10A6,OR10A6,Olfactory receptor 10A6,Olfactory receptor 10A6;Olfactory receptor OR11-96;OR10A6
+Q8NGE5,OR10A7,OR10A7,Olfactory receptor 10A7,Olfactory receptor 10A7;Olfactory receptor OR12-6;OR10A7
+Q8NH08,OR10AC1,OR10AC1,Olfactory receptor 10AC1,Olfactory receptor 10AC1;Olfactory receptor OR7-5;OR10AC1;OR10AC1P
+Q8NGE0,OR10AD1,OR10AD1,Olfactory receptor 10AD1,Olfactory receptor 10AD1;Olfactory receptor OR12-1;OR10AD1;OR10AD1P
+Q8NH19,OR10AG1,OR10AG1,Olfactory receptor 10AG1,Olfactory receptor 10AG1;Olfactory receptor OR11-160;OR10AG1
+Q96KK4,OR10C1,OR10C1,Olfactory receptor 10C1,Hs6M1-17;Olfactory receptor 10C1;Olfactory receptor 10C2;OR10C1;OR10C2
+Q8NH80,OR10D3,OR10D3,Olfactory receptor 10D3,HTPCRX09;Olfactory receptor 10D3;Olfactory receptor OR11-293;OR10D3;OR10D3P
+Q8NGN7,OR10D4P,OR10D4P,Putative olfactory receptor 10D4,OR10D4;OR10D4P;Putative olfactory receptor 10D4
+Q8NGC3,OR10G2,OR10G2,Olfactory receptor 10G2,Olfactory receptor 10G2;OR10G2
+Q8NGC4,OR10G3,OR10G3,Olfactory receptor 10G3,Olfactory receptor 10G3;Olfactory receptor OR14-40;OR10G3
+Q8NGN3,OR10G4,OR10G4,Olfactory receptor 10G4,Olfactory receptor 10G4;Olfactory receptor OR11-278;OR10G4
+Q8NH81,OR10G6,OR10G6,Olfactory receptor 10G6,Olfactory receptor 10G6;Olfactory receptor OR11-280;OR10G6;OR10G6P
+Q8NGN6,OR10G7,OR10G7,Olfactory receptor 10G7,Olfactory receptor 10G7;Olfactory receptor OR11-283;OR10G7
+Q8NGN5,OR10G8,OR10G8,Olfactory receptor 10G8,Olfactory receptor 10G8;Olfactory receptor OR11-282;OR10G8
+Q8NGN4,OR10G9,OR10G9,Olfactory receptor 10G9,Olfactory receptor 10G10;Olfactory receptor 10G9;OR10G10P;OR10G9
+Q9Y4A9,OR10H1,OR10H1,Olfactory receptor 10H1,Olfactory receptor 10H1;Olfactory receptor OR19-27;OR10H1
+O60403,OR10H2,OR10H2,Olfactory receptor 10H2,Olfactory receptor 10H2;Olfactory receptor OR19-23;OR10H2
+O60404,OR10H3,OR10H3,Olfactory receptor 10H3,Olfactory receptor 10H3;Olfactory receptor OR19-24;OR10H3
+Q8NGA5,OR10H4,OR10H4,Olfactory receptor 10H4,Olfactory receptor 10H4;Olfactory receptor OR19-28;OR10H4
+Q8NGA6,OR10H5,OR10H5,Olfactory receptor 10H5,Olfactory receptor 10H5;Olfactory receptor OR19-25;Olfactory receptor OR19-26;OR10H5
+P30954,OR10J1,OR10J1,Olfactory receptor 10J1,Olfactory receptor 10J1;Olfactory receptor OR1-26;Olfactory receptor-like protein HGMP07J;OR10J1
+Q5JRS4,OR10J3,OR10J3,Olfactory receptor 10J3,Olfactory receptor 10J3;OR10J3;OR10J3P
+P0C629,OR10J4,OR10J4,Olfactory receptor 10J4,Olfactory receptor 10J4;OR10J4;OR10J4P
+Q8NHC4,OR10J5,OR10J5,Olfactory receptor 10J5,Olfactory receptor 10J5;Olfactory receptor OR1-28;OR10J5
+Q8NGY7,OR10J6P,OR10J6P,Putative olfactory receptor 10J6,OR10J6;OR10J6P;Putative olfactory receptor 10J6
+Q8NGX5,OR10K1,OR10K1,Olfactory receptor 10K1,Olfactory receptor 10K1;Olfactory receptor OR1-6;OR10K1
+Q6IF99,OR10K2,OR10K2,Olfactory receptor 10K2,Olfactory receptor 10K2;Olfactory receptor OR1-4;OR10K2
+Q8NGE3,OR10P1,OR10P1,Olfactory receptor 10P1,Olfactory receptor 10P1;Olfactory receptor 10P2;Olfactory receptor 10P3;Olfactory receptor OR12-7;OR10P1;OR10P1P;OR10P2P;OR10P3P
+Q8NGQ4,OR10Q1,OR10Q1,Olfactory receptor 10Q1,Olfactory receptor 10Q1;Olfactory receptor OR11-233;OR10Q1
+Q8NGX6,OR10R2,OR10R2,Olfactory receptor 10R2,Olfactory receptor 10R2;Olfactory receptor OR1-8;OR10R2
+Q8NGN2,OR10S1,OR10S1,Olfactory receptor 10S1,Olfactory receptor 10S1;Olfactory receptor OR11-279;OR10S1
+Q8NGX3,OR10T2,OR10T2,Olfactory receptor 10T2,Olfactory receptor 10T2;Olfactory receptor OR1-3;OR10T2
+Q8NGI7,OR10V1,OR10V1,Olfactory receptor 10V1,Olfactory receptor 10V1;Olfactory receptor OR11-256;OR10V1
+Q8NGF6,OR10W1,OR10W1,Olfactory receptor 10W1,Olfactory receptor 10W1;Olfactory receptor OR11-236;OR10W1;OR10W1P;UNQ6469/PRO34070
+Q8NGY0,OR10X1,OR10X1,Olfactory receptor 10X1,Olfactory receptor 10X1;Olfactory receptor OR1-14;OR10X1;OR10X1P
+Q8NGY1,OR10Z1,OR10Z1,Olfactory receptor 10Z1,Olfactory receptor 10Z1;Olfactory receptor OR1-15;OR10Z1
+Q9GZK7,OR11A1,OR11A1,Olfactory receptor 11A1,Hs6M1-18;Olfactory receptor 11A1;Olfactory receptor 11A2;Olfactory receptor OR6-30;OR11A1;OR11A2
+Q8NGC1,OR11G2,OR11G2,Olfactory receptor 11G2,Olfactory receptor 11G2;Olfactory receptor OR14-34;OR11G2
+Q8NG94,OR11H1,OR11H1,Olfactory receptor 11H1,Olfactory receptor 11H1;Olfactory receptor OR22-1;OR11H1
+B2RN74,OR11H12,OR11H12,Olfactory receptor 11H12,Olfactory receptor 11H12;OR11H12
+Q8NH07,OR11H2,OR11H2,Olfactory receptor 11H2,C14orf15;Olfactory receptor 11H2;Olfactory receptor OR14-1;OR11H2;OR11H2P
+Q8NGC9,OR11H4,OR11H4,Olfactory receptor 11H4,Olfactory receptor 11H4;Olfactory receptor OR14-36;OR11H4
+Q8NGC7,OR11H6,OR11H6,Olfactory receptor 11H6,Olfactory receptor 11H6;Olfactory receptor OR14-35;OR11H6
+Q8NGC8,OR11H7,OR11H7,Olfactory receptor 11H7,Olfactory receptor 11H7;Olfactory receptor OR14-32;OR11H7;OR11H7P
+Q8NGX0,OR11L1,OR11L1,Olfactory receptor 11L1,Olfactory receptor 11L1;OR11L1
+P0DN82,OR12D1,OR12D1,Olfactory receptor 12D1,Olfactory receptor 12D1;OR12D1;OR12D1P
+P58182,OR12D2,OR12D2,Olfactory receptor 12D2,Hs6M1-20;Olfactory receptor 12D2;Olfactory receptor OR6-28;OR12D2
+Q9UGF7,OR12D3,OR12D3,Olfactory receptor 12D3,Hs6M1-27;Olfactory receptor 12D3;Olfactory receptor OR6-27;OR12D3
+Q8NGR1,OR13A1,OR13A1,Olfactory receptor 13A1,Olfactory receptor 13A1;Olfactory receptor OR10-3;OR13A1
+Q8NGS9,OR13C2,OR13C2,Olfactory receptor 13C2,Olfactory receptor 13C2;Olfactory receptor OR9-12;OR13C2
+Q8NGS6,OR13C3,OR13C3,Olfactory receptor 13C3,Olfactory receptor 13C3;Olfactory receptor OR9-8;OR13C3
+Q8NGS5,OR13C4,OR13C4,Olfactory receptor 13C4,Olfactory receptor 13C4;Olfactory receptor OR9-7;OR13C4
+Q8NGS8,OR13C5,OR13C5,Olfactory receptor 13C5,Olfactory receptor 13C5;Olfactory receptor OR9-11;OR13C5
+Q8NH95,OR13C6P,OR13C6P,Putative olfactory receptor 13C6,"Olfactory receptor, family 13, subfamily C, member 6 pseudogene;Olfactory receptor, family 13, subfamily C, member 7 pseudogene;OR13C6P;Putative olfactory receptor 13C6;Putative olfactory receptor 13C7"
+P0DN81,OR13C7,OR13C7,Olfactory receptor 13C7,Olfactory receptor 13C7;OR13C7;OR13C7P
+Q8NGS7,OR13C8,OR13C8,Olfactory receptor 13C8,Olfactory receptor 13C8;OR13C8
+Q8NGT0,OR13C9,OR13C9,Olfactory receptor 13C9,Olfactory receptor 13C9;Olfactory receptor OR9-13;OR13C9
+Q8NGV5,OR13D1,OR13D1,Olfactory receptor 13D1,Olfactory receptor 13D1;Olfactory receptor OR9-15;OR13D1
+Q8NGS4,OR13F1,OR13F1,Olfactory receptor 13F1,Olfactory receptor 13F1;Olfactory receptor OR9-6;OR13F1
+Q8NGZ3,OR13G1,OR13G1,Olfactory receptor 13G1,Olfactory receptor 13G1;Olfactory receptor OR1-37;OR13G1
+Q8NG92,OR13H1,OR13H1,Olfactory receptor 13H1,Olfactory receptor 13H1;Olfactory receptor ORX-1;OR13H1
+Q8NGT2,OR13J1,OR13J1,Olfactory receptor 13J1,Olfactory receptor 13J1;Olfactory receptor OR9-2;OR13J1
+Q8NHC5,OR14A16,OR14A16,Olfactory receptor 14A16,Olfactory receptor 14A16;Olfactory receptor 5AT1;Olfactory receptor OR1-45;OR14A16;OR5AT1
+Q96R54,OR14A2,OR14A2,Olfactory receptor 14A2,Olfactory receptor 14A2;Olfactory receptor 5AX1;Olfactory receptor OR1-31;OR14A2;OR5AX1;OR5AX1P
+Q8NHC7,OR14C36,OR14C36,Olfactory receptor 14C36,Olfactory receptor 14C36;Olfactory receptor 5BF1;Olfactory receptor OR1-59;OR14C36;OR5BF1
+A6ND48,OR14I1,OR14I1,Olfactory receptor 14I1,Olfactory receptor 14I1;Olfactory receptor 5BU1;OR14I1;OR5BU1;OR5BU1P
+Q9UGF5,OR14J1,OR14J1,Olfactory receptor 14J1,Hs6M1-28;Olfactory receptor 14J1;Olfactory receptor 5U1;Olfactory receptor OR6-25;OR14J1;OR5U1
+Q8NGZ2,OR14K1,OR14K1,Olfactory receptor 14K1,Olfactory receptor 14K1;Olfactory receptor 5AY1;Olfactory receptor OR1-39;OR14K1;OR5AY1
+Q8NHC6,OR14L1P,OR14L1,Olfactory receptor 14L1,Olfactory receptor 14L1;Olfactory receptor 5AV1;OR14L1;OR14L1P;OR5AV1P
+Q9P1Q5,OR1A1,OR1A1,Olfactory receptor 1A1,Olfactory receptor 17-7;Olfactory receptor 1A1;Olfactory receptor OR17-11;OR17-7;OR1A1
+Q9Y585,OR1A2,OR1A2,Olfactory receptor 1A2,Olfactory receptor 17-6;Olfactory receptor 1A2;Olfactory receptor OR17-10;OR17-6;OR1A2
+Q8NGR6,OR1B1,OR1B1,Olfactory receptor 1B1,Olfactory receptor 1B1;Olfactory receptor 9-B;Olfactory receptor OR9-26;OR1B1;OR9-B
+Q15619,OR1C1,OR1C1,Olfactory receptor 1C1,Olfactory receptor 1C1;Olfactory receptor OR1-42;Olfactory receptor TPCR27;OR1C1
+P34982,OR1D2,OR1D2,Olfactory receptor 1D2,Olfactory receptor 17-4;Olfactory receptor 1D2;Olfactory receptor OR17-6;Olfactory receptor-like protein HGMP07E;OLFR1;OR17-4;OR1D2
+P47884,OR1D4,OR1D4,Olfactory receptor 1D4,Olfactory receptor 17-30;Olfactory receptor 1D4;OR17-30;OR1D4
+P58170,OR1D5,OR1D5,Olfactory receptor 1D5,Olfactory receptor 17-31;Olfactory receptor 1D5;OR17-31;OR1D5
+P30953,OR1E1,OR1E1,Olfactory receptor 1E1,Olfactory receptor 13-66;Olfactory receptor 17-2/17-32;Olfactory receptor 1E1;Olfactory receptor 1E5;Olfactory receptor 1E6;Olfactory receptor 5-85;Olfactory receptor OR17-18;Olfactory receptor-like protein HGMP07I;OR13-66;OR17-2;OR17-32;OR1E1;OR1E5;OR1E6;OR1E9P;OR5-85
+P47887,OR1E2,OR1E2,Olfactory receptor 1E2,Olfactory receptor 17-93/17-135/17-136;Olfactory receptor 1E2;Olfactory receptor 1E4;OR17-135;OR17-136;OR17-93;OR1E2;OR1E4
+Q8WZA6,OR1E3,OR1E3,Olfactory receptor 1E3,Olfactory receptor 17-210;Olfactory receptor 1E3;Olfactory receptor OR17-7;OR17-210;OR1E3;OR1E3P
+O43749,OR1F1,OR1F1,Olfactory receptor 1F1,Olfactory receptor 16-35;Olfactory receptor 1F1;Olfactory receptor 1F10;Olfactory receptor 1F4;Olfactory receptor 1F5;Olfactory receptor 1F6;Olfactory receptor 1F7;Olfactory receptor 1F8;Olfactory receptor 1F9;Olfactory receptor OR16-4;OLFMF;OR16-35;OR1F1;OR1F10;OR1F4;OR1F5;OR1F6;OR1F7;OR1F8;OR1F9
+Q8NHA8,OR1F12,OR1F12P,Putative olfactory receptor 1F12P,Hs6M1-35P;OR1F12;OR1F12P;Putative olfactory receptor 1F12P
+Q96R84,OR1F2P,OR1F2P,Putative olfactory receptor 1F2,OLFmf2;OR1F2;OR1F2P;Putative olfactory receptor 1F2
+P47890,OR1G1,OR1G1,Olfactory receptor 1G1,Olfactory receptor 17-209;Olfactory receptor 1G1;Olfactory receptor 1G2;Olfactory receptor OR17-8;OR17-209;OR1G1;OR1G2
+O60431,OR1I1,OR1I1,Olfactory receptor 1I1,Olfactory receptor 19-20;Olfactory receptor 1I1;OR19-20;OR1I1
+Q8NGS3,OR1J1,OR1J1,Olfactory receptor 1J1,Olfactory receptor 1J1;Olfactory receptor OR9-18;OR1J1
+Q8NGS2,OR1J2,OR1J2,Olfactory receptor 1J2,HSA5;HTPCRX15;Olfactory receptor 1J2;Olfactory receptor 1J3;Olfactory receptor 1J5;Olfactory receptor OR9-19;OR1J2;OR1J3;OR1J5;OST044
+Q8NGS1,OR1J4,OR1J4,Olfactory receptor 1J4,HTPCRX01;Olfactory receptor 1J4;Olfactory receptor OR9-21;OR1J4
+Q8NGR3,OR1K1,OR1K1,Olfactory receptor 1K1,Olfactory receptor 1K1;OR1K1
+Q8NH94,OR1L1,OR1L1,Olfactory receptor 1L1,Olfactory receptor 1L1;Olfactory receptor 1L2;Olfactory receptor 9-C;Olfactory receptor OR9-27;OR1L1;OR1L2;OR9-C
+Q8NH93,OR1L3,OR1L3,Olfactory receptor 1L3,Olfactory receptor 1L3;Olfactory receptor 9-D;Olfactory receptor OR9-28;OR1L3;OR9-D
+Q8NGR5,OR1L4,OR1L4,Olfactory receptor 1L4,Olfactory receptor 1L4;Olfactory receptor 1L5;Olfactory receptor 9-E;Olfactory receptor OR9-29;OR1L4;OR1L5;OR9-E;OST046
+Q8NGR2,OR1L6,OR1L6,Olfactory receptor 1L6,Olfactory receptor 1L6;Olfactory receptor 1L7;Olfactory receptor OR9-30;OR1L6;OR1L7
+Q8NGR8,OR1L8,OR1L8,Olfactory receptor 1L8,Olfactory receptor 1L8;Olfactory receptor OR9-24;OR1L8
+Q8NGA1,OR1M1,OR1M1,Olfactory receptor 1M1,Olfactory receptor 19-6;Olfactory receptor 1M1;Olfactory receptor OR19-5;OR19-6;OR1M1
+Q8NGS0,OR1N1,OR1N1,Olfactory receptor 1N1,Olfactory receptor 1-26;Olfactory receptor 1N1;Olfactory receptor 1N3;Olfactory receptor OR9-22;OR1-26;OR1N1;OR1N3
+Q8NGR9,OR1N2,OR1N2,Olfactory receptor 1N2,Olfactory receptor 1N2;Olfactory receptor OR9-23;OR1N2
+Q8NH06,OR1P1,OR1P1,Olfactory receptor 1P1,Olfactory receptor 17-208;Olfactory receptor 1P1;Olfactory receptor OR17-9;OR17-208;OR1P1;OR1P1P
+Q15612,OR1Q1,OR1Q1,Olfactory receptor 1Q1,Olfactory receptor 1Q1;Olfactory receptor 1Q2;Olfactory receptor 1Q3;Olfactory receptor 9-A;Olfactory receptor OR9-25;Olfactory receptor TPCR106;OR1Q1;OR1Q2;OR1Q3;OR9-A;OST226
+Q8NH92,OR1S1,OR1S1,Olfactory receptor 1S1,Olfactory receptor 1S1;Olfactory receptor OR11-232;OR1S1
+Q8NGQ3,OR1S2,OR1S2,Olfactory receptor 1S2,Olfactory receptor 1S2;Olfactory receptor OR11-231;OR1S2
+Q8NGT9,OR2A1,OR2A42,Olfactory receptor 2A1/2A42,Olfactory receptor 2A1/2A42;Olfactory receptor OR7-16;Olfactory receptor OR7-19;OR2A1;OR2A42
+Q8NGT7,OR2A12,OR2A12,Olfactory receptor 2A12,Olfactory receptor 2A12;Olfactory receptor OR7-10;OR2A12;OR2A12P
+Q96R47,OR2A14,OR2A14,Olfactory receptor 2A14,Olfactory receptor 2A14;Olfactory receptor 2A6;Olfactory receptor OR7-12;OR2A14;OR2A14P;OR2A6;OST182
+Q6IF42,OR2A2,OR2A2,Olfactory receptor 2A2,Olfactory receptor 2A17;Olfactory receptor 2A2;Olfactory receptor OR7-11;OR2A17P;OR2A2;OR2A2P
+A4D2G3,OR2A25,OR2A25,Olfactory receptor 2A25,Olfactory receptor 2A25;Olfactory receptor 2A27;OR2A25;OR2A25P;OR2A27
+O95047,OR2A4,OR2A4,Olfactory receptor 2A4,Olfactory receptor 2A10;Olfactory receptor 2A4;Olfactory receptor OR6-37;OR2A10;OR2A4
+Q96R48,OR2A5,OR2A5,Olfactory receptor 2A5,Olfactory receptor 2A26;Olfactory receptor 2A5;Olfactory receptor 2A8;Olfactory receptor 7-138/7-141;OR2A26;OR2A5;OR2A8;OR7-138;OR7-141
+Q96R45,OR2A7,OR2A7,Olfactory receptor 2A7,Olfactory receptor 2A7;Olfactory receptor OR7-18;OR2A7
+Q8NHA4,OR2AE1,OR2AE1,Olfactory receptor 2AE1,Olfactory receptor 2AE1;Olfactory receptor 2AE2;OR2AE1;OR2AE2
+Q9H205,OR2AG1,OR2AG1,Olfactory receptor 2AG1,HT3;Olfactory receptor 2AG1;Olfactory receptor 2AG3;Olfactory receptor OR11-79;OR2AG1;OR2AG3
+A6NM03,OR2AG2,OR2AG2,Olfactory receptor 2AG2,Olfactory receptor 2AG2;OR2AG2;OR2AG2P
+Q8NGZ0,OR2AJ1,OR2AJ1,Olfactory receptor 2AJ1,Olfactory receptor 2AJ1;OR2AJ1;OR2AJ1P
+Q8NG84,OR2AK2,OR2AK2,Olfactory receptor 2AK2,Olfactory receptor 2AK1;Olfactory receptor 2AK2;Olfactory receptor OR1-47;OR2AK1P;OR2AK2
+Q8NGE2,OR2AP1,OR2AP1,Olfactory receptor 2AP1,Olfactory receptor 2AP1;Olfactory receptor OR12-9;OR2AP1;OR2AP1P
+A6NND4,OR2AT4,OR2AT4,Olfactory receptor 2AT4,Olfactory receptor 2AT4;Olfactory receptor OR11-265;OR2AT4
+Q5JQS5,OR2B11,OR2B11,Olfactory receptor 2B11,Olfactory receptor 2B11;OR2B11
+Q9GZK3,OR2B2,OR2B2,Olfactory receptor 2B2,Hs6M1-10;Olfactory receptor 2B2;Olfactory receptor 2B9;Olfactory receptor 6-1;OR2B2;OR2B9;OR6-1
+O76000,OR2B3,OR2B3,Putative olfactory receptor 2B3,Hs6M1-1;Olfactory receptor 6-4;Olfactory receptor OR6-14;OR2B3;OR2B3P;OR6-4;Putative olfactory receptor 2B3
+P58173,OR2B6,OR2B6,Olfactory receptor 2B6,Hs6M1-32;Olfactory receptor 2B1;Olfactory receptor 2B5;Olfactory receptor 2B6;Olfactory receptor 5-40;Olfactory receptor 6-31;Olfactory receptor OR6-4;OR2B1;OR2B1P;OR2B5;OR2B6;OR2B6P;OR5-40;OR6-31
+P59922,OR2B8P,OR2B8,Olfactory receptor 2B8,Hs6M1-29P;Olfactory receptor 2B8;OR2B8;OR2B8P
+O95371,OR2C1,OR2C1,Olfactory receptor 2C1,Olfactory receptor 2C1;Olfactory receptor 2C2;Olfactory receptor OR16-1;Olfactory receptor OR16-2;OLFmf3;OR2C1;OR2C2P
+Q8N628,OR2C3,OR2C3,Olfactory receptor 2C3,Olfactory receptor 2C3;Olfactory receptor 2C4;Olfactory receptor 2C5;Olfactory receptor OR1-30;OR2C3;OR2C4;OR2C5P
+Q9H210,OR2D2,OR2D2,Olfactory receptor 2D2,HB2;Olfactory receptor 11-610;Olfactory receptor 2D1;Olfactory receptor 2D2;Olfactory receptor OR11-88;OR11-610;OR2D1;OR2D2
+Q8NGH3,OR2D3,OR2D3,Olfactory receptor 2D3,Olfactory receptor 2D3;Olfactory receptor OR11-89;OR2D3
+Q13607,OR2F1,OR2F1,Olfactory receptor 2F1,OLF3;Olfactory receptor 2F1;Olfactory receptor 2F3;Olfactory receptor 2F4;Olfactory receptor 2F5;Olfactory receptor-like protein OLF3;OR2F1;OR2F3;OR2F3P;OR2F4;OR2F5
+O95006,OR2F2,OR2F2,Olfactory receptor 2F2,Olfactory receptor 2F2;Olfactory receptor 7-1;Olfactory receptor OR7-6;OR2F2;OR7-1
+Q8NGZ5,OR2G2,OR2G2,Olfactory receptor 2G2,Olfactory receptor 2G2;Olfactory receptor OR1-32;OR2G2
+Q8NGZ4,OR2G3,OR2G3,Olfactory receptor 2G3,Olfactory receptor 2G3;Olfactory receptor OR1-33;OR2G3
+Q5TZ20,OR2G6,OR2G6,Olfactory receptor 2G6,Olfactory receptor 2G6;OR2G6
+Q9GZK4,OR2H1,OR2H1,Olfactory receptor 2H1,Hs6M1-16;Olfactory receptor 2H1;Olfactory receptor 2H6;Olfactory receptor 2H8;Olfactory receptor 6-2;Olfactory receptor OR6-32;OLFR42A-9004.14/9026.2;OR2H1;OR2H6;OR2H8;OR6-2
+O95918,OR2H2,OR2H2,Olfactory receptor 2H2,FAT11;Hs6M1-12;Olfactory receptor 2H2;Olfactory receptor 2H3;Olfactory receptor-like protein FAT11;OLFR2;OR2H2;OR2H3
+Q8NGU4,OR2I1P,OR2I1,Putative olfactory receptor 2I1,OR2I1;OR2I1P;OR2I2P;OR2I3P;OR2I4P;Putative olfactory receptor 2I1;Putative olfactory receptor 2I2;Putative olfactory receptor 2I3;Putative olfactory receptor 2I4
+Q9GZK6,OR2J1,OR2J1,Olfactory receptor 2J1,Hs6M1-4;Olfactory receptor 2J1;Olfactory receptor 6-5;OR2J1;OR2J1P;OR6-5
+O76002,OR2J2,OR2J2,Olfactory receptor 2J2,Hs6M1-6;Olfactory receptor 2J2;Olfactory receptor 6-8;Olfactory receptor OR6-19;OR2J2;OR6-8
+O76001,OR2J3,OR2J3,Olfactory receptor 2J3,Hs6M1-3;Olfactory receptor 2J3;Olfactory receptor 6-6;Olfactory receptor OR6-16;OR2J3;OR6-6
+Q8NGT1,OR2K2,OR2K2,Olfactory receptor 2K2,HTPCRH06;Olfactory receptor 2K2;Olfactory receptor OR9-17;OR2AR1P;OR2K2
+Q8N349,OR2L13,OR2L13,Olfactory receptor 2L13,Olfactory receptor 2L13;Olfactory receptor 2L14;OR2L13;OR2L14
+Q8NH16,OR2L2,OR2L2,Olfactory receptor 2L2,HTPCRH07;Olfactory receptor 2L12;Olfactory receptor 2L2;Olfactory receptor 2L4;OR2L12;OR2L2;OR2L4P
+Q8NG85,OR2L3,OR2L3,Olfactory receptor 2L3,Olfactory receptor 2L3;OR2L3
+Q8NG80,OR2L5,OR2L5,Olfactory receptor 2L5,Olfactory receptor 2L11;Olfactory receptor 2L5;Olfactory receptor OR1-53;OR2L11;OR2L5
+Q8NGY9,OR2L8,OR2L8,Olfactory receptor 2L8,Olfactory receptor 2L8;Olfactory receptor OR1-46;OR2L8
+Q96R28,OR2M2,OR2M2,Olfactory receptor 2M2,Olfactory receptor 2M2;OR2M2;OST423
+Q8NG83,OR2M3,OR2M3,Olfactory receptor 2M3,Olfactory receptor 2M3;Olfactory receptor 2M6;Olfactory receptor OR1-54;OR2M3;OR2M3P;OR2M6
+Q96R27,OR2M4,OR2M4,Olfactory receptor 2M4,HTPCRX18;Olfactory receptor 2M4;Olfactory receptor OR1-55;Olfactory receptor TPCR100;OR2M4;OST710
+A3KFT3,OR2M5,OR2M5,Olfactory receptor 2M5,Olfactory receptor 2M5;OR2M5;OR2M5P
+Q8NG81,OR2M7,OR2M7,Olfactory receptor 2M7,Olfactory receptor 2M7;Olfactory receptor OR1-58;OR2M7
+Q9NQN1,OR2S2,OR2S2,Olfactory receptor 2S2,Olfactory receptor 2S2;Olfactory receptor OR9-3;OR2S2
+O43869,OR2T1,OR2T1,Olfactory receptor 2T1,Olfactory receptor 1-25;Olfactory receptor 2T1;Olfactory receptor OR1-61;OR1-25;OR2T1
+Q8NGZ9,OR2T10,OR2T10,Olfactory receptor 2T10,Olfactory receptor 2T10;Olfactory receptor OR1-64;OR2T10
+Q8NH01,OR2T11,OR2T11,Olfactory receptor 2T11,Olfactory receptor 2T11;Olfactory receptor OR1-65;OR2T11
+Q8NG77,OR2T12,OR2T12,Olfactory receptor 2T12,Olfactory receptor 2T12;Olfactory receptor OR1-57;OR2T12
+Q6IF00,OR2T2,OR2T2,Olfactory receptor 2T2,Olfactory receptor 2T2;Olfactory receptor OR1-43;OR2T2;OR2T2P
+Q8NH04,OR2T27,OR2T27,Olfactory receptor 2T27,Olfactory receptor 2T27;Olfactory receptor OR1-67;OR2T27
+Q8NH02,OR2T29,OR2T29,Olfactory receptor 2T29,Olfactory receptor 2T29;OR2T29
+Q8NH03,OR2T3,OR2T3,Olfactory receptor 2T3,Olfactory receptor 2T3;OR2T3
+Q8NG76,OR2T33,OR2T33,Olfactory receptor 2T33,Olfactory receptor 2T33;Olfactory receptor OR1-56;OR2T33
+Q8NGX1,OR2T34,OR2T34,Olfactory receptor 2T34,Olfactory receptor 2T34;Olfactory receptor OR1-63;OR2T34
+Q8NGX2,OR2T35,OR2T35,Olfactory receptor 2T35,Olfactory receptor 2T35;Olfactory receptor OR1-66;OR2T35
+Q8NH00,OR2T4,OR2T4,Olfactory receptor 2T4,Olfactory receptor 2T4;Olfactory receptor OR1-60;OR2T4
+Q6IEZ7,OR2T5,OR2T5,Olfactory receptor 2T5,Olfactory receptor 2T5;Olfactory receptor OR1-62;OR2T5
+Q8NHC8,OR2T6,OR2T6,Olfactory receptor 2T6,Olfactory receptor 2T6;Olfactory receptor 2T9;OR2T6;OR2T6P;OR2T9;OST703
+P0C7T2,OR2T7,OR2T7,Olfactory receptor 2T7,Olfactory receptor 2T7;olfactory receptor OR1-44;OR2T7;OR2T7P;OST723
+A6NH00,OR2T8,OR2T8,Olfactory receptor 2T8,Olfactory receptor 2T8;OR2T8;OR2T8P
+Q8NHB1,OR2V1,OR2V1,Olfactory receptor 2V1,Olfactory receptor 2V1;OR2V1
+Q96R30,OR2V2,OR2V2,Olfactory receptor 2V2,Olfactory receptor 2V2;Olfactory receptor 2V3;Olfactory receptor OR5-3;OR2V2;OR2V3
+Q9Y3N9,OR2W1,OR2W1,Olfactory receptor 2W1,Hs6M1-15;Olfactory receptor 2W1;Olfactory receptor OR6-13;OR2W1
+Q7Z3T1,OR2W3,OR2W3,Olfactory receptor 2W3,Olfactory receptor 2W3;Olfactory receptor 2W8;Olfactory receptor OR1-49;OR2W3;OR2W3P;OR2W8P
+A6NFC9,OR2W5,OR2W5P,Putative olfactory receptor 2W5,OR2W5;OR2W5P;Putative olfactory receptor 2W5
+Q8NHA6,OR2W6P,OR2W6P,Putative olfactory receptor 2W6,Olfactory receptor OR6-3;OR2W6P;OR2W7P;Putative olfactory receptor 2W6;Putative olfactory receptor 2W7
+Q8NGV0,OR2Y1,OR2Y1,Olfactory receptor 2Y1,Olfactory receptor 2Y1;Olfactory receptor OR5-2;OR2Y1
+Q8NG97,OR2Z1,OR2Z1,Olfactory receptor 2Z1,Olfactory receptor 2Z1;Olfactory receptor 2Z2;Olfactory receptor OR19-4;OR2Z1;OR2Z2
+P47881,OR3A1,OR3A1,Olfactory receptor 3A1,Olfactory receptor 17-40;Olfactory receptor 3A1;Olfactory receptor OR17-15;OLFRA03;OR17-40;OR3A1
+P47893,OR3A2,OR3A2,Olfactory receptor 3A2,Olfactory receptor 17-228;Olfactory receptor 3A2;Olfactory receptor OR17-14;OLFRA04;OR17-228;OR3A2
+P47888,OR3A3,OR3A3,Olfactory receptor 3A3,Olfactory receptor 17-201;Olfactory receptor 3A3;Olfactory receptor 3A6;Olfactory receptor 3A7;Olfactory receptor 3A8;Olfactory receptor OR17-22;OR17-201;OR3A3;OR3A6;OR3A7;OR3A8P
+P47883,OR3A4P,OR3A4P,Putative olfactory receptor 3A4,Olfactory receptor 17-24;Olfactory receptor 3A5;OR17-24;OR3A4;OR3A4P;OR3A5P;Putative olfactory receptor 3A4
+Q8NGL6,OR4A15,OR4A15,Olfactory receptor 4A15,Olfactory receptor 4A15;Olfactory receptor OR11-118;OR4A15
+Q8NH70,OR4A16,OR4A16,Olfactory receptor 4A16,Olfactory receptor 4A16;Olfactory receptor OR11-117;OR4A16
+Q6IF82,OR4A47,OR4A47,Olfactory receptor 4A47,Olfactory receptor 4A47;Olfactory receptor OR11-113;OR4A47
+Q8NGN8,OR4A4P,OR4A4P,Putative olfactory receptor 4A4,Olfactory receptor OR11-107;OR4A4P;Putative olfactory receptor 4A4
+Q8NH83,OR4A5,OR4A5,Olfactory receptor 4A5,Olfactory receptor 4A5;Olfactory receptor OR11-111;OR4A5
+P0C604,OR4A8,OR4A8,Olfactory receptor 4A8,Olfactory receptor 4A8;Olfactory receptor OR11-110;OR4A8;OR4A8P
+Q8NGF8,OR4B1,OR4B1,Olfactory receptor 4B1,Olfactory receptor 4B1;Olfactory receptor OR11-106;OR4B1;OST208
+Q6IEV9,OR4C11,OR4C11,Olfactory receptor 4C11,Olfactory receptor 4C11;Olfactory receptor OR11-136;OR4C11;OR4C11P
+Q96R67,OR4C12,OR4C12,Olfactory receptor 4C12,Olfactory receptor 4C12;Olfactory receptor OR11-259;OR4C12
+Q8NGP0,OR4C13,OR4C13,Olfactory receptor 4C13,Olfactory receptor 4C13;Olfactory receptor OR11-260;OR4C13
+Q8NGM1,OR4C15,OR4C15,Olfactory receptor 4C15,Olfactory receptor 4C15;Olfactory receptor OR11-127;Olfactory receptor OR11-134;OR4C15
+Q8NGL9,OR4C16,OR4C16,Olfactory receptor 4C16,Olfactory receptor 4C16;Olfactory receptor OR11-135;OR4C16
+Q8NH37,OR4C3,OR4C3,Olfactory receptor 4C3,Olfactory receptor 4C3;Olfactory receptor OR11-98;OR4C3
+A6NMZ5,OR4C45,OR4C45,Olfactory receptor 4C45,Olfactory receptor 4C45;OR4C45
+A6NHA9,OR4C46,OR4C46,Olfactory receptor 4C46,Olfactory receptor 4C46;OR4C46
+Q8NGB2,OR4C5,OR4C5,Olfactory receptor 4C5,Olfactory receptor 4C5;Olfactory receptor OR11-99;OR4C5
+Q8NH72,OR4C6,OR4C6,Olfactory receptor 4C6,Olfactory receptor 4C6;Olfactory receptor OR11-138;OR4C6
+Q15615,OR4D1,OR4D1,Olfactory receptor 4D1,Olfactory receptor 4D1;Olfactory receptor 4D3;Olfactory receptor TPCR16;OR4D1;OR4D3
+Q8NGI6,OR4D10,OR4D10,Olfactory receptor 4D10,Olfactory receptor 4D10;Olfactory receptor OR11-251;OR4D10;OR4D10P
+Q8NGI4,OR4D11,OR4D11,Olfactory receptor 4D11,Olfactory receptor 4D11;OR4D11;OR4D11P
+P58180,OR4D2,OR4D2,Olfactory receptor 4D2,B-lymphocyte membrane protein BC2009;Olfactory receptor 4D2;Olfactory receptor OR17-24;OR4D2
+Q8NGN0,OR4D5,OR4D5,Olfactory receptor 4D5,Olfactory receptor 4D5;Olfactory receptor OR11-276;OR4D5
+Q8NGJ1,OR4D6,OR4D6,Olfactory receptor 4D6,Olfactory receptor 4D6;Olfactory receptor OR11-250;OR4D6
+Q8NGE8,OR4D9,OR4D9,Olfactory receptor 4D9,Olfactory receptor 4D9;Olfactory receptor OR11-253;OR4D9
+P0C645,OR4E1,OR4E1,Olfactory receptor 4E1,Olfactory receptor 4E1;Olfactory receptor OR14-43;OR4E1;OR4E1P
+Q8NGC2,OR4E2,OR4E2,Olfactory receptor 4E2,Olfactory receptor 4E2;Olfactory receptor OR14-42;OR4E2
+Q8NGB8,OR4F15,OR4F15,Olfactory receptor 4F15,Olfactory receptor 4F15;Olfactory receptor OR15-14;OR4F15
+Q8NGA8,OR4F17,OR4F17,Olfactory receptor 4F17,Olfactory receptor 4F11;Olfactory receptor 4F17;Olfactory receptor 4F18;Olfactory receptor 4F19;OR4F11P;OR4F17;OR4F18;OR4F19
+O95013,OR4F21,OR4F21,Olfactory receptor 4F21,Olfactory receptor 4F21;OR4F21;OR4F21P
+Q6IEY1,OR4F3,OR4F29,Olfactory receptor 4F3/4F16/4F29,Olfactory receptor 4F3/4F16/4F29;Olfactory receptor OR1-1;OR4F16;OR4F29;OR4F3
+Q96R69,OR4F4,OR4F4,Olfactory receptor 4F4,HS14a-1-A;Olfactory receptor 4F4;Olfactory receptor OR19-3;OR4F4
+Q8NH21,OR4F5,OR4F5,Olfactory receptor 4F5,Olfactory receptor 4F5;OR4F5
+Q8NGB9,OR4F6,OR4F6,Olfactory receptor 4F6,Olfactory receptor 4F12;Olfactory receptor 4F6;Olfactory receptor OR15-15;OR4F12;OR4F6
+Q8NGD4,OR4K1,OR4K1,Olfactory receptor 4K1,Olfactory receptor 4K1;Olfactory receptor OR14-19;OR4K1
+Q8NH42,OR4K13,OR4K13,Olfactory receptor 4K13,Olfactory receptor 4K13;Olfactory receptor OR14-27;OR4K13
+Q8NGD5,OR4K14,OR4K14,Olfactory receptor 4K14,Olfactory receptor 4K14;Olfactory receptor OR14-22;OR4K14
+Q8NH41,OR4K15,OR4K15,Olfactory receptor 4K15,Olfactory receptor 4K15;Olfactory receptor OR14-20;OR4K15
+Q8NGC6,OR4K17,OR4K17,Olfactory receptor 4K17,Olfactory receptor 4K17;Olfactory receptor OR14-29;OR4K17
+Q8NGD2,OR4K2,OR4K2,Olfactory receptor 4K2,Olfactory receptor 4K2;Olfactory receptor OR14-15;OR4K2
+Q96R72,OR4K3,OR4K3,Olfactory receptor 4K3,Olfactory receptor 4K3;Olfactory receptor OR14-14;OR4K3;OR4K3P
+Q8NGD3,OR4K5,OR4K5,Olfactory receptor 4K5,Olfactory receptor 4K5;Olfactory receptor OR14-16;OR4K5
+Q8NH43,OR4L1,OR4L1,Olfactory receptor 4L1,Olfactory receptor 4L1;Olfactory receptor 4L2;Olfactory receptor OR14-28;OR4L1;OR4L2P
+Q8NGD0,OR4M1,OR4M1,Olfactory receptor 4M1,Olfactory receptor 4M1;Olfactory receptor OR14-7;OR4M1
+Q8NGB6,OR4M2,OR4M2,Olfactory receptor 4M2,Olfactory receptor 4M2;Olfactory receptor OR15-3;OR4M2
+Q8NGD1,OR4N2,OR4N2,Olfactory receptor 4N2,Olfactory receptor 4N2;Olfactory receptor OR14-13;Olfactory receptor OR14-8;OR4N2
+Q8N0Y3,OR4N4,OR4N4,Olfactory receptor 4N4,Olfactory receptor 4N4;Olfactory receptor OR15-1;Olfactory receptor OR15-5;OR4N4
+Q8IXE1,OR4N5,OR4N5,Olfactory receptor 4N5,Olfactory receptor 4N5;Olfactory receptor OR14-33;OR4N5
+Q8NGL7,OR4P4,OR4P4,Olfactory receptor 4P4,Olfactory receptor 4P3;Olfactory receptor 4P4;OR4P3P;OR4P4
+P0C623,OR4Q2,OR4Q2,Olfactory receptor 4Q2,Olfactory receptor 4Q2;olfactory receptor OR14-21;OR4Q2;OR4Q2P
+Q8NH05,OR4Q3,OR4Q3,Olfactory receptor 4Q3,C14orf13;Olfactory receptor 4Q3;Olfactory receptor 4Q4;Olfactory receptor OR14-3;OR4Q3;OR4Q4
+Q8NGB4,OR4S1,OR4S1,Olfactory receptor 4S1,Olfactory receptor 4S1;Olfactory receptor OR11-100;OR4S1
+Q8NH73,OR4S2,OR4S2,Olfactory receptor 4S2,Olfactory receptor 4S2;Olfactory receptor OR11-137;OR4S2;OR4S2P
+Q8NH49,OR4X1,OR4X1,Olfactory receptor 4X1,Olfactory receptor 4X1;Olfactory receptor OR11-104;OR4X1
+Q8NGF9,OR4X2,OR4X2,Olfactory receptor 4X2,Olfactory receptor 4X2;Olfactory receptor OR11-105;OR4X2
+Q8NGJ7,OR51A2,OR51A2,Olfactory receptor 51A2,Olfactory receptor 51A2;OR51A2
+Q8NGJ6,OR51A4,OR51A4,Olfactory receptor 51A4,Olfactory receptor 51A4;OR51A4
+Q8NH64,OR51A7,OR51A7,Olfactory receptor 51A7,Olfactory receptor 51A7;Olfactory receptor OR11-27;OR51A7
+Q9Y5P1,OR51B2,OR51B2,Olfactory receptor 51B2,Odorant receptor HOR5'beta3;Olfactory receptor 51B1;Olfactory receptor 51B2;OR51B1P;OR51B2
+Q9Y5P0,OR51B4,OR51B4,Olfactory receptor 51B4,Odorant receptor HOR5'beta1;Olfactory receptor 51B4;OR51B4
+Q9H339,OR51B5,OR51B5,Olfactory receptor 51B5,Odorant receptor HOR5'beta5;Olfactory receptor 51B5;Olfactory receptor OR11-37;OR51B5
+Q9H340,OR51B6,OR51B6,Olfactory receptor 51B6,Odorant receptor HOR5'beta6;Olfactory receptor 51B6;OR51B6
+Q8NGF3,OR51D1,OR51D1,Olfactory receptor 51D1,Olfactory receptor 51D1;Olfactory receptor OR11-14;OR51D1
+Q8TCB6,OR51E1,OR51E1,Olfactory receptor 51E1,D-GPCR;G protein-coupled receptor 164;GPR164;Olfactory receptor 51E1;Olfactory receptor 52A3;OR51E1;OR51E1P;OR52A3P;POGR;Prostate-overexpressed G protein-coupled receptor;Prostate-specific G protein-coupled receptor 2;PSGR2
+Q9H255,OR51E2,OR51E2,Olfactory receptor 51E2,HPRAJ;Olfactory receptor 51E2;Olfactory receptor OR11-16;OR51E2;Prostate-specific G protein-coupled receptor;PSGR
+A6NGY5,OR51F1,OR51F1,Olfactory receptor 51F1,Olfactory receptor 51F1;OR51F1;OR51F1P
+Q8NH61,OR51F2,OR51F2,Olfactory receptor 51F2,Olfactory receptor 51F2;Olfactory receptor OR11-23;OR51F2
+Q8NGK1,OR51G1,OR51G1,Olfactory receptor 51G1,Olfactory receptor 51G1;Olfactory receptor 51G3;Olfactory receptor OR11-29;OR51G1;OR51G3P
+Q8NGK0,OR51G2,OR51G2,Olfactory receptor 51G2,Olfactory receptor 51G2;Olfactory receptor OR11-28;OR51G2
+Q8NH63,OR51H1,OR51H1,Olfactory receptor 51H1,Olfactory receptor 51H1;Olfactory receptor OR11-25;OR51H1;OR51H1P
+Q9H343,OR51I1,OR51I1,Olfactory receptor 51I1,Odorant receptor HOR5'beta11;Olfactory receptor 51I1;Olfactory receptor OR11-39;OR51I1
+Q9H344,OR51I2,OR51I2,Olfactory receptor 51I2,Odorant receptor HOR5'beta12;Olfactory receptor 51I2;Olfactory receptor OR11-38;OR51I2
+Q9H342,OR51J1,OR51J1,Olfactory receptor 51J1,Odorant receptor HOR5'beta8;Olfactory receptor 51J1;Olfactory receptor 51J2;OR51J1;OR51J1P;OR51J2
+Q8NGJ5,OR51L1,OR51L1,Olfactory receptor 51L1,Olfactory receptor 51L1;Olfactory receptor OR11-31;OR51L1
+Q9H341,OR51M1,OR51M1,Olfactory receptor 51M1,Odorant receptor HOR5'beta7;Olfactory receptor 51M1;Olfactory receptor OR11-40;OR51M1
+Q8NH59,OR51Q1,OR51Q1,Olfactory receptor 51Q1,Olfactory receptor 51Q1;OR51Q1
+Q8NGJ8,OR51S1,OR51S1,Olfactory receptor 51S1,Olfactory receptor 51S1;Olfactory receptor OR11-24;OR51S1
+Q8NGJ9,OR51T1,OR51T1,Olfactory receptor 51T1,Olfactory receptor 51T1;Olfactory receptor OR11-26;OR51T1
+Q9H2C8,OR51V1,OR51V1,Olfactory receptor 51V1,Odorant receptor HOR3'beta1;Olfactory receptor 51A12;Olfactory receptor 51V1;Olfactory receptor OR11-36;OR51A12;OR51V1
+Q9UKL2,OR52A1,OR52A1,Olfactory receptor 52A1,HPFH1OR;Odorant receptor HOR3'beta4;Olfactory receptor 52A1;Olfactory receptor OR11-319;OR52A1
+A6NMU1,OR52A4P,OR52A4P,Olfactory receptor 52A4,Olfactory receptor 52A4;OR52A4;OR52A4P
+Q9H2C5,OR52A5,OR52A5,Olfactory receptor 52A5,Odorant receptor HOR3'beta5;Olfactory receptor 52A5;Olfactory receptor OR11-33;OR52A5
+Q96RD2,OR52B2,OR52B2,Olfactory receptor 52B2,Olfactory receptor 52B2;Olfactory receptor OR11-70;OR52B2
+Q8NGK2,OR52B4,OR52B4,Olfactory receptor 52B4,Olfactory receptor 52B4;Olfactory receptor OR11-3;OR52B4
+Q8NGF0,OR52B6,OR52B6,Olfactory receptor 52B6,Olfactory receptor 52B6;Olfactory receptor OR11-47;OR52B6
+Q9H346,OR52D1,OR52D1,Olfactory receptor 52D1,Odorant receptor HOR5'beta14;Olfactory receptor 52D1;Olfactory receptor OR11-43;OR52D1
+Q8NGJ3,OR52E1,OR52E1,Olfactory receptor 52E1,Olfactory receptor 52E1;OR52E1;OR52E1P
+Q8NGJ4,OR52E2,OR52E2,Olfactory receptor 52E2,Olfactory receptor 52E2;OR52E2
+Q8NGH9,OR52E4,OR52E4,Olfactory receptor 52E4,Olfactory receptor 52E4;Olfactory receptor OR11-55;OR52E4
+Q8NH55,OR52E5,OR52E5,Olfactory receptor 52E5,Olfactory receptor 52E5;OR52E5
+Q96RD3,OR52E6,OR52E6,Olfactory receptor 52E6,Olfactory receptor 52E6;Olfactory receptor OR11-58;OR52E6
+Q6IFG1,OR52E8,OR52E8,Olfactory receptor 52E8,Olfactory receptor 52E8;Olfactory receptor OR11-54;OR52E8
+Q8NGJ2,OR52H1,OR52H1,Olfactory receptor 52H1,Olfactory receptor 52H1;Olfactory receptor OR11-45;OR52H1
+Q8NGK6,OR52I1,OR52I1,Olfactory receptor 52I1,Olfactory receptor 52I1;Olfactory receptor OR11-13;OR52I1
+Q8NH67,OR52I2,OR52I2,Olfactory receptor 52I2,Olfactory receptor 52I2;Olfactory receptor OR11-12;OR52I2
+Q8NH60,OR52J3,OR52J3,Olfactory receptor 52J3,Olfactory receptor 52J3;Olfactory receptor OR11-32;OR52J3
+Q8NGK4,OR52K1,OR52K1,Olfactory receptor 52K1,Olfactory receptor 52K1;Olfactory receptor OR11-8;OR52K1
+Q8NGK3,OR52K2,OR52K2,Olfactory receptor 52K2,Olfactory receptor 52K2;Olfactory receptor OR11-7;OR52K2
+Q8NGH7,OR52L1,OR52L1,Olfactory receptor 52L1,Olfactory receptor 52L1;Olfactory receptor OR11-50;OR52L1
+Q8NGH6,OR52L2P,OR52L2P,Putative olfactory receptor 52L2,Olfactory receptor OR11-74;OR52L2;OR52L2P;Putative olfactory receptor 52L2
+Q8NGK5,OR52M1,OR52M1,Olfactory receptor 52M1,Olfactory receptor 52M1;Olfactory receptor OR11-11;OR52M1;OR52M1P
+Q8NH53,OR52N1,OR52N1,Olfactory receptor 52N1,Olfactory receptor 52N1;Olfactory receptor OR11-61;OR52N1
+Q8NGI0,OR52N2,OR52N2,Olfactory receptor 52N2,Olfactory receptor 52N2;Olfactory receptor OR11-57;OR52N2
+Q8NGI2,OR52N4,OR52N4,Olfactory receptor 52N4,Olfactory receptor 52N4;Olfactory receptor OR11-64;OR52N4
+Q8NH56,OR52N5,OR52N5,Olfactory receptor 52N5,Olfactory receptor 52N5;Olfactory receptor OR11-62;OR52N5
+Q8NH57,OR52P1P,OR52P1,Olfactory receptor 52P1,Olfactory receptor 52P1;OR52P1;OR52P1P
+Q8NGF1,OR52R1,OR52R1,Olfactory receptor 52R1,Olfactory receptor 52R1;Olfactory receptor OR11-22;OR52R1
+Q6IF63,OR52W1,OR52W1,Olfactory receptor 52W1,Olfactory receptor 52W1;Olfactory receptor OR11-71;OR52W1;OR52W1P
+P0C646,OR52Z1,OR52Z1P,Olfactory receptor 52Z1P,Olfactory receptor 52Z1P;OR52Z1;OR52Z1P
+Q8NGH5,OR56A1,OR56A1,Olfactory receptor 56A1,Olfactory receptor 56A1;Olfactory receptor OR11-75;OR56A1
+Q8NH54,OR56A3,OR56A3,Olfactory receptor 56A3,Olfactory receptor 56A3;Olfactory receptor 56A6;OR56A3;OR56A3P;OR56A6
+Q8NGH8,OR56A4,OR56A4,Olfactory receptor 56A4,Olfactory receptor 56A4;Olfactory receptor OR11-49;OR56A4
+P0C7T3,OR56A5,OR56A5,Olfactory receptor 56A5,Olfactory receptor 56A5;OR56A5;OR56A5P
+Q8NGI3,OR56B1,OR56B1,Olfactory receptor 56B1,Olfactory receptor 56B1;Olfactory receptor OR11-65;OR56B1;OR56B1P
+Q8NGI1,OR56B2P,OR56B2,Olfactory receptor 56B2,Olfactory receptor 56B2;OR56B2;OR56B2P
+Q8NH76,OR56B4,OR56B4,Olfactory receptor 56B4,Olfactory receptor 56B4;Olfactory receptor OR11-67;OR56B4
+Q8NGJ0,OR5A1,OR5A1,Olfactory receptor 5A1,Olfactory receptor 5A1;Olfactory receptor OR11-249;OR5A1;OR5A1P;OST181
+Q8NGI9,OR5A2,OR5A2,Olfactory receptor 5A2,Olfactory receptor 5A2;Olfactory receptor OR11-248;OR5A2
+P0C628,OR5AC1,OR5AC1,Olfactory receptor 5AC1,Olfactory receptor 5AC1;Olfactory receptor OR3-2;OR5AC1;OR5AC1P
+Q9NZP5,OR5AC2,OR5AC2,Olfactory receptor 5AC2,HSA1;Olfactory receptor 5AC2;OR5AC2
+Q8NH90,OR5AK2,OR5AK2,Olfactory receptor 5AK2,Olfactory receptor 5AK2;OR5AK2
+Q8NH89,OR5AK3P,OR5AK3P,Olfactory receptor 5AK3,Olfactory receptor 5AK3;OR5AK3;OR5AK3P
+P0C617,OR5AL1,OR5AL1,Olfactory receptor 5AL1,Olfactory receptor 5AL1;Olfactory receptor OR11-184;OR5AL1;OR5AL1P
+Q8NGI8,OR5AN1,OR5AN1,Olfactory receptor 5AN1,Olfactory receptor 5AN1;Olfactory receptor OR11-244;OR5AN1
+Q8NGF4,OR5AP2,OR5AP2,Olfactory receptor 5AP2,Olfactory receptor 5AP2;OR5AP2
+Q8NGP9,OR5AR1,OR5AR1,Olfactory receptor 5AR1,Olfactory receptor 5AR1;Olfactory receptor OR11-209;OR5AR1
+Q8N127,OR5AS1,OR5AS1,Olfactory receptor 5AS1,Olfactory receptor 5AS1;Olfactory receptor OR11-168;OR5AS1
+Q8NGC0,OR5AU1,OR5AU1,Olfactory receptor 5AU1,Olfactory receptor 5AU1;Olfactory receptor OR14-38;OR5AU1
+Q96R08,OR5B12,OR5B12,Olfactory receptor 5B12,Olfactory receptor 5B12;Olfactory receptor 5B16;Olfactory receptor OR11-241;OR5B12;OR5B12P;OR5B16
+Q8NGF7,OR5B17,OR5B17,Olfactory receptor 5B17,Olfactory receptor 5B17;Olfactory receptor 5B20;Olfactory receptor OR11-237;OR5B17;OR5B20P
+Q96R09,OR5B2,OR5B2,Olfactory receptor 5B2,Olfactory receptor 5B2;Olfactory receptor OR11-240;OR5B2;OST073
+A6NL26,OR5B21,OR5B21,Olfactory receptor 5B21,Olfactory receptor 5B21;OR5B21
+Q8NH48,OR5B3,OR5B3,Olfactory receptor 5B3,Olfactory receptor 5B13;Olfactory receptor 5B3;Olfactory receptor OR11-239;OR5B13;OR5B3
+Q8NGR4,OR5C1,OR5C1,Olfactory receptor 5C1,Olfactory receptor 5C1;Olfactory receptor 5C2;Olfactory receptor 9-F;OR5C1;OR5C2P;OR9-F
+Q8NGL4,OR5D13,OR5D13,Olfactory receptor 5D13,Olfactory receptor 5D13;Olfactory receptor OR11-142;Olfactory receptor OR11-148;OR5D13
+Q8NGL3,OR5D14,OR5D14,Olfactory receptor 5D14,Olfactory receptor 5D14;Olfactory receptor OR11-141;Olfactory receptor OR11-150;OR5D14
+Q8NGK9,OR5D16,OR5D16,Olfactory receptor 5D16,Olfactory receptor 5D16;Olfactory receptor OR11-154;OR5D16
+Q8NGL1,OR5D18,OR5D18,Olfactory receptor 5D18,Olfactory receptor 5D18;Olfactory receptor OR11-143;Olfactory receptor OR11-152;OR5D18
+O95221,OR5F1,OR5F1,Olfactory receptor 5F1,Olfactory receptor 11-10;Olfactory receptor 5F1;Olfactory receptor OR11-167;OR11-10;OR5F1
+P0C626,OR5G3,OR5G3,Olfactory receptor 5G3,Olfactory receptor 5G3;Olfactory receptor 5G6;Olfactory receptor OR11-213;OR5G3;OR5G3P;OR5G6P
+A6NKK0,OR5H1,OR5H1,Olfactory receptor 5H1,HTPCRX14;Olfactory receptor 5H1;OR5H1
+A6NHG9,OR5H14,OR5H14,Olfactory receptor 5H14,Olfactory receptor 5H14;OR5H14
+A6NDH6,OR5H15,OR5H15,Olfactory receptor 5H15,Olfactory receptor 5H15;OR5H15
+Q8NGV7,OR5H2,OR5H2,Olfactory receptor 5H2,Olfactory receptor 5H2;Olfactory receptor OR3-10;OR5H2
+Q8NGV6,OR5H6,OR5H6,Olfactory receptor 5H6,Olfactory receptor 5H6;Olfactory receptor OR3-11;OR5H6
+P0DN80,OR5H8,OR5H8,Olfactory receptor 5H8,Olfactory receptor 5H8;Olfactory receptor 5H8 pseudogene;Olfactory receptor OR3-7;OR5H8;OR5H8P
+Q13606,OR5I1,OR5I1,Olfactory receptor 5I1,OLF1;Olfactory receptor 5I1;Olfactory receptor OR11-159;Olfactory receptor-like protein OLF1;OR5I1
+Q8NH18,OR5J2,OR5J2,Olfactory receptor 5J2,Olfactory receptor 5J2;Olfactory receptor OR11-266;OR5J2
+Q8NHB7,OR5K1,OR5K1,Olfactory receptor 5K1,HTPCRX10;Olfactory receptor 5K1;Olfactory receptor OR3-8;OR5K1
+Q8NHB8,OR5K2,OR5K2,Olfactory receptor 5K2,Olfactory receptor 5K2;Olfactory receptor OR3-9;OR5K2
+A6NET4,OR5K3,OR5K3,Olfactory receptor 5K3,Olfactory receptor 5K3;OR5K3
+A6NMS3,OR5K4,OR5K4,Olfactory receptor 5K4,Olfactory receptor 5K4;OR5K4
+Q8NGL2,OR5L1,OR5L1,Olfactory receptor 5L1,Olfactory receptor 5L1;Olfactory receptor OR11-151;OR5L1;OST262
+Q8NGL0,OR5L2,OR5L2,Olfactory receptor 5L2,HTPCRX16;Olfactory receptor 5L2;Olfactory receptor OR11-153;OR5L2
+Q8NGP8,OR5M1,OR5M1,Olfactory receptor 5M1,Olfactory receptor 5M1;Olfactory receptor OR11-208;OR5M1;OST050
+Q6IEU7,OR5M10,OR5M10,Olfactory receptor 5M10,Olfactory receptor 5M10;Olfactory receptor OR11-207;OR5M10
+Q96RB7,OR5M11,OR5M11,Olfactory receptor 5M11,Olfactory receptor 5M11;OR5M11
+Q8NGP4,OR5M3,OR5M3,Olfactory receptor 5M3,Olfactory receptor 5M3;Olfactory receptor OR11-191;OR5M3
+Q8NGP6,OR5M8,OR5M8,Olfactory receptor 5M8,Olfactory receptor 5M8;Olfactory receptor OR11-194;OR5M8
+Q8NGP3,OR5M9,OR5M9,Olfactory receptor 5M9,Olfactory receptor 5M9;Olfactory receptor OR11-190;OR5M9
+Q8WZ92,OR5P2,OR5P2,Olfactory receptor 5P2,Olfactory receptor 5P2;Olfactory receptor-like protein JCG3;OR5P2
+Q8WZ94,OR5P3,OR5P3,Olfactory receptor 5P3,Olfactory receptor 5P3;Olfactory receptor OR11-94;Olfactory receptor-like protein JCG1;OR5P3
+Q8NH85,OR5R1,OR8U3,Olfactory receptor 8U3,Olfactory receptor 5R1;Olfactory receptor 8U3;Olfactory receptor OR11-185;OR5R1;OR5R1P;OR8U3
+Q8NG75,OR5T1,OR5T1,Olfactory receptor 5T1,Olfactory receptor 5T1;Olfactory receptor OR11-179;OR5T1;OR5T1P
+Q8NGG2,OR5T2,OR5T2,Olfactory receptor 5T2,Olfactory receptor 5T2;Olfactory receptor OR11-177;OR5T2
+Q8NGG3,OR5T3,OR5T3,Olfactory receptor 5T3,Olfactory receptor 5T3;Olfactory receptor OR11-178;OR5T3
+Q9UGF6,OR5V1,OR5V1,Olfactory receptor 5V1,Hs6M1-21;Olfactory receptor 5V1;Olfactory receptor OR6-26;OR5V1
+Q8NH69,OR5W2,OR5W2,Olfactory receptor 5W2,Olfactory receptor 5W2;Olfactory receptor 5W3;Olfactory receptor OR11-155;OR5W2;OR5W2P;OR5W3P
+O95222,OR6A2,OR6A2,Olfactory receptor 6A2,hP2 olfactory receptor;Olfactory receptor 11-55;Olfactory receptor 6A1;Olfactory receptor 6A2;Olfactory receptor OR11-83;OR11-55;OR6A1;OR6A2;OR6A2P
+O95007,OR6B1,OR6B1,Olfactory receptor 6B1,Olfactory receptor 6B1;Olfactory receptor 7-3;Olfactory receptor OR7-9;OR6B1;OR7-3
+Q6IFH4,OR6B2,OR6B2,Olfactory receptor 6B2,Olfactory receptor 6B2;Olfactory receptor OR2-1;OR6B2;OR6B2P
+Q8NGW1,OR6B3,OR6B3,Olfactory receptor 6B3,Olfactory receptor 6B3;Olfactory receptor OR2-2;OR6B3;OR6B3P
+Q96RD1,OR6C1,OR6C1,Olfactory receptor 6C1,Olfactory receptor 6C1;OR6C1;OST267
+Q9NZP2,OR6C2,OR6C2,Olfactory receptor 6C2,HSA3;Olfactory receptor 6C2;OR6C2
+Q9NZP0,OR6C3,OR6C3,Olfactory receptor 6C3,HSA8;Olfactory receptor 6C3;OR6C3
+Q8NGE1,OR6C4,OR6C4,Olfactory receptor 6C4,Olfactory receptor 6C4;Olfactory receptor OR12-10;OR6C4
+A6NF89,OR6C6,OR6C6,Olfactory receptor 6C6,Olfactory receptor 6C6;OR6C6
+A6NJZ3,OR6C65,OR6C65,Olfactory receptor 6C65,Olfactory receptor 6C65;OR6C65
+A6NDL8,OR6C68,OR6C68,Olfactory receptor 6C68,Olfactory receptor 6C68;OR6C68
+A6NIJ9,OR6C70,OR6C70,Olfactory receptor 6C70,Olfactory receptor 6C70;OR6C70
+A6NCV1,OR6C74,OR6C74,Olfactory receptor 6C74,Olfactory receptor 6C74;OR6C74
+A6NL08,OR6C75,OR6C75,Olfactory receptor 6C75,Olfactory receptor 6C75;OR6C75
+A6NM76,OR6C76,OR6C76,Olfactory receptor 6C76,Olfactory receptor 6C76;OR6C76
+Q8NGZ6,OR6F1,OR6F1,Olfactory receptor 6F1,Olfactory receptor 6F1;Olfactory receptor OR1-38;OR6F1
+Q8NGC5,OR6J1,OR6J1,Olfactory receptor 6J1,Olfactory receptor 6J1;Olfactory receptor 6J2;OR6J1;OR6J2
+Q8NGY2,OR6K2,OR6K2,Olfactory receptor 6K2,Olfactory receptor 6K2;Olfactory receptor OR1-17;OR6K2
+Q8NGY3,OR6K3,OR6K3,Olfactory receptor 6K3,Olfactory receptor 6K3;Olfactory receptor OR1-18;OR6K3
+Q8NGW6,OR6K6,OR6K6,Olfactory receptor 6K6,Olfactory receptor 6K6;Olfactory receptor OR1-21;OR6K6
+Q8NGM8,OR6M1,OR6M1,Olfactory receptor 6M1,Olfactory receptor 6M1;Olfactory receptor OR11-271;OR6M1
+Q8NGY5,OR6N1,OR6N1,Olfactory receptor 6N1,Olfactory receptor 6N1;OR6N1
+Q8NGY6,OR6N2,OR6N2,Olfactory receptor 6N2,Olfactory receptor 6N2;Olfactory receptor OR1-23;OR6N2
+Q8NGX9,OR6P1,OR6P1,Olfactory receptor 6P1,Olfactory receptor 6P1;Olfactory receptor OR1-12;OR6P1
+Q8NGQ2,OR6Q1,OR6Q1,Olfactory receptor 6Q1,Olfactory receptor 6Q1;Olfactory receptor OR11-226;OR6Q1
+Q8NH40,OR6S1,OR6S1,Olfactory receptor 6S1,Olfactory receptor 6S1;Olfactory receptor OR14-37;OR6S1
+Q8NGN1,OR6T1,OR6T1,Olfactory receptor 6T1,Olfactory receptor 6T1;Olfactory receptor OR11-277;OR6T1
+Q8N148,OR6V1,OR6V1,Olfactory receptor 6V1,Olfactory receptor 6V1;Olfactory receptor OR7-3;OR6V1
+Q8NH79,OR6X1,OR6X1,Olfactory receptor 6X1,Olfactory receptor 6X1;Olfactory receptor OR11-270;OR6X1
+Q8NGX8,OR6Y1,OR6Y1,Olfactory receptor 6Y1,Olfactory receptor 6Y1;Olfactory receptor 6Y2;Olfactory receptor OR1-11;OR6Y1;OR6Y2
+O76100,OR7A10,OR7A10,Olfactory receptor 7A10,Olfactory receptor 7A10;Olfactory receptor OR19-18;OR7A10;OST027
+O14581,OR7A17,OR7A17,Olfactory receptor 7A17,Olfactory receptor 7A17;OR7A17
+Q8NGA2,OR7A2P,OR7A2P,Putative olfactory receptor 7A2,OR7A2;OR7A2P;OR7A7;Putative olfactory receptor 7A2;Putative olfactory receptor 7A7
+Q15622,OR7A5,OR7A5,Olfactory receptor 7A5,Olfactory receptor 7A5;Olfactory receptor OR19-17;Olfactory receptor TPCR92;OR7A5
+O76099,OR7C1,OR7C1,Olfactory receptor 7C1,Olfactory receptor 7C1;Olfactory receptor 7C4;Olfactory receptor OR19-16;Olfactory receptor TPCR86;OR7C1;OR7C4
+O60412,OR7C2,OR7C2,Olfactory receptor 7C2,Olfactory receptor 19-18;Olfactory receptor 7C2;Olfactory receptor 7C3;Olfactory receptor OR19-22;OR19-18;OR7C2;OR7C3
+Q96RA2,OR7D2,OR7D2,Olfactory receptor 7D2,HTPCRH03;Olfactory receptor 19-4;Olfactory receptor 7D2;Olfactory receptor OR19-10;OR19-4;OR7D2
+Q8NG98,OR7D4,OR7D4,Olfactory receptor 7D4,Odorant receptor family subfamily D member 4RT;Olfactory receptor 7D4;Olfactory receptor OR19-7;OR19-B;OR7D4;OR7D4P
+Q6IFN5,OR7E24,OR7E24,Olfactory receptor 7E24,Olfactory receptor 7E24;Olfactory receptor OR19-14;OR7E24;OR7E24P
+Q8NGA0,OR7G1,OR7G1,Olfactory receptor 7G1,Olfactory receptor 19-15;Olfactory receptor 7G1;Olfactory receptor OR19-8;OR19-15;OR7G1;OR7G1P
+Q8NG99,OR7G2,OR7G2,Olfactory receptor 7G2,Olfactory receptor 19-13;Olfactory receptor 7G2;Olfactory receptor OR19-6;OR19-13;OR7G2;OST260
+Q8NG95,OR7G3,OR7G3,Olfactory receptor 7G3,Olfactory receptor 7G3;Olfactory receptor OR19-9;OR7G3;OST085
+Q8NGG7,OR8A1,OR8A1,Olfactory receptor 8A1,Olfactory receptor 8A1;Olfactory receptor OR11-318;OR8A1;OST025
+Q8NGG6,OR8B12,OR8B12,Olfactory receptor 8B12,Olfactory receptor 8B12;Olfactory receptor OR11-317;OR8B12
+Q96RD0,OR8B2,OR8B2,Olfactory receptor 8B2,Olfactory receptor 8B2;Olfactory receptor OR11-309;OR8B2
+Q8NGG8,OR8B3,OR8B3,Olfactory receptor 8B3,Olfactory receptor 8B3;Olfactory receptor OR11-311;OR8B3
+Q96RC9,OR8B4,OR8B4,Olfactory receptor 8B4,Olfactory receptor 8B4;Olfactory receptor OR11-315;OR8B4;OR8B4P
+Q15620,OR8B8,OR8B8,Olfactory receptor 8B8,Olfactory receptor 8B8;Olfactory receptor TPCR85;Olfactory-like receptor JCG8;OR8B8
+Q8WZ84,OR8D1,OR8D1,Olfactory receptor 8D1,Olfactory receptor 8D1;Olfactory receptor 8D3;Olfactory receptor OR11-301;Olfactory receptor-like protein JCG9;OR8D1;OR8D3;OST004
+Q9GZM6,OR8D2,OR8D2,Olfactory receptor 8D2,Olfactory receptor 8D2;Olfactory receptor OR11-303;Olfactory receptor-like protein JCG2;OR8D2
+Q8NGM9,OR8D4,OR8D4,Olfactory receptor 8D4,Olfactory receptor 8D4;Olfactory receptor OR11-275;OR8D4
+Q15617,OR8G1,OR8G1,Olfactory receptor 8G1,Olfactory receptor 8G1;Olfactory receptor OR11-281;Olfactory receptor TPCR25;OR8G1;OR8G1P
+Q6IF36,OR8G2P,OR8G2P,Olfactory receptor 8G2,Olfactory receptor 8G2;Olfactory receptor 8G4;Olfactory receptor OR11-292;Olfactory receptor TPCR120;OR8G2;OR8G2P;OR8G4
+P0DMU2,OR8G3P,OR8G3,Olfactory receptor 8G3,Olfactory receptor 8G3;Olfactory receptor OR11-297;OR8G3;OR8G3P
+Q8NG78,OR8G5,OR8G5,Olfactory receptor 8G5,Olfactory receptor 8G5;Olfactory receptor 8G6;Olfactory receptor OR11-298;OR8G5;OR8G5P;OR8G6
+Q8NGG4,OR8H1,OR8H1,Olfactory receptor 8H1,Olfactory receptor 8H1;Olfactory receptor OR11-180;OR8H1
+Q8N162,OR8H2,OR8H2,Olfactory receptor 8H2,Olfactory receptor 8H2;Olfactory receptor OR11-171;OR8H2
+Q8N146,OR8H3,OR8H3,Olfactory receptor 8H3,Olfactory receptor 8H3;Olfactory receptor OR11-172;OR8H3
+Q8N0Y5,OR8I2,OR8I2,Olfactory receptor 8I2,Olfactory receptor 8I2;Olfactory receptor OR11-170;OR8I2
+Q8NGP2,OR8J1,OR8J1,Olfactory receptor 8J1,Olfactory receptor 8J1;Olfactory receptor OR11-183;OR8J1
+Q8NGG1,OR8J2,OR8J2,Olfactory receptor 8J2,Olfactory receptor 8J2;OR8J2;OR8J2P
+Q8NGG0,OR8J3,OR8J3,Olfactory receptor 8J3,Olfactory receptor 8J3;Olfactory receptor OR11-173;OR8J3
+Q8NGG5,OR8K1,OR8K1,Olfactory receptor 8K1,Olfactory receptor 8K1;Olfactory receptor OR11-182;OR8K1
+Q8NH51,OR8K3,OR8K3,Olfactory receptor 8K3,Olfactory receptor 8K3;Olfactory receptor OR11-181;OR8K3
+Q8NH50,OR8K5,OR8K5,Olfactory receptor 8K5,Olfactory receptor 8K5;Olfactory receptor OR11-174;OR8K5
+Q8NH09,OR8S1,OR8S1,Olfactory receptor 8S1,Olfactory receptor 8S1;OR8S1
+Q8NH10,OR8U1,OR8U1,Olfactory receptor 8U1,Olfactory receptor 8U1;OR8U1
+P0C7N1,OR8U8,OR8U8,Olfactory receptor 8U8,Olfactory receptor 8U8;OR8U8
+P0C7N5,OR8U9,OR8U9,Olfactory receptor 8U9,Olfactory receptor 8U9;OR8U9
+Q8NGU1,OR9A1P,OR9A1P,Olfactory receptor 9A1,HSHTPRX06;Olfactory receptor 9A1;OR9A1;OR9A1P
+Q8NGT5,OR9A2,OR9A2,Olfactory receptor 9A2,Olfactory receptor 9A2;Olfactory receptor OR7-2;OR9A2
+Q8NGU2,OR9A4,OR9A4,Olfactory receptor 9A4,Olfactory receptor 9A4;Olfactory receptor OR7-1;OR9A4
+Q8NH87,OR9G1,OR9G1,Olfactory receptor 9G1,Olfactory receptor 9G1;Olfactory receptor 9G5;Olfactory receptor OR11-114;OR9G1;OR9G5
+Q8NGQ1,OR9G4,OR9G4,Olfactory receptor 9G4,Olfactory receptor 9G4;Olfactory receptor OR11-216;OR9G4
+P0C7N8,OR9G9,OR9G9,Olfactory receptor 9G9,Olfactory receptor 9G9;OR9G9
+Q8NGQ6,OR9I1,OR9I1,Olfactory receptor 9I1,Olfactory receptor 9I1;Olfactory receptor OR11-228;OR9I1
+Q8NGE7,OR9K2,OR9K2,Olfactory receptor 9K2,Olfactory receptor 9K2;Olfactory receptor OR12-2;OR9K2
+Q8NGQ5,OR9Q1,OR9Q1,Olfactory receptor 9Q1,Olfactory receptor 9Q1;OR9Q1
+Q8NGE9,OR9Q2,OR9Q2,Olfactory receptor 9Q2,Olfactory receptor 9Q2;OR9Q2;OR9Q2P
+Q8TDS5,OXER1,OXER1,Oxoeicosanoid receptor 1,5-oxo-ETE G protein-coupled receptor;G protein-coupled receptor 170;G protein-coupled receptor R527;G protein-coupled receptor TG1019;GPR170;OXER1;Oxoeicosanoid receptor 1;TG1019
+Q96P68,OXGR1,OXGR1,2-oxoglutarate receptor 1,2-oxoglutarate receptor 1;Alpha-ketoglutarate receptor 1;G protein-coupled receptor 80;G protein-coupled receptor 99;GPR80;GPR99;OXGR1;P2RY15;P2Y purinoceptor 15;P2Y-like GPCR;P2Y-like nucleotide receptor;P2Y15
+P30559,OXTR,OXTR,Oxytocin receptor,OT-R;OXTR;Oxytocin receptor
+P47900,P2RY1,P2RY1,P2Y purinoceptor 1,ADP receptor;P2RY1;P2Y purinoceptor 1;P2Y1;Purinergic receptor
+O00398,P2RY10,P2RY10,Putative P2Y purinoceptor 10,P2RY10;P2Y-like receptor;P2Y10;Putative P2Y purinoceptor 10
+Q96G91,P2RY11,P2RY11,P2Y purinoceptor 11,P2RY11;P2Y purinoceptor 11;P2Y11
+Q9H244,P2RY12,P2RY12,P2Y purinoceptor 12,ADP-glucose receptor;ADPG-R;HORK3;P2RY12;P2T(AC);P2Y purinoceptor 12;P2Y(AC);P2Y(ADP);P2Y(cyc);P2Y12;P2Y12 platelet ADP receptor;SP1999
+Q9BPV8,P2RY13,P2RY13,P2Y purinoceptor 13,FKSG77;G protein-coupled receptor 86;G protein-coupled receptor 94;GPR86;GPR94;P2RY13;P2Y purinoceptor 13;P2Y13
+Q15391,P2RY14,P2RY14,P2Y purinoceptor 14,G protein-coupled receptor 105;GPR105;KIAA0001;P2RY14;P2Y purinoceptor 14;P2Y14;UDP-glucose receptor
+P41231,P2RY2,P2RY2,P2Y purinoceptor 2,ATP receptor;P2RU1;P2RY2;P2U purinoceptor 1;P2U receptor 1;P2U1;P2Y purinoceptor 2;P2Y2;Purinergic receptor
+P51582,P2RY4,P2RY4,P2Y purinoceptor 4,NRU;P2P;P2RY4;P2Y purinoceptor 4;P2Y4;UNR;Uridine nucleotide receptor
+Q15077,P2RY6,P2RY6,P2Y purinoceptor 6,P2RY6;P2Y purinoceptor 6;P2Y6;PP2891
+Q86VZ1,P2RY8,P2RY8,S-geranylgeranyl-glutathione receptor P2RY8,P2RY8;P2Y purinoceptor 8;P2Y8;S-geranylgeranyl-glutathione receptor P2RY8
+P49683,PRLHR,PRLHR,Prolactin-releasing peptide receptor,G protein-coupled receptor 10;GPR10;GR3;hGR3;PRLHR;Prolactin-releasing peptide receptor;PrRP receptor;PrRPR
+Q8TCW9,PROKR1,PROKR1,Prokineticin receptor 1,G protein-coupled receptor 73;G protein-coupled receptor ZAQ;GPR73;GPR73a;PK-R1;PKR1;Prokineticin receptor 1;PROKR1
+Q8NFJ6,PROKR2,PROKR2,Prokineticin receptor 2,G protein-coupled receptor 73-like 1;G protein-coupled receptor I5E;GPR73b;GPR73L1;GPRg2;PK-R2;PKR2;Prokineticin receptor 2;PROKR2
+P25105,PTAFR,PTAFR,Platelet-activating factor receptor,PAF-R;PAFR;PAFr;Platelet-activating factor receptor;PTAFR
+Q13258,PTGDR,PTGDR,Prostaglandin D2 receptor,PGD receptor;PGD2 receptor;Prostaglandin D2 receptor;Prostanoid DP receptor;PTGDR
+Q9Y5Y4,PTGDR2,PTGDR2,Prostaglandin D2 receptor 2,Chemoattractant receptor-homologous molecule expressed on Th2 cells;CRTH2;DL1R;G protein-coupled receptor 44;GPR44;Prostaglandin D2 receptor 2;PTGDR2
+P34995,PTGER1,PTGER1,Prostaglandin E2 receptor EP1 subtype,PGE receptor EP1 subtype;PGE2 receptor EP1 subtype;Prostaglandin E2 receptor EP1 subtype;Prostanoid EP1 receptor;PTGER1
+P43116,PTGER2,PTGER2,Prostaglandin E2 receptor EP2 subtype,PGE receptor EP2 subtype;PGE2 receptor EP2 subtype;Prostaglandin E2 receptor EP2 subtype;Prostanoid EP2 receptor;PTGER2
+P43115,PTGER3,PTGER3,Prostaglandin E2 receptor EP3 subtype,PGE receptor EP3 subtype;PGE2 receptor EP3 subtype;PGE2-R;Prostaglandin E2 receptor EP3 subtype;Prostanoid EP3 receptor;PTGER3
+P35408,PTGER4,PTGER4,Prostaglandin E2 receptor EP4 subtype,PGE receptor EP4 subtype;PGE2 receptor EP4 subtype;Prostaglandin E2 receptor EP4 subtype;Prostanoid EP4 receptor;PTGER2;PTGER4
+P43088,PTGFR,PTGFR,Prostaglandin F2-alpha receptor,PGF receptor;PGF2-alpha receptor;Prostaglandin F2-alpha receptor;Prostanoid FP receptor;PTGFR
+P43119,PTGIR,PTGIR,Prostacyclin receptor,PGI receptor;PGI2 receptor;PRIPR;Prostacyclin receptor;Prostaglandin I2 receptor;Prostanoid IP receptor;PTGIR
+Q03431,PTH1R,PTH1R,Parathyroid hormone/parathyroid hormone-related peptide receptor,Parathyroid hormone 1 receptor;Parathyroid hormone/parathyroid hormone-related peptide receptor;PTH/PTHr receptor;PTH/PTHrP type I receptor;PTH1 receptor;PTH1R;PTHR;PTHR1
+P49190,PTH2R,PTH2R,Parathyroid hormone 2 receptor,Parathyroid hormone 2 receptor;PTH2 receptor;PTH2R;PTHR2
+Q96P65,QRFPR,QRFPR,Pyroglutamylated RF-amide peptide receptor,AQ27;G protein-coupled receptor 103;GPR103;Orexigenic neuropeptide QRFP receptor;Pyroglutamylated RF-amide peptide receptor;QRFPR;SP9155
+P47804,RGR,RGR,RPE-retinal G protein-coupled receptor,RGR;RGR opsin;RPE-retinal G protein-coupled receptor
+P08100,RHO,RHO,Rhodopsin,OPN2;Opsin-2;RHO;Rhodopsin
+O14718,RRH,RRH,Visual pigment-like receptor peropsin,RRH;Visual pigment-like receptor peropsin
+Q9HBX9,RXFP1,RXFP1,Relaxin receptor 1,Leucine-rich repeat-containing G protein-coupled receptor 7;LGR7;Relaxin family peptide receptor 1;Relaxin receptor 1;RXFP1
+Q8WXD0,RXFP2,RXFP2,Relaxin receptor 2,G protein-coupled receptor 106;G protein-coupled receptor affecting testicular descent;GPR106;GREAT;Leucine-rich repeat-containing G protein-coupled receptor 8;LGR8;Relaxin family peptide receptor 2;Relaxin receptor 2;RXFP2
+Q9NSD7,RXFP3,RXFP3,Relaxin-3 receptor 1,G protein-coupled receptor GPCR135;G protein-coupled receptor SALPR;GPCR135;Relaxin family peptide receptor 3;Relaxin-3 receptor 1;RLN3 receptor 1;RLN3R1;RXFP3;SALPR;Somatostatin- and angiotensin-like peptide receptor
+Q8TDU9,RXFP4,RXFP4,Relaxin-3 receptor 2,G protein-coupled receptor 100;G protein-coupled receptor GPCR142;GPCR142;GPR100;Insulin-like peptide INSL5 receptor;Relaxin family peptide receptor 4;Relaxin-3 receptor 2;RLN3 receptor 2;RLN3R2;RXFP4
+P21453,S1PR1,S1PR1,Sphingosine 1-phosphate receptor 1,CHEDG1;EDG1;Endothelial differentiation G protein-coupled receptor 1;S1P receptor 1;S1P receptor Edg-1;S1P1;S1PR1;Sphingosine 1-phosphate receptor 1;Sphingosine 1-phosphate receptor Edg-1
+O95136,S1PR2,S1PR2,Sphingosine 1-phosphate receptor 2,EDG5;Endothelial differentiation G protein-coupled receptor 5;S1P receptor 2;S1P receptor Edg-5;S1P2;S1PR2;Sphingosine 1-phosphate receptor 2;Sphingosine 1-phosphate receptor Edg-5
+Q99500,S1PR3,S1PR3,Sphingosine 1-phosphate receptor 3,C9orf108;C9orf47;EDG3;Endothelial differentiation G protein-coupled receptor 3;S1P receptor 3;S1P receptor Edg-3;S1P3;S1PR3;Sphingosine 1-phosphate receptor 3;Sphingosine 1-phosphate receptor Edg-3
+O95977,S1PR4,S1PR4,Sphingosine 1-phosphate receptor 4,EDG6;Endothelial differentiation G protein-coupled receptor 6;S1P receptor 4;S1P receptor Edg-6;S1P4;S1PR4;Sphingosine 1-phosphate receptor 4;Sphingosine 1-phosphate receptor Edg-6
+Q9H228,S1PR5,S1PR5,Sphingosine 1-phosphate receptor 5,EDG8;Endothelial differentiation G protein-coupled receptor 8;S1P receptor 5;S1P receptor Edg-8;S1P5;S1PR5;Sphingosine 1-phosphate receptor 5;Sphingosine 1-phosphate receptor Edg-8
+P47872,SCTR,SCTR,Secretin receptor,SCT-R;SCTR;SECR;Secretin receptor
+Q99835,SMO,SMO,Protein smoothened,Protein Gx;Protein smoothened;SMO;SMOH
+P30872,SSTR1,SSTR1,Somatostatin receptor type 1,Somatostatin receptor type 1;SRIF-2;SS-1-R;SS1-R;SS1R;SST1;SSTR1
+P30874,SSTR2,SSTR2,Somatostatin receptor type 2,Somatostatin receptor type 2;SRIF-1;SS-2-R;SS2-R;SS2R;SST2;SSTR2
+P32745,SSTR3,SSTR3,Somatostatin receptor type 3,Somatostatin receptor type 3;SS-3-R;SS3-R;SS3R;SSR-28;SST3;SSTR3
+P31391,SSTR4,SSTR4,Somatostatin receptor type 4,Somatostatin receptor type 4;SS-4-R;SS4-R;SS4R;SST4;SSTR4
+P35346,SSTR5,SSTR5,Somatostatin receptor type 5,Somatostatin receptor type 5;SS-5-R;SS5-R;SS5R;SST5;SSTR5
+Q9BXA5,SUCNR1,SUCNR1,Succinate receptor 1,G protein-coupled receptor 91;GPR91;P2Y purinoceptor 1-like;Succinate receptor 1;SUCNR1
+Q96RJ0,TAAR1,TAAR1,Trace amine-associated receptor 1,TA1;TAAR1;TaR-1;TAR1;Trace amine receptor 1;Trace amine-associated receptor 1;TRAR1
+Q9P1P5,TAAR2,TAAR2,Trace amine-associated receptor 2,G protein-coupled receptor 58;GPR58;TAAR2;TaR-2;Trace amine receptor 2;Trace amine-associated receptor 2
+Q9P1P4,TAAR3P,TAAR3P,Putative trace amine-associated receptor 3,G protein-coupled receptor 57;GPR57;hTaar3;Putative trace amine-associated receptor 3;TAAR3;TAAR3P;TaR-3;Trace amine receptor 3
+O14804,TAAR5,TAAR5,Trace amine-associated receptor 5,hTaar5;PNR;Putative neurotransmitter receptor;TAAR5;TaR-5;Trace amine receptor 5;Trace amine-associated receptor 5
+Q96RI8,TAAR6,TAAR6,Trace amine-associated receptor 6,TA4;TAAR6;TaR-4;TaR-6;TAR4;Trace amine receptor 4;Trace amine receptor 6;Trace amine-associated receptor 6;TRAR4
+Q969N4,TAAR8,TAAR8,Trace amine-associated receptor 8,G protein-coupled receptor 102;GPR102;TA5;TAAR8;TaR-5;TaR-8;TAR5;Trace amine receptor 5;Trace amine receptor 8;Trace amine-associated receptor 8;TRAR5
+Q96RI9,TAAR9,TAAR9,Trace amine-associated receptor 9,TA3;TAAR9;TaR-3;TaR-9;TAR3;Trace amine receptor 3;Trace amine receptor 9;Trace amine-associated receptor 9;TRAR3
+P25103,TACR1,TACR1,Substance-P receptor,NK-1 receptor;NK-1R;NK1R;SPR;Substance-P receptor;TAC1R;Tachykinin receptor 1;TACR1
+P21452,TACR2,TACR2,Substance-K receptor,Neurokinin A receptor;NK-2 receptor;NK-2R;NK2R;NKNAR;SKR;Substance-K receptor;TAC2R;Tachykinin receptor 2;TACR2
+P29371,TACR3,TACR3,Neuromedin-K receptor,Neurokinin B receptor;Neuromedin-K receptor;NK-3 receptor;NK-3R;NK3R;NKR;TAC3R;Tachykinin receptor 3;TACR3
+Q7RTX1,TAS1R1,TAS1R1,Taste receptor type 1 member 1,G protein-coupled receptor 70;GM148;GPR70;T1R1;TAS1R1;Taste receptor type 1 member 1;TR1
+Q8TE23,TAS1R2,TAS1R2,Taste receptor type 1 member 2,G protein-coupled receptor 71;GPR71;Sweet taste receptor T1R2;T1R2;TAS1R2;Taste receptor type 1 member 2;TR2
+Q7RTX0,TAS1R3,TAS1R3,Taste receptor type 1 member 3,Sweet taste receptor T1R3;T1R3;TAS1R3;Taste receptor type 1 member 3;TR3
+Q9NYW7,TAS2R1,TAS2R1,Taste receptor type 2 member 1,T2R1;TAS2R1;Taste receptor family B member 7;Taste receptor type 2 member 1;TRB7
+Q9NYW0,TAS2R10,TAS2R10,Taste receptor type 2 member 10,T2R10;TAS2R10;Taste receptor family B member 2;Taste receptor type 2 member 10;TRB2
+Q9NYV9,TAS2R13,TAS2R13,Taste receptor type 2 member 13,T2R13;TAS2R13;Taste receptor family B member 3;Taste receptor type 2 member 13;TRB3
+Q9NYV8,TAS2R14,TAS2R14,Taste receptor type 2 member 14,T2R14;TAS2R14;Taste receptor family B member 1;Taste receptor type 2 member 14;TRB1
+Q9NYV7,TAS2R16,TAS2R16,Taste receptor type 2 member 16,T2R16;TAS2R16;Taste receptor type 2 member 16
+P59542,TAS2R19,TAS2R19,Taste receptor type 2 member 19,T2R48;TAS2R19;TAS2R23;TAS2R48;Taste receptor type 2 member 19;Taste receptor type 2 member 23;Taste receptor type 2 member 48
+P59543,TAS2R20,TAS2R20,Taste receptor type 2 member 20,T2R49;T2R56;TAS2R20;TAS2R49;Taste receptor type 2 member 20;Taste receptor type 2 member 49;Taste receptor type 2 member 56
+Q9NYW6,TAS2R3,TAS2R3,Taste receptor type 2 member 3,T2R3;TAS2R3;Taste receptor type 2 member 3
+P59541,TAS2R30,TAS2R30,Taste receptor type 2 member 30,T2R30;T2R47;TAS2R30;TAS2R47;Taste receptor type 2 member 30;Taste receptor type 2 member 47
+P59538,TAS2R31,TAS2R31,Taste receptor type 2 member 31,T2R31;T2R44;T2R53;TAS2R31;TAS2R44;Taste receptor type 2 member 31;Taste receptor type 2 member 44;Taste receptor type 2 member 53
+P59533,TAS2R38,TAS2R38,Taste receptor type 2 member 38,PTC;PTC bitter taste receptor;T2R38;T2R61;TAS2R38;Taste receptor type 2 member 38;Taste receptor type 2 member 61
+P59534,TAS2R39,TAS2R39,Taste receptor type 2 member 39,T2R39;T2R57;TAS2R39;Taste receptor type 2 member 39;Taste receptor type 2 member 57
+Q9NYW5,TAS2R4,TAS2R4,Taste receptor type 2 member 4,T2R4;TAS2R4;Taste receptor type 2 member 4
+P59535,TAS2R40,TAS2R40,Taste receptor type 2 member 40,G protein-coupled receptor 60;GPR60;T2R40;T2R58;TAS2R40;Taste receptor type 2 member 40;Taste receptor type 2 member 58
+P59536,TAS2R41,TAS2R41,Taste receptor type 2 member 41,T2R41;T2R59;TAS2R41;Taste receptor type 2 member 41;Taste receptor type 2 member 59
+Q7RTR8,TAS2R42,TAS2R42,Taste receptor type 2 member 42,T2R42;T2R55;TAS2R42;TAS2R55;Taste receptor type 2 member 42;Taste receptor type 2 member 55
+P59537,TAS2R43,TAS2R43,Taste receptor type 2 member 43,T2R43;T2R52;TAS2R43;Taste receptor type 2 member 43;Taste receptor type 2 member 52
+P59539,TAS2R45,TAS2R45,Taste receptor type 2 member 45,G protein-coupled receptor 59;GPR59;T2R45;TAS2R45;Taste receptor type 2 member 45
+P59540,TAS2R46,TAS2R46,Taste receptor type 2 member 46,T2R46;T2R54;TAS2R46;Taste receptor type 2 member 46;Taste receptor type 2 member 54
+Q9NYW4,TAS2R5,TAS2R5,Taste receptor type 2 member 5,T2R5;TAS2R5;Taste receptor type 2 member 5
+P59544,TAS2R50,TAS2R50,Taste receptor type 2 member 50,T2R50;T2R51;TAS2R50;Taste receptor type 2 member 50;Taste receptor type 2 member 51
+P59551,TAS2R60,TAS2R60,Taste receptor type 2 member 60,T2R56;T2R60;TAS2R60;Taste receptor type 2 member 56;Taste receptor type 2 member 60
+Q9NYW3,TAS2R7,TAS2R7,Taste receptor type 2 member 7,T2R7;TAS2R7;Taste receptor family B member 4;Taste receptor type 2 member 7;TRB4
+Q9NYW2,TAS2R8,TAS2R8,Taste receptor type 2 member 8,T2R8;TAS2R8;Taste receptor family B member 5;Taste receptor type 2 member 8;TRB5
+Q9NYW1,TAS2R9,TAS2R9,Taste receptor type 2 member 9,T2R9;TAS2R9;Taste receptor family B member 6;Taste receptor type 2 member 9;TRB6
+P21731,TBXA2R,TBXA2R,Thromboxane A2 receptor,Prostanoid TP receptor;TBXA2R;Thromboxane A2 receptor;TXA2-R
+Q86W33,TPRA1,TPRA1,Transmembrane protein adipocyte-associated 1,GPR175;Integral membrane protein GPR175;PP6566;TMEM227;TPRA1;Transmembrane protein 227;Transmembrane protein adipocyte-associated 1
+P34981,TRHR,TRHR,Thyrotropin-releasing hormone receptor,Thyroliberin receptor;Thyrotropin-releasing hormone receptor;TRH-R;TRHR
+P16473,TSHR,TSHR,Thyrotropin receptor,LGR3;Thyroid-stimulating hormone receptor;Thyrotropin receptor;TSH-R;TSHR
+Q9UKP6,UTS2R,UTS2R,Urotensin-2 receptor,G protein-coupled receptor 14;GPR14;UR-2-R;UR-II-R;Urotensin II receptor;Urotensin-2 receptor;UTS2R
+P32241,VIPR1,VIPR1,Vasoactive intestinal polypeptide receptor 1,PACAP type II receptor;PACAP-R-2;PACAP-R2;Pituitary adenylate cyclase-activating polypeptide type II receptor;Vasoactive intestinal polypeptide receptor 1;VIP-R-1;VIPR1;VPAC1 receptor;VPAC1R
+P41587,VIPR2,VIPR2,Vasoactive intestinal polypeptide receptor 2,Helodermin-preferring VIP receptor;PACAP type III receptor;PACAP-R-3;PACAP-R3;Pituitary adenylate cyclase-activating polypeptide type III receptor;Vasoactive intestinal polypeptide receptor 2;VIP-R-2;VIP2R;VIPR2;VPAC2 receptor;VPAC2R
+Q9GZP7,VN1R1,VN1R1,Vomeronasal type-1 receptor 1,G protein-coupled receptor GPCR24;hGPCR24;V1r-like receptor 1;V1RL1;V3r-related gene protein;VN1R1;VNR19I1;Vomeronasal olfactory receptor chromosome 19 subtype I member 1;Vomeronasal type-1 receptor 1
+Q8TDU5,VN1R17P,VN1R17P,Putative vomeronasal receptor-like protein 4,G protein-coupled receptor GPCR23;hGPCR23;Putative vomeronasal receptor-like protein 4;VN1R17P;VNRL4
+Q8NFZ6,VN1R2,VN1R2,Vomeronasal type-1 receptor 2,G protein-coupled receptor GPCR25;hGPCR25;V1r-like receptor 2;V1RL2;VN1R2;Vomeronasal type-1 receptor 2
+Q9BXE9,VN1R3,VN1R3,Vomeronasal type-1 receptor 3,FKSG46;V1r-like receptor 3;V1RL3;VN1R3;Vomeronasal type-1 receptor 3
+Q7Z5H5,VN1R4,VN1R4,Vomeronasal type-1 receptor 4,G protein-coupled receptor GPCR27;hGPCR27;V1r-like receptor 4;V1RL4;VN1R4;Vomeronasal type-1 receptor 4
+Q7Z5H4,VN1R5,VN1R5,Vomeronasal type-1 receptor 5,G protein-coupled receptor GPCR26;hGPCR26;V1r-like receptor 5;V1RL5;VN1R5;Vomeronasal type-1 receptor 5
+P46094,XCR1,XCR1,Chemokine XC receptor 1,CCXCR1;Chemokine XC receptor 1;G protein-coupled receptor 5;GPR5;Lymphotactin receptor;XC chemokine receptor 1;XCR1

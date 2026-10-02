@@ -1,0 +1,835 @@
+ID	PDB_ID	Entry name	Protein name	Gene	Length	Type	Genus	Species	Common name	GRAFS (family)	IUPHAR (family)	Sub-family	Sub-sub-family	Sub-type
+A3KFT3	-	OR2M5_HUMAN	Olfactory receptor 2M5	OR2M5	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A4D2G3	-	O2A25_HUMAN	Olfactory receptor 2A25 	OR2A25	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NCV1	-	O6C74_HUMAN	Olfactory receptor 6C74	OR6C74	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6ND48	-	O14I1_HUMAN	Olfactory receptor 14I1 	OR14I1	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NDH6	-	O5H15_HUMAN	Olfactory receptor 5H15	OR5H15	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NDL8	-	O6C68_HUMAN	Olfactory receptor 6C68	OR6C68	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NET4	-	OR5K3_HUMAN	Olfactory receptor 5K3	OR5K3	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NF89	-	OR6C6_HUMAN	Olfactory receptor 6C6	OR6C6	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NFC9	-	OR2W5_HUMAN	Putative olfactory receptor 2W5	OR2W5	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NGY5	-	O51F1_HUMAN	Olfactory receptor 51F1	OR51F1	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NH00	-	OR2T8_HUMAN	Olfactory receptor 2T8	OR2T8	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NHA9	-	O4C46_HUMAN	Olfactory receptor 4C46	OR4C46	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NHG9	-	O5H14_HUMAN	Olfactory receptor 5H14	OR5H14	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NIJ9	-	O6C70_HUMAN	Olfactory receptor 6C70	OR6C70	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NJZ3	-	O6C65_HUMAN	Olfactory receptor 6C65	OR6C65	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NKK0	-	OR5H1_HUMAN	Olfactory receptor 5H1 	OR5H1	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NL08	-	O6C75_HUMAN	Olfactory receptor 6C75	OR6C75	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NL26	-	OR5BL_HUMAN	Olfactory receptor 5B21	OR5B21	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NM03	-	O2AG2_HUMAN	Olfactory receptor 2AG2	OR2AG2	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NM76	-	O6C76_HUMAN	Olfactory receptor 6C76	OR6C76	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NMS3	-	OR5K4_HUMAN	Olfactory receptor 5K4	OR5K4	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NMU1	-	O52A4_HUMAN	Olfactory receptor 52A4	OR52A4P	304	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NMZ5	-	O4C45_HUMAN	Olfactory receptor 4C45	OR4C45	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+A6NND4	-	O2AT4_HUMAN	Olfactory receptor 2AT4 	OR2AT4	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+B2RN74	-	O11HC_HUMAN	Olfactory receptor 11H12	OR11H12	326	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O00144	-	FZD9_HUMAN	Frizzled-9 	FZD9	591	CG	Homo	sapiens	Human	Frizzled	Class F	Protein receptors	Frizzled	FZD<sub>9</sub>
+O00155	-	GPR25_HUMAN	Probable G-protein coupled receptor 25	GPR25	361	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR25</i>
+O00222	6BSZ  6BT5  6E5V	GRM8_HUMAN	Metabotropic glutamate receptor 8 	GRM8	908	CG	Homo	sapiens	Human	Glutamate-like	Class C	Amino acid receptors	Metabotropic glutamate receptors	mGlu<sub>8</sub> receptor
+O00254	-	PAR3_HUMAN	Proteinase-activated receptor 3 	F2RL2	374	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Proteinase-activated receptors	PAR3
+O00270	-	GPR31_HUMAN	"12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor"	GPR31	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR31</i>
+O00398	-	P2Y10_HUMAN	Putative P2Y purinoceptor 10 	P2RY10	339	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>P2RY10</i>
+O00421	-	CCRL2_HUMAN	C-C chemokine receptor-like 2 	CCRL2	344	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CCRL2
+O00574	-	CXCR6_HUMAN	C-X-C chemokine receptor type 6 	CXCR6	342	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CXCR6
+O00590	-	ACKR2_HUMAN	Atypical chemokine receptor 2 	ACKR2	384	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	ACKR2
+O14514	-	BAI1_HUMAN	Adhesion G protein-coupled receptor B1 	ADGRB1	1584	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRB	ADGRB1
+O14581	-	OR7AH_HUMAN	Olfactory receptor 7A17	OR7A17	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O14626	-	GP171_HUMAN	Probable G-protein coupled receptor 171 	GPR171	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR171</i>
+O14718	-	OPSX_HUMAN	Visual pigment-like receptor peropsin	RRH	337	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O14804	-	TAAR5_HUMAN	Trace amine-associated receptor 5 	TAAR5	337	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>TAAR5</i>
+O14842	4PHU  5KW2  5TZR  5TZY	FFAR1_HUMAN	Free fatty acid receptor 1 	FFAR1	300	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Free fatty acid receptors	FFA1 receptor
+O14843	-	FFAR3_HUMAN	Free fatty acid receptor 3 	FFAR3	346	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Free fatty acid receptors	FFA3 receptor
+O15218	-	GP182_HUMAN	G-protein coupled receptor 182	GPR182	404	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR182</i>
+O15303	-	GRM6_HUMAN	Metabotropic glutamate receptor 6 	GRM6	877	CG	Homo	sapiens	Human	Glutamate-like	Class C	Amino acid receptors	Metabotropic glutamate receptors	mGlu<sub>6</sub> receptor
+O15354	-	GPR37_HUMAN	Prosaposin receptor GPR37 	GPR37	613	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR37</i>
+O15529	-	GPR42_HUMAN	G-protein coupled receptor 42	GPR42	346	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Free fatty acid receptors	<i>GPR42</i>
+O15552	-	FFAR2_HUMAN	Free fatty acid receptor 2 	FFAR2	330	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Free fatty acid receptors	FFA2 receptor
+O43193	-	MTLR_HUMAN	Motilin receptor 	MLNR	412	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Motilin receptors	motilin receptor
+O43194	-	GPR39_HUMAN	G-protein coupled receptor 39	GPR39	453	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR39</i>
+O43603	-	GALR2_HUMAN	Galanin receptor type 2 	GALR2	387	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Galanin receptors	GAL<sub>2</sub> receptor
+O43613	4ZJ8  4ZJC	OX1R_HUMAN	Orexin receptor type 1 	HCRTR1	425	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Orexin receptors	OX<sub>1</sub> receptor
+O43614	4S0V  5WQC  5WS3	OX2R_HUMAN	Orexin receptor type 2 	HCRTR2	444	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Orexin receptors	OX<sub>2</sub> receptor
+O43749	-	OR1F1_HUMAN	Olfactory receptor 1F1 	OR1F1	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O43869	-	OR2T1_HUMAN	Olfactory receptor 2T1 	OR2T1	369	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O60241	-	AGRB2_HUMAN	Adhesion G protein-coupled receptor B2 	ADGRB2	1585	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRB	ADGRB2
+O60242	4DLO	AGRB3_HUMAN	Adhesion G protein-coupled receptor B3 	ADGRB3	1522	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRB	ADGRB3
+O60353	-	FZD6_HUMAN	Frizzled-6 	FZD6	706	CG	Homo	sapiens	Human	Frizzled	Class F	Protein receptors	Frizzled	FZD<sub>6</sub>
+O60403	-	O10H2_HUMAN	Olfactory receptor 10H2 	OR10H2	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O60404	-	O10H3_HUMAN	Olfactory receptor 10H3 	OR10H3	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O60412	-	OR7C2_HUMAN	Olfactory receptor 7C2 	OR7C2	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O60431	-	OR1I1_HUMAN	Olfactory receptor 1I1 	OR1I1	355	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O60478	-	G137B_HUMAN	Integral membrane protein GPR137B 	GPR137B	399	CG	Homo	sapiens	Human	-	-	-	-	-
+O60755	-	GALR3_HUMAN	Galanin receptor type 3 	GALR3	368	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Galanin receptors	GAL<sub>3</sub> receptor
+O60883	-	ETBR2_HUMAN	G-protein coupled receptor 37-like 1 	GPR37L1	481	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR37L1</i>
+O75084	4Z33  5T44  5URV  5WBS  6NE2  6NE4  6O3A  6O3B	FZD7_HUMAN	Frizzled-7 	FZD7	574	CG	Homo	sapiens	Human	Frizzled	Class F	Protein receptors	Frizzled	FZD<sub>7</sub>
+O75388	-	GPR32_HUMAN	Probable G-protein coupled receptor 32	GPR32	356	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR32</i>
+O75473	4BSR  4BSS  4BST  4BSU  4KNG  4UFR  4UFS	LGR5_HUMAN	Leucine-rich repeat-containing G-protein coupled receptor 5 	LGR5	907	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>LGR5</i>
+O75899	4F11  4F12  4MQE  4MQF  4MR7  4MR8  4MR9  4MRM  4MS1  4MS3  4MS4  4PAS  6M8R  6OCP	GABR2_HUMAN	Gamma-aminobutyric acid type B receptor subunit 2 	GABBR2	941	CG	Homo	sapiens	Human	Glutamate-like	Class C	Amino acid receptors	GABA<sub>B</sub> receptors	GABA<sub>B2</sub>
+O76000	-	OR2B3_HUMAN	Putative olfactory receptor 2B3 	OR2B3	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O76001	-	OR2J3_HUMAN	Olfactory receptor 2J3 	OR2J3	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O76002	-	OR2J2_HUMAN	Olfactory receptor 2J2 	OR2J2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O76099	-	OR7C1_HUMAN	Olfactory receptor 7C1 	OR7C1	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O76100	-	OR7AA_HUMAN	Olfactory receptor 7A10 	OR7A10	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O94910	-	AGRL1_HUMAN	Adhesion G protein-coupled receptor L1 	ADGRL1	1474	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRL	ADGRL1
+O95006	-	OR2F2_HUMAN	Olfactory receptor 2F2 	OR2F2	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O95007	-	OR6B1_HUMAN	Olfactory receptor 6B1 	OR6B1	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O95013	-	O4F21_HUMAN	Olfactory receptor 4F21	OR4F21	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O95047	-	OR2A4_HUMAN	Olfactory receptor 2A4 	OR2A4	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O95136	-	S1PR2_HUMAN	Sphingosine 1-phosphate receptor 2 	S1PR2	353	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Lysophospholipid (S1P) receptors	S1P<sub>2</sub> receptor
+O95221	-	OR5F1_HUMAN	Olfactory receptor 5F1 	OR5F1	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O95222	-	OR6A2_HUMAN	Olfactory receptor 6A2 	OR6A2	327	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O95371	-	OR2C1_HUMAN	Olfactory receptor 2C1 	OR2C1	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O95490	-	AGRL2_HUMAN	Adhesion G protein-coupled receptor L2 	ADGRL2	1459	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRL	ADGRL2
+O95665	-	NTR2_HUMAN	Neurotensin receptor type 2 	NTSR2	410	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neurotensin receptors	NTS<sub>2</sub> receptor
+O95800	-	GPR75_HUMAN	Probable G-protein coupled receptor 75	GPR75	540	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR75</i>
+O95838	-	GLP2R_HUMAN	Glucagon-like peptide 2 receptor 	GLP2R	553	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Glucagon receptor family	GLP-2 receptor
+O95918	-	OR2H2_HUMAN	Olfactory receptor 2H2 	OR2H2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+O95977	2DCO	S1PR4_HUMAN	Sphingosine 1-phosphate receptor 4 	S1PR4	384	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Lysophospholipid (S1P) receptors	S1P<sub>4</sub> receptor
+P03999	-	OPSB_HUMAN	Short-wave-sensitive opsin 1 	OPN1SW	348	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Sensory receptors	Opsins	Short-wave-sensitive opsin 1
+P04000	-	OPSR_HUMAN	Long-wave-sensitive opsin 1 	OPN1LW	364	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Sensory receptors	Opsins	Long-wave-sensitive opsin 1
+P04001	-	OPSG_HUMAN	Medium-wave-sensitive opsin 1 	OPN1MW	364	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Sensory receptors	Opsins	Medium-wave-sensitive opsin 1
+P04201	-	MAS_HUMAN	Proto-oncogene Mas	MAS1	325	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>MAS1</i>
+P07550	2R4R  2R4S  2RH1  3D4S  3KJ6  3NY8  3NY9  3NYA  3P0G  3PDS  3SN6  4GBR  4LDE  4LDL  4LDO  4QKX  5D5A  5D5B  5D6L  5JQH  5X7D  6E67  6MXT  6N48	ADRB2_HUMAN	Beta-2 adrenergic receptor 	ADRB2	413	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Adrenoceptors	&beta;<sub>2</sub>-adrenoceptor
+P08100	4ZWJ  5DGY  5W0P  5W0P  6CMO	OPSD_HUMAN	Rhodopsin 	RHO	348	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Sensory receptors	Opsins	Rhodopsin
+P08172	3UON  4MQS  4MQT  5YC8  5ZK3  5ZK8  5ZKB  5ZKC  6OIK	ACM2_HUMAN	Muscarinic acetylcholine receptor M2	CHRM2	466	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Acetylcholine receptors (muscarinic)	M<sub>2</sub> receptor
+P08173	5DSG  6D9H	ACM4_HUMAN	Muscarinic acetylcholine receptor M4	CHRM4	479	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Acetylcholine receptors (muscarinic)	M<sub>4</sub> receptor
+P08588	2LSQ	ADRB1_HUMAN	Beta-1 adrenergic receptor 	ADRB1	477	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Adrenoceptors	&beta;<sub>1</sub>-adrenoceptor
+P08908	-	5HT1A_HUMAN	5-hydroxytryptamine receptor 1A 	HTR1A	422	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-HT<sub>1A</sub> receptor
+P08912	-	ACM5_HUMAN	Muscarinic acetylcholine receptor M5	CHRM5	532	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Acetylcholine receptors (muscarinic)	M<sub>5</sub> receptor
+P08913	1HLL  1HO9  1HOD  1HOF	ADA2A_HUMAN	Alpha-2A adrenergic receptor 	ADRA2A	450	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Adrenoceptors	&alpha;<sub>2A</sub>-adrenoceptor
+P0C604	-	OR4A8_HUMAN	Olfactory receptor 4A8 	OR4A8	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C617	-	O5AL1_HUMAN	Olfactory receptor 5AL1 	OR5AL1	328	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C623	-	OR4Q2_HUMAN	Olfactory receptor 4Q2 	OR4Q2	307	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C626	-	OR5G3_HUMAN	Olfactory receptor 5G3 	OR5G3	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C628	-	O5AC1_HUMAN	Olfactory receptor 5AC1 	OR5AC1	307	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C629	-	O10J4_HUMAN	Olfactory receptor 10J4	OR10J4	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C645	-	OR4E1_HUMAN	Olfactory receptor 4E1 	OR4E1	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C646	-	O52Z1_HUMAN	Olfactory receptor 52Z1	OR52Z1	298	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C7N1	-	OR8U8_HUMAN	Olfactory receptor 8U8	OR8U8	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C7N5	-	OR8U9_HUMAN	Olfactory receptor 8U9	OR8U9	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C7N8	-	OR9G9_HUMAN	Olfactory receptor 9G9	OR9G9	305	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C7T2	-	OR2T7_HUMAN	Olfactory receptor 2T7 	OR2T7	308	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0C7T3	-	O56A5_HUMAN	Olfactory receptor 56A5	OR56A5	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0DMS8	-	AA3R_HUMAN	Adenosine receptor A3	ADORA3	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	Adenosine receptors	A<sub>3</sub> receptor
+P0DMU2	-	OR83P_HUMAN	Putative olfactory receptor 8G3 pseudogene 	OR8G3P	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0DN77	-	OPSG2_HUMAN	Medium-wave-sensitive opsin 2 	OPN1MW2	364	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0DN78	-	OPSG3_HUMAN	Medium-wave-sensitive opsin 3 	OPN1MW3	364	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0DN80	-	OR5H8_HUMAN	Olfactory receptor 5H8 	OR5H8	308	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0DN81	-	O13C7_HUMAN	Olfactory receptor 13C7	OR13C7	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P0DN82	-	O12D1_HUMAN	Olfactory receptor 12D1 	OR12D1	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P11229	5CXV  6OIJ	ACM1_HUMAN	Muscarinic acetylcholine receptor M1	CHRM1	460	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Acetylcholine receptors (muscarinic)	M<sub>1</sub> receptor
+P13945	-	ADRB3_HUMAN	Beta-3 adrenergic receptor 	ADRB3	408	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Adrenoceptors	&beta;<sub>3</sub>-adrenoceptor
+P14416	5AER  6CM4	DRD2_HUMAN	D(2) dopamine receptor	DRD2	443	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Dopamine receptors	D<sub>2</sub> receptor
+P16473	2XWT  3G04	TSHR_HUMAN	Thyrotropin receptor 	TSHR	764	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Glycoprotein hormone receptors	TSH receptor
+P18089	-	ADA2B_HUMAN	Alpha-2B adrenergic receptor 	ADRA2B	450	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Adrenoceptors	&alpha;<sub>2B</sub>-adrenoceptor
+P18825	-	ADA2C_HUMAN	Alpha-2C adrenergic receptor 	ADRA2C	462	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Adrenoceptors	&alpha;<sub>2C</sub>-adrenoceptor
+P20309	-	ACM3_HUMAN	Muscarinic acetylcholine receptor M3	CHRM3	590	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Acetylcholine receptors (muscarinic)	M<sub>3</sub> receptor
+P21452	-	NK2R_HUMAN	Substance-K receptor 	TACR2	398	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Tachykinin receptors	NK<sub>2</sub> receptor
+P21453	-	S1PR1_HUMAN	Sphingosine 1-phosphate receptor 1 	S1PR1	382	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Lysophospholipid (S1P) receptors	S1P<sub>1</sub> receptor
+P21462	-	FPR1_HUMAN	fMet-Leu-Phe receptor 	FPR1	350	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Formylpeptide receptors	FPR1
+P21554	1LVQ  1LVR  2B0Y  2KOE  2MZ2  2MZ3  2MZA  5TGZ  5U09  5XR8  5XRA  6N4B	CNR1_HUMAN	Cannabinoid receptor 1 	CNR1	472	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Cannabinoid receptors	CB<sub>1</sub> receptor
+P21728	-	DRD1_HUMAN	D(1A) dopamine receptor	DRD1	446	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Dopamine receptors	D<sub>1</sub> receptor
+P21730	5O9H  6C1Q  6C1R	C5AR1_HUMAN	C5a anaphylatoxin chemotactic receptor 1 	C5AR1	350	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Complement peptide receptors	C5a<sub>1</sub> receptor
+P21731	-	TA2R_HUMAN	Thromboxane A2 receptor 	TBXA2R	343	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Prostanoid receptors	TP receptor
+P21917	-	DRD4_HUMAN	D(4) dopamine receptor	DRD4	467	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Dopamine receptors	D<sub>4</sub> receptor
+P21918	-	DRD5_HUMAN	D(1B) dopamine receptor	DRD5	477	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Dopamine receptors	D<sub>5</sub> receptor
+P22888	-	LSHR_HUMAN	Lutropin-choriogonadotropic hormone receptor 	LHCGR	699	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Glycoprotein hormone receptors	LH receptor
+P23945	1XWD  4AY9  4MQW	FSHR_HUMAN	Follicle-stimulating hormone receptor 	FSHR	695	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Glycoprotein hormone receptors	FSH receptor
+P24530	5GLH  5GLI  5X93  5XPR  6IGK  6IGL  6K1Q	EDNRB_HUMAN	Endothelin receptor type B 	EDNRB	442	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Endothelin receptors	ET<sub>B</sub> receptor
+P25021	-	HRH2_HUMAN	Histamine H2 receptor 	HRH2	359	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Histamine receptors	H<sub>2</sub> receptor
+P25024	1ILP  1ILQ  2LNL	CXCR1_HUMAN	C-X-C chemokine receptor type 1 	CXCR1	350	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CXCR1
+P25025	-	CXCR2_HUMAN	C-X-C chemokine receptor type 2 	CXCR2	360	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CXCR2
+P25089	-	FPR3_HUMAN	N-formyl peptide receptor 3 	FPR3	353	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Formylpeptide receptors	FPR3
+P25090	-	FPR2_HUMAN	N-formyl peptide receptor 2 	FPR2	351	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Formylpeptide receptors	FPR2/ALX
+P25100	-	ADA1D_HUMAN	Alpha-1D adrenergic receptor 	ADRA1D	572	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Adrenoceptors	&alpha;<sub>1D</sub>-adrenoceptor
+P25101	-	EDNRA_HUMAN	Endothelin-1 receptor 	EDNRA	427	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Endothelin receptors	ET<sub>A</sub> receptor
+P25103	2KS9  2KSA  2KSB  6E59  6HLL  6HLO  6HLP  6J20  6J21	NK1R_HUMAN	Substance-P receptor 	TACR1	407	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Tachykinin receptors	NK<sub>1</sub> receptor
+P25105	-	PTAFR_HUMAN	Platelet-activating factor receptor 	PTAFR	342	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Platelet-activating factor receptors	PAF receptor
+P25106	-	ACKR3_HUMAN	Atypical chemokine receptor 3 	ACKR3	362	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	ACKR3
+P25116	1NRN  1NRO  1NRP  1NRQ  1NRR  3BEF  3HKI  3HKJ  3LU9  3VW7	PAR1_HUMAN	Proteinase-activated receptor 1 	F2R	425	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Proteinase-activated receptors	PAR1
+P25929	-	NPY1R_HUMAN	Neuropeptide Y receptor type 1 	NPY1R	384	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuropeptide Y receptors	Y<sub>1</sub> receptor
+P28221	-	5HT1D_HUMAN	5-hydroxytryptamine receptor 1D 	HTR1D	377	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-HT<sub>1D</sub> receptor
+P28222	4IAQ  4IAR  5V54  6G79	5HT1B_HUMAN	5-hydroxytryptamine receptor 1B 	HTR1B	390	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-HT<sub>1B</sub> receptor
+P28223	-	5HT2A_HUMAN	5-hydroxytryptamine receptor 2A 	HTR2A	471	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-HT<sub>2A</sub> receptor
+P28335	-	5HT2C_HUMAN	5-hydroxytryptamine receptor 2C 	HTR2C	458	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-HT<sub>2C</sub> receptor
+P28336	-	NMBR_HUMAN	Neuromedin-B receptor 	NMBR	390	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Bombesin receptors	BB<sub>1</sub> receptor
+P28566	-	5HT1E_HUMAN	5-hydroxytryptamine receptor 1E 	HTR1E	365	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-ht<sub>1E</sub> receptor
+P29274	2YDO  2YDV  3EML  3PWH  3QAK  3REY  3RFM  3UZA  3UZC  3VG9  3VGA  4EIY  4UG2  4UHR  5G53  5IU4  5IU7  5IU8  5IUA  5IUB  5JTB  5K2A  5K2B  5K2C  5K2D  5MZJ  5MZP  5N2R  5NLX  5NM2  5NM4  5OLG  5OLH  5OLO  5OLV  5OLZ  5OM1  5OM4  5UIG  5UVI  5VRA  5WF5  5WF6  6AQF  6GDG  6GT3  6MH8	AA2AR_HUMAN	Adenosine receptor A2a	ADORA2A	412	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	Adenosine receptors	A<sub>2A</sub> receptor
+P29275	-	AA2BR_HUMAN	Adenosine receptor A2b	ADORA2B	332	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	Adenosine receptors	A<sub>2B</sub> receptor
+P29371	-	NK3R_HUMAN	Neuromedin-K receptor 	TACR3	465	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Tachykinin receptors	NK<sub>3</sub> receptor
+P30411	-	BKRB2_HUMAN	B2 bradykinin receptor 	BDKRB2	391	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Bradykinin receptors	B<sub>2</sub> receptor
+P30518	-	V2R_HUMAN	Vasopressin V2 receptor 	AVPR2	371	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Vasopressin and oxytocin receptors	V<sub>2</sub> receptor
+P30542	-	AA1R_HUMAN	Adenosine receptor A1	ADORA1	326	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	Adenosine receptors	A<sub>1</sub> receptor
+P30550	-	GRPR_HUMAN	Gastrin-releasing peptide receptor 	GRPR	384	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Bombesin receptors	BB<sub>2</sub> receptor
+P30556	-	AGTR1_HUMAN	Type-1 angiotensin II receptor 	AGTR1	359	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Angiotensin receptors	AT<sub>1</sub> receptor
+P30559	-	OXYR_HUMAN	Oxytocin receptor 	OXTR	389	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Vasopressin and oxytocin receptors	OT receptor
+P30872	-	SSR1_HUMAN	Somatostatin receptor type 1 	SSTR1	391	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Somatostatin receptors	SST1 receptor
+P30874	-	SSR2_HUMAN	Somatostatin receptor type 2 	SSTR2	369	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Somatostatin receptors	SST2 receptor
+P30939	-	5HT1F_HUMAN	5-hydroxytryptamine receptor 1F 	HTR1F	366	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-HT<sub>1F</sub> receptor
+P30953	-	OR1E1_HUMAN	Olfactory receptor 1E1 	OR1E1	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P30954	-	O10J1_HUMAN	Olfactory receptor 10J1 	OR10J1	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P30968	-	GNRHR_HUMAN	Gonadotropin-releasing hormone receptor 	GNRHR	328	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Gonadotrophin-releasing hormone receptors	GnRH<sub>1</sub> receptor
+P30988	5II0  5UZ7  6NIY	CALCR_HUMAN	Calcitonin receptor 	CALCR	508	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Calcitonin receptors	CT receptor
+P30989	2LYW  6OS9  6OSA	NTR1_HUMAN	Neurotensin receptor type 1 	NTSR1	418	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neurotensin receptors	NTS<sub>1</sub> receptor
+P31391	-	SSR4_HUMAN	Somatostatin receptor type 4 	SSTR4	388	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Somatostatin receptors	SST4 receptor
+P32238	1D6G  1HZN	CCKAR_HUMAN	Cholecystokinin receptor type A 	CCKAR	428	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Cholecystokinin receptors	CCK<sub>1</sub> receptor
+P32239	1L4T	GASR_HUMAN	Gastrin/cholecystokinin type B receptor 	CCKBR	447	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Cholecystokinin receptors	CCK<sub>2</sub> receptor
+P32241	1OF2  1OGT  3B3I  3B6S  3DTX  3HCV  5DEF  5DEG  5IB1  5IB2  5IB3  5IB4  5IB5	VIPR1_HUMAN	Vasoactive intestinal polypeptide receptor 1 	VIPR1	457	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	VIP and PACAP receptors	VPAC<sub>1</sub> receptor
+P32245	-	MC4R_HUMAN	Melanocortin receptor 4 	MC4R	332	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Melanocortin receptors	MC<sub>4</sub> receptor
+P32246	-	CCR1_HUMAN	C-C chemokine receptor type 1 	CCR1	355	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CCR1
+P32247	-	BRS3_HUMAN	Bombesin receptor subtype-3 	BRS3	399	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Bombesin receptors	BB<sub>3</sub> receptor
+P32248	6QZH	CCR7_HUMAN	C-C chemokine receptor type 7 	CCR7	378	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CCR7
+P32249	-	GP183_HUMAN	G-protein coupled receptor 183 	GPR183	361	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR183</i>
+P32302	-	CXCR5_HUMAN	C-X-C chemokine receptor type 5 	CXCR5	372	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CXCR5
+P32745	-	SSR3_HUMAN	Somatostatin receptor type 3 	SSTR3	418	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Somatostatin receptors	SST3 receptor
+P33032	-	MC5R_HUMAN	Melanocortin receptor 5 	MC5R	325	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Melanocortin receptors	MC<sub>5</sub> receptor
+P34969	-	5HT7R_HUMAN	5-hydroxytryptamine receptor 7 	HTR7	479	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-HT<sub>7</sub> receptor
+P34972	2KI9  5ZTY	CNR2_HUMAN	Cannabinoid receptor 2 	CNR2	360	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Cannabinoid receptors	CB<sub>2</sub> receptor
+P34981	-	TRFR_HUMAN	Thyrotropin-releasing hormone receptor 	TRHR	398	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Thyrotropin-releasing hormone receptors	TRH<sub>1</sub> receptor
+P34982	-	OR1D2_HUMAN	Olfactory receptor 1D2 	OR1D2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P34995	-	PE2R1_HUMAN	Prostaglandin E2 receptor EP1 subtype 	PTGER1	402	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Prostanoid receptors	EP<sub>1</sub> receptor
+P34998	2L27  3EHS  3EHT  3EHU  4K5Y  4Z9G	CRFR1_HUMAN	Corticotropin-releasing factor receptor 1 	CRHR1	444	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Corticotropin-releasing factor receptors	CRF<sub>1</sub> receptor
+P35346	-	SSR5_HUMAN	Somatostatin receptor type 5 	SSTR5	364	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Somatostatin receptors	SST5 receptor
+P35348	-	ADA1A_HUMAN	Alpha-1A adrenergic receptor 	ADRA1A	466	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Adrenoceptors	&alpha;<sub>1A</sub>-adrenoceptor
+P35367	-	HRH1_HUMAN	Histamine H1 receptor 	HRH1	487	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Histamine receptors	H<sub>1</sub> receptor
+P35368	-	ADA1B_HUMAN	Alpha-1B adrenergic receptor 	ADRA1B	520	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Adrenoceptors	&alpha;<sub>1B</sub>-adrenoceptor
+P35372	-	OPRM_HUMAN	Mu-type opioid receptor 	OPRM1	400	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Opioid receptors	&mu; receptor
+P35408	5YHL  5YWY	PE2R4_HUMAN	Prostaglandin E2 receptor EP4 subtype 	PTGER4	488	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Prostanoid receptors	EP<sub>4</sub> receptor
+P35410	-	MAS1L_HUMAN	Mas-related G-protein coupled receptor MRG 	MAS1L	378	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>MAS1L</i>
+P35414	2LOT  2LOU  2LOV  2LOW  5VBL	APJ_HUMAN	Apelin receptor 	APLNR	380	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Apelin receptors	apelin receptor
+P35462	-	DRD3_HUMAN	D(3) dopamine receptor	DRD3	400	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Dopamine receptors	D<sub>3</sub> receptor
+P37288	1YTV	V1AR_HUMAN	Vasopressin V1a receptor 	AVPR1A	418	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Vasopressin and oxytocin receptors	V<sub>1A</sub> receptor
+P41143	-	OPRD_HUMAN	Delta-type opioid receptor 	OPRD1	372	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Opioid receptors	&delta; receptor
+P41145	-	OPRK_HUMAN	Kappa-type opioid receptor 	OPRK1	380	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Opioid receptors	&kappa; receptor
+P41146	-	OPRX_HUMAN	Nociceptin receptor 	OPRL1	370	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Opioid receptors	NOP receptor
+P41180	5FBH  5FBK  5K5S  5K5T	CASR_HUMAN	Extracellular calcium-sensing receptor 	CASR	1078	CG	Homo	sapiens	Human	Glutamate-like	Class C	Ion receptors	Calcium-sensing receptors	CaS receptor
+P41231	-	P2RY2_HUMAN	P2Y purinoceptor 2 	P2RY2	377	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	P2Y receptors	P2Y<sub>2</sub> receptor
+P41586	2JOD  3N94	PACR_HUMAN	Pituitary adenylate cyclase-activating polypeptide type I receptor 	ADCYAP1R1	468	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	VIP and PACAP receptors	PAC<sub>1</sub> receptor
+P41587	2X57	VIPR2_HUMAN	Vasoactive intestinal polypeptide receptor 2 	VIPR2	438	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	VIP and PACAP receptors	VPAC<sub>2</sub> receptor
+P41594	3LMK  4OO9  5CGC  5CGD  6FFH  6FFI  6N4X  6N4Y  6N50  6N51  6N52	GRM5_HUMAN	Metabotropic glutamate receptor 5 	GRM5	1212	CG	Homo	sapiens	Human	Glutamate-like	Class C	Amino acid receptors	Metabotropic glutamate receptors	mGlu<sub>5</sub> receptor
+P41595	-	5HT2B_HUMAN	5-hydroxytryptamine receptor 2B 	HTR2B	481	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-HT<sub>2B</sub> receptor
+P41597	-	CCR2_HUMAN	C-C chemokine receptor type 2 	CCR2	374	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CCR2
+P41968	-	MC3R_HUMAN	Melanocortin receptor 3 	MC3R	323	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Melanocortin receptors	MC<sub>3</sub> receptor
+P43088	-	PF2R_HUMAN	Prostaglandin F2-alpha receptor 	PTGFR	359	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Prostanoid receptors	FP receptor
+P43115	-	PE2R3_HUMAN	Prostaglandin E2 receptor EP3 subtype 	PTGER3	390	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Prostanoid receptors	EP<sub>3</sub> receptor
+P43116	-	PE2R2_HUMAN	Prostaglandin E2 receptor EP2 subtype 	PTGER2	358	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Prostanoid receptors	EP<sub>2</sub> receptor
+P43119	-	PI2R_HUMAN	Prostacyclin receptor 	PTGIR	386	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Prostanoid receptors	IP receptor
+P43220	3C59  3C5T  3IOL  4ZGM  5E94  5NX2  5OTT  5OTU  5OTV  5OTW  5OTX  5VEW  5VEX  6B3J  6GB1	GLP1R_HUMAN	Glucagon-like peptide 1 receptor 	GLP1R	463	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Glucagon receptor family	GLP-1 receptor
+P43657	-	LPAR6_HUMAN	Lysophosphatidic acid receptor 6 	LPAR6	344	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Lysophospholipid (LPA) receptors	LPA<sub>6</sub> receptor
+P46089	-	GPR3_HUMAN	G-protein coupled receptor 3 	GPR3	330	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR3</i>
+P46091	-	GPR1_HUMAN	G-protein coupled receptor 1	GPR1	355	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR1</i>
+P46092	-	CCR10_HUMAN	C-C chemokine receptor type 10 	CCR10	362	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CCR10
+P46093	-	GPR4_HUMAN	G-protein coupled receptor 4 	GPR4	362	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR4</i>
+P46094	-	XCR1_HUMAN	Chemokine XC receptor 1 	XCR1	333	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	XCR1
+P46095	-	GPR6_HUMAN	G-protein coupled receptor 6 	GPR6	362	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR6</i>
+P46663	-	BKRB1_HUMAN	B1 bradykinin receptor 	BDKRB1	353	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Bradykinin receptors	B<sub>1</sub> receptor
+P47211	-	GALR1_HUMAN	Galanin receptor type 1 	GALR1	349	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Galanin receptors	GAL<sub>1</sub> receptor
+P47775	-	GPR12_HUMAN	G-protein coupled receptor 12	GPR12	334	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR12</i>
+P47804	-	RGR_HUMAN	RPE-retinal G protein-coupled receptor	RGR	291	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P47871	2A83  3CZF  4ERS  4L6R  4LF3  5EE7  5XEZ  5XF1  5YQZ	GLR_HUMAN	Glucagon receptor 	GCGR	477	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Glucagon receptor family	glucagon receptor
+P47872	-	SCTR_HUMAN	Secretin receptor 	SCTR	440	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Glucagon receptor family	secretin receptor
+P47881	-	OR3A1_HUMAN	Olfactory receptor 3A1 	OR3A1	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P47883	-	OR3A4_HUMAN	Putative olfactory receptor 3A4 	OR3A4P	348	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P47884	-	OR1D4_HUMAN	Olfactory receptor 1D4 	OR1D4	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P47887	-	OR1E2_HUMAN	Olfactory receptor 1E2 	OR1E2	323	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P47888	-	OR3A3_HUMAN	Olfactory receptor 3A3 	OR3A3	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P47890	-	OR1G1_HUMAN	Olfactory receptor 1G1 	OR1G1	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P47893	-	OR3A2_HUMAN	Olfactory receptor 3A2 	OR3A2	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P47898	-	5HT5A_HUMAN	5-hydroxytryptamine receptor 5A 	HTR5A	357	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-HT<sub>5A</sub> receptor
+P47900	-	P2RY1_HUMAN	P2Y purinoceptor 1 	P2RY1	373	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	P2Y receptors	P2Y<sub>1</sub> receptor
+P47901	-	V1BR_HUMAN	Vasopressin V1b receptor 	AVPR1B	424	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Vasopressin and oxytocin receptors	V<sub>1B</sub> receptor
+P48039	6ME2  6ME3  6ME4  6ME5	MTR1A_HUMAN	Melatonin receptor type 1A 	MTNR1A	350	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Melatonin receptors	Melatonin	MT<sub>1</sub> receptor
+P48145	-	NPBW1_HUMAN	Neuropeptides B/W receptor type 1 	NPBWR1	328	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuropeptide W/neuropeptide B receptors	NPBW1 receptor
+P48146	-	NPBW2_HUMAN	Neuropeptides B/W receptor type 2 	NPBWR2	333	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuropeptide W/neuropeptide B receptors	NPBW2 receptor
+P48546	2QKH  4HJ0  6DKJ	GIPR_HUMAN	Gastric inhibitory polypeptide receptor 	GIPR	466	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Glucagon receptor family	GIP receptor
+P48960	2BOU	CD97_HUMAN	Adhesion G protein-coupled receptor E5	CD97	835	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRE	ADGRE5
+P49019	-	HCAR3_HUMAN	Hydroxycarboxylic acid receptor 3 	HCAR3	387	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Alicarboxylic acid receptors	Hydroxycarboxylic acid receptors	HCA<sub>3</sub> receptor
+P49146	-	NPY2R_HUMAN	Neuropeptide Y receptor type 2 	NPY2R	381	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuropeptide Y receptors	Y<sub>2</sub> receptor
+P49190	-	PTH2R_HUMAN	Parathyroid hormone 2 receptor 	PTH2R	550	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Parathyroid hormone receptors	PTH2 receptor
+P49238	-	CX3C1_HUMAN	CX3C chemokine receptor 1 	CX3CR1	355	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CX<sub>3</sub>CR1
+P49286	-	MTR1B_HUMAN	Melatonin receptor type 1B 	MTNR1B	362	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Melatonin receptors	Melatonin	MT<sub>2</sub> receptor
+P49682	-	CXCR3_HUMAN	C-X-C chemokine receptor type 3 	CXCR3	368	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CXCR3
+P49683	-	PRLHR_HUMAN	Prolactin-releasing peptide receptor 	PRLHR	370	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Prolactin-releasing peptide receptors	PrRP receptor
+P49685	-	GPR15_HUMAN	G-protein coupled receptor 15 	GPR15	360	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR15</i>
+P50052	-	AGTR2_HUMAN	Type-2 angiotensin II receptor 	AGTR2	363	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Angiotensin receptors	AT<sub>2</sub> receptor
+P50391	-	NPY4R_HUMAN	Neuropeptide Y receptor type 4 	NPY4R	375	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuropeptide Y receptors	Y<sub>4</sub> receptor
+P50406	-	5HT6R_HUMAN	5-hydroxytryptamine receptor 6 	HTR6	440	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-HT<sub>6</sub> receptor
+P51582	-	P2RY4_HUMAN	P2Y purinoceptor 4 	P2RY4	365	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	P2Y receptors	P2Y<sub>4</sub> receptor
+P51677	-	CCR3_HUMAN	C-C chemokine receptor type 3 	CCR3	355	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CCR3
+P51679	-	CCR4_HUMAN	C-C chemokine receptor type 4 	CCR4	360	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CCR4
+P51681	2L87  2MZX  2RLL  2RRS  4MBS  5UIW  5YD3  5YD4  5YD5  5YY4  6AKX  6AKY  6FGP  6MEO  6MET	CCR5_HUMAN	C-C chemokine receptor type 5 	CCR5	352	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CCR5
+P51684	-	CCR6_HUMAN	C-C chemokine receptor type 6 	CCR6	374	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CCR6
+P51685	-	CCR8_HUMAN	C-C chemokine receptor type 8 	CCR8	355	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CCR8
+P51686	5LWE	CCR9_HUMAN	C-C chemokine receptor type 9 	CCR9	369	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CCR9
+P55085	-	PAR2_HUMAN	Proteinase-activated receptor 2 	F2RL1	397	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Proteinase-activated receptors	PAR2
+P58170	-	OR1D5_HUMAN	Olfactory receptor 1D5 	OR1D5	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P58173	-	OR2B6_HUMAN	Olfactory receptor 2B6 	OR2B6	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P58180	-	OR4D2_HUMAN	Olfactory receptor 4D2 	OR4D2	307	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P58181	-	O10A3_HUMAN	Olfactory receptor 10A3 	OR10A3	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P58182	-	O12D2_HUMAN	Olfactory receptor 12D2 	OR12D2	307	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P59533	-	T2R38_HUMAN	Taste receptor type 2 member 38 	TAS2R38	333	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R38</i>
+P59534	-	T2R39_HUMAN	Taste receptor type 2 member 39 	TAS2R39	338	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R39</i>
+P59535	-	T2R40_HUMAN	Taste receptor type 2 member 40 	TAS2R40	323	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R40</i>
+P59536	-	T2R41_HUMAN	Taste receptor type 2 member 41 	TAS2R41	307	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R41</i>
+P59537	-	T2R43_HUMAN	Taste receptor type 2 member 43 	TAS2R43	309	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R43</i>
+P59538	-	T2R31_HUMAN	Taste receptor type 2 member 31 	TAS2R31	309	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R31</i>
+P59539	-	T2R45_HUMAN	Taste receptor type 2 member 45 	TAS2R45	299	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R45</i>
+P59540	-	T2R46_HUMAN	Taste receptor type 2 member 46 	TAS2R46	309	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R46</i>
+P59541	-	T2R30_HUMAN	Taste receptor type 2 member 30 	TAS2R30	319	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R30</i>
+P59542	-	T2R19_HUMAN	Taste receptor type 2 member 19 	TAS2R19	299	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R19</i>
+P59543	-	T2R20_HUMAN	Taste receptor type 2 member 20 	TAS2R20	309	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R20</i>
+P59544	-	T2R50_HUMAN	Taste receptor type 2 member 50 	TAS2R50	299	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R50</i>
+P59551	-	T2R60_HUMAN	Taste receptor type 2 member 60 	TAS2R60	318	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R60</i>
+P59922	-	OR2B8_HUMAN	Putative olfactory receptor 2B8 	OR2B8P	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+P60893	-	GPR85_HUMAN	Probable G-protein coupled receptor 85 	GPR85	370	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR85</i>
+P61073	2K03  2K04  2K05  2N55  3ODU  3OE0  3OE6  3OE8  3OE9  4RWS	CXCR4_HUMAN	C-X-C chemokine receptor type 4 	CXCR4	352	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	CXCR4
+Q01718	-	ACTHR_HUMAN	Adrenocorticotropic hormone receptor 	MC2R	297	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Melanocortin receptors	MC<sub>2</sub> receptor
+Q01726	-	MSHR_HUMAN	Melanocyte-stimulating hormone receptor 	MC1R	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Melanocortin receptors	MC<sub>1</sub> receptor
+Q02643	2XDG	GHRHR_HUMAN	Growth hormone-releasing hormone receptor 	GHRHR	423	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Glucagon receptor family	GHRH receptor
+Q03431	1BL1  3C4M  3H3G  3L2J  4Z8J  5EMB  6FJ3  6NBF  6NBH  6NBI	PTH1R_HUMAN	Parathyroid hormone/parathyroid hormone-related peptide receptor 	PTH1R	593	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Parathyroid hormone receptors	PTH1 receptor
+Q13255	3KS9  4OR2	GRM1_HUMAN	Metabotropic glutamate receptor 1 	GRM1	1194	CG	Homo	sapiens	Human	Glutamate-like	Class C	Amino acid receptors	Metabotropic glutamate receptors	mGlu<sub>1</sub> receptor
+Q13258	-	PD2R_HUMAN	Prostaglandin D2 receptor 	PTGDR	359	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Prostanoid receptors	DP<sub>1</sub> receptor
+Q13304	-	GPR17_HUMAN	Uracil nucleotide/cysteinyl leukotriene receptor 	GPR17	367	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR17</i>
+Q13324	-	CRFR2_HUMAN	Corticotropin-releasing factor receptor 2 	CRHR2	411	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Corticotropin-releasing factor receptors	CRF<sub>2</sub> receptor
+Q13467	5URY  5URZ  6O39	FZD5_HUMAN	Frizzled-5 	FZD5	585	CG	Homo	sapiens	Human	Frizzled	Class F	Protein receptors	Frizzled	FZD<sub>5</sub>
+Q13585	-	MTR1L_HUMAN	Melatonin-related receptor 	GPR50	617	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR50</i>
+Q13606	-	OR5I1_HUMAN	Olfactory receptor 5I1 	OR5I1	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q13607	-	OR2F1_HUMAN	Olfactory receptor 2F1 	OR2F1	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q13639	5EM9	5HT4R_HUMAN	5-hydroxytryptamine receptor 4 	HTR4	388	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	5-Hydroxytryptamine receptors	5-HT<sub>4</sub> receptor
+Q14246	-	AGRE1_HUMAN	Adhesion G protein-coupled receptor E1 	ADGRE1	886	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRE	ADGRE1
+Q14330	-	GPR18_HUMAN	N-arachidonyl glycine receptor 	GPR18	331	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	GPR18- GPR55 and GPR119	<i>GPR18</i>
+Q14332	6C0B	FZD2_HUMAN	Frizzled-2 	FZD2	565	CG	Homo	sapiens	Human	Frizzled	Class F	Protein receptors	Frizzled	FZD<sub>2</sub>
+Q14416	4XAQ  4XAS  5CNI  5CNJ  5KZN  5KZQ	GRM2_HUMAN	Metabotropic glutamate receptor 2 	GRM2	872	CG	Homo	sapiens	Human	Glutamate-like	Class C	Amino acid receptors	Metabotropic glutamate receptors	mGlu<sub>2</sub> receptor
+Q14439	-	GP176_HUMAN	G-protein coupled receptor 176 	GPR176	515	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR176</i>
+Q14831	3MQ4  5C5C	GRM7_HUMAN	Metabotropic glutamate receptor 7 	GRM7	915	CG	Homo	sapiens	Human	Glutamate-like	Class C	Amino acid receptors	Metabotropic glutamate receptors	mGlu<sub>7</sub> receptor
+Q14832	3SM9  4XAR  5CNK  5CNM  6B7H	GRM3_HUMAN	Metabotropic glutamate receptor 3 	GRM3	879	CG	Homo	sapiens	Human	Glutamate-like	Class C	Amino acid receptors	Metabotropic glutamate receptors	mGlu<sub>3</sub> receptor
+Q14833	-	GRM4_HUMAN	Metabotropic glutamate receptor 4 	GRM4	912	CG	Homo	sapiens	Human	Glutamate-like	Class C	Amino acid receptors	Metabotropic glutamate receptors	mGlu<sub>4</sub> receptor
+Q15077	-	P2RY6_HUMAN	P2Y purinoceptor 6 	P2RY6	328	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	P2Y receptors	P2Y<sub>6</sub> receptor
+Q15391	-	P2Y14_HUMAN	P2Y purinoceptor 14 	P2RY14	338	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	P2Y receptors	P2Y<sub>14</sub> receptor
+Q15612	-	OR1Q1_HUMAN	Olfactory receptor 1Q1 	OR1Q1	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q15615	-	OR4D1_HUMAN	Olfactory receptor 4D1 	OR4D1	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q15617	-	OR8G1_HUMAN	Olfactory receptor 8G1 	OR8G1	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q15619	-	OR1C1_HUMAN	Olfactory receptor 1C1 	OR1C1	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q15620	-	OR8B8_HUMAN	Olfactory receptor 8B8 	OR8B8	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q15622	-	OR7A5_HUMAN	Olfactory receptor 7A5 	OR7A5	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q15722	-	LT4R1_HUMAN	Leukotriene B4 receptor 1 	LTB4R	352	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Leukotriene receptors	BLT<sub>1</sub> receptor
+Q15743	-	OGR1_HUMAN	Ovarian cancer G-protein coupled receptor 1 	GPR68	365	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR68</i>
+Q15760	-	GPR19_HUMAN	Probable G-protein coupled receptor 19 	GPR19	415	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR19</i>
+Q15761	-	NPY5R_HUMAN	Neuropeptide Y receptor type 5 	NPY5R	445	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuropeptide Y receptors	Y<sub>5</sub> receptor
+Q16538	-	GP162_HUMAN	Probable G-protein coupled receptor 162 	GPR162	588	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR162</i>
+Q16570	4NUU  4NUV	ACKR1_HUMAN	Atypical chemokine receptor 1 	ACKR1	336	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	ACKR1
+Q16581	-	C3AR_HUMAN	C3a anaphylatoxin chemotactic receptor 	C3AR1	482	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Complement peptide receptors	C3a receptor
+Q16602	3AQF  3N7P  3N7R  3N7S  4RWF  4RWG  5V6Y  6D1U  6E3Y	CALRL_HUMAN	Calcitonin gene-related peptide type 1 receptor 	CALCRL	461	CG	Homo	sapiens	Human	Secretin-like	Class B	Peptide receptors	Calcitonin receptors	calcitonin receptor-like receptor
+Q49SQ1	-	GPR33_HUMAN	Probable G-protein coupled receptor 33	GPR33	333	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR33</i>
+Q5JQS5	-	OR2BB_HUMAN	Olfactory receptor 2B11	OR2B11	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q5JRS4	-	O10J3_HUMAN	Olfactory receptor 10J3	OR10J3	329	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q5NUL3	-	FFAR4_HUMAN	Free fatty acid receptor 4 	FFAR4	377	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Free fatty acid receptors	FFA4 receptor
+Q5T601	-	AGRF1_HUMAN	Adhesion G-protein coupled receptor F1 	ADGRF1	910	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRF	ADGRF1
+Q5T6X5	-	GPC6A_HUMAN	G-protein coupled receptor family C group 6 member A 	GPRC6A	926	CG	Homo	sapiens	Human	Glutamate-like	Class C	Orphan receptors	Class C Orphans	GPRC6 receptor
+Q5T848	-	GP158_HUMAN	Probable G-protein coupled receptor 158	GPR158	1215	CG	Homo	sapiens	Human	Glutamate-like	Class C	Orphan receptors	Class C Orphans	<i>GPR158</i>
+Q5TZ20	-	OR2G6_HUMAN	Olfactory receptor 2G6	OR2G6	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q5UAW9	-	GP157_HUMAN	G-protein coupled receptor 157	GPR157	335	CG	Homo	sapiens	Human	Secretin-like	Class B	-	-	-
+Q6DWJ6	-	GP139_HUMAN	Probable G-protein coupled receptor 139 	GPR139	353	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR139</i>
+Q6IEU7	-	OR5MA_HUMAN	Olfactory receptor 5M10 	OR5M10	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IEV9	-	OR4CB_HUMAN	Olfactory receptor 4C11 	OR4C11	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IEY1	-	OR4F3_HUMAN	Olfactory receptor 4F3/4F16/4F29 	OR4F3	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IEZ7	-	OR2T5_HUMAN	Olfactory receptor 2T5 	OR2T5	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IF00	-	OR2T2_HUMAN	Olfactory receptor 2T2 	OR2T2	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IF36	-	OR8G2_HUMAN	Putative olfactory receptor 8G2 	OR8G2P	304	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IF42	-	OR2A2_HUMAN	Olfactory receptor 2A2 	OR2A2	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IF63	-	O52W1_HUMAN	Olfactory receptor 52W1 	OR52W1	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IF82	-	O4A47_HUMAN	Olfactory receptor 4A47 	OR4A47	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IF99	-	O10K2_HUMAN	Olfactory receptor 10K2 	OR10K2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IFG1	-	O52E8_HUMAN	Olfactory receptor 52E8 	OR52E8	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IFH4	-	OR6B2_HUMAN	Olfactory receptor 6B2 	OR6B2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6IFN5	-	O7E24_HUMAN	Olfactory receptor 7E24 	OR7E24	339	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q6NV75	-	GP153_HUMAN	Probable G-protein coupled receptor 153 	GPR153	609	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR153</i>
+Q6PRD1	-	GP179_HUMAN	Probable G-protein coupled receptor 179 	GPR179	2367	CG	Homo	sapiens	Human	Glutamate-like	Class C	Orphan receptors	Class C Orphans	<i>GPR179</i>
+Q6QNK2	-	AGRD1_HUMAN	Adhesion G-protein coupled receptor D1 	ADGRD1	874	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRD	ADGRD1
+Q6U736	-	OPN5_HUMAN	Opsin-5 	OPN5	354	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Sensory receptors	Opsins	Opsin-5
+Q6W5P4	-	NPSR1_HUMAN	Neuropeptide S receptor 	NPSR1	371	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuropeptide S receptors	NPS receptor
+Q7RTR8	-	T2R42_HUMAN	Taste receptor type 2 member 42 	TAS2R42	314	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R42</i>
+Q7RTX0	-	TS1R3_HUMAN	Taste receptor type 1 member 3 	TAS1R3	852	CG	Homo	sapiens	Human	Glutamate-like	Class C	Sensory receptors	Taste 1 receptors	<i>TAS1R3</i>
+Q7RTX1	-	TS1R1_HUMAN	Taste receptor type 1 member 1 	TAS1R1	841	CG	Homo	sapiens	Human	Glutamate-like	Class C	Sensory receptors	Taste 1 receptors	<i>TAS1R1</i>
+Q7Z3T1	-	OR2W3_HUMAN	Olfactory receptor 2W3 	OR2W3	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q7Z5H4	-	VN1R5_HUMAN	Vomeronasal type-1 receptor 5 	VN1R5	357	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q7Z5H5	-	VN1R4_HUMAN	Vomeronasal type-1 receptor 4 	VN1R4	301	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q7Z601	-	GP142_HUMAN	Probable G-protein coupled receptor 142 	GPR142	462	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR142</i>
+Q7Z602	-	GP141_HUMAN	Probable G-protein coupled receptor 141 	GPR141	305	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR141</i>
+Q7Z7M1	-	AGRD2_HUMAN	Adhesion G-protein coupled receptor D2 	ADGRD2	963	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRD	ADGRD2
+Q86SM5	-	MRGRG_HUMAN	Mas-related G-protein coupled receptor member G 	MRGPRG	289	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>MRGPRG</i>
+Q86SM8	-	MRGRE_HUMAN	Mas-related G-protein coupled receptor member E 	MRGPRE	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>MRGPRE</i>
+Q86SP6	-	GP149_HUMAN	Probable G-protein coupled receptor 149 	GPR149	731	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR149</i>
+Q86SQ3	-	AGRE4_HUMAN	Putative adhesion G protein-coupled receptor E4P 	ADGRE4P	457	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRE	ADGRE4P
+Q86SQ4	-	GP126_HUMAN	Adhesion G-protein coupled receptor G6 	ADGRG6	1221	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRG	ADGRG6
+Q86SQ6	-	AGRA1_HUMAN	Adhesion G protein-coupled receptor A1 	ADGRA1	560	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRA	ADGRA1
+Q86VZ1	-	P2RY8_HUMAN	P2Y purinoceptor 8 	P2RY8	359	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>P2RY8</i>
+Q86W33	-	TPRA1_HUMAN	Transmembrane protein adipocyte-associated 1 	TPRA1	373	CG	Homo	sapiens	Human	-	-	-	-	-
+Q86Y34	-	AGRG3_HUMAN	Adhesion G protein-coupled receptor G3 	ADGRG3	549	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRG	ADGRG3
+Q8IWK6	-	AGRA3_HUMAN	Adhesion G protein-coupled receptor A3 	ADGRA3	1321	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRA	ADGRA3
+Q8IXE1	-	OR4N5_HUMAN	Olfactory receptor 4N5 	OR4N5	308	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8IYL9	-	PSYR_HUMAN	Psychosine receptor 	GPR65	337	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR65</i>
+Q8IZ08	-	GP135_HUMAN	G-protein coupled receptor 135	GPR135	494	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR135</i>
+Q8IZF2	-	AGRF5_HUMAN	Adhesion G protein-coupled receptor F5 	ADGRF5	1346	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRF	ADGRF5
+Q8IZF3	-	AGRF4_HUMAN	Adhesion G protein-coupled receptor F4 	ADGRF4	695	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRF	ADGRF4
+Q8IZF4	-	AGRG5_HUMAN	Adhesion G-protein coupled receptor G5 	ADGRG5	528	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRG	ADGRG5
+Q8IZF5	-	AGRF3_HUMAN	Adhesion G-protein coupled receptor F3 	ADGRF3	1079	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRF	ADGRF3
+Q8IZF6	-	AGRG4_HUMAN	Adhesion G-protein coupled receptor G4 	ADGRG4	3080	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRG	ADGRG4
+Q8IZF7	-	AGRF2_HUMAN	Adhesion G-protein coupled receptor F2 	ADGRF2	708	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRF	ADGRF2
+Q8IZP9	-	AGRG2_HUMAN	Adhesion G-protein coupled receptor G2 	ADGRG2	1017	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRG	ADGRG2
+Q8N0Y3	-	OR4N4_HUMAN	Olfactory receptor 4N4 	OR4N4	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8N0Y5	-	OR8I2_HUMAN	Olfactory receptor 8I2 	OR8I2	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8N127	-	O5AS1_HUMAN	Olfactory receptor 5AS1 	OR5AS1	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8N146	-	OR8H3_HUMAN	Olfactory receptor 8H3 	OR8H3	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8N148	-	OR6V1_HUMAN	Olfactory receptor 6V1 	OR6V1	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8N162	-	OR8H2_HUMAN	Olfactory receptor 8H2 	OR8H2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8N349	-	OR2LD_HUMAN	Olfactory receptor 2L13 	OR2L13	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8N628	-	OR2C3_HUMAN	Olfactory receptor 2C3 	OR2C3	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8N6U8	-	GP161_HUMAN	G-protein coupled receptor 161 	GPR161	529	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR161</i>
+Q8NDV2	-	GPR26_HUMAN	G-protein coupled receptor 26	GPR26	337	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR26</i>
+Q8NFJ5	-	RAI3_HUMAN	Retinoic acid-induced protein 3 	GPRC5A	357	CG	Homo	sapiens	Human	Glutamate-like	Class C	Orphan receptors	Class C Orphans	<i>GPRC5A</i>
+Q8NFJ6	-	PKR2_HUMAN	Prokineticin receptor 2 	PROKR2	384	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Prokineticin receptors	PKR<sub>2</sub>
+Q8NFN8	-	GP156_HUMAN	Probable G-protein coupled receptor 156 	GPR156	814	CG	Homo	sapiens	Human	Glutamate-like	Class C	Orphan receptors	Class C Orphans	<i>GPR156</i>
+Q8NFZ6	-	VN1R2_HUMAN	Vomeronasal type-1 receptor 2 	VN1R2	395	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG75	-	OR5T1_HUMAN	Olfactory receptor 5T1 	OR5T1	326	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG76	-	O2T33_HUMAN	Olfactory receptor 2T33 	OR2T33	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG77	-	O2T12_HUMAN	Olfactory receptor 2T12 	OR2T12	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG78	-	OR8G5_HUMAN	Olfactory receptor 8G5 	OR8G5	346	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG80	-	OR2L5_HUMAN	Olfactory receptor 2L5 	OR2L5	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG81	-	OR2M7_HUMAN	Olfactory receptor 2M7 	OR2M7	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG83	-	OR2M3_HUMAN	Olfactory receptor 2M3 	OR2M3	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG84	-	O2AK2_HUMAN	Olfactory receptor 2AK2 	OR2AK2	335	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG85	-	OR2L3_HUMAN	Olfactory receptor 2L3	OR2L3	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG92	-	O13H1_HUMAN	Olfactory receptor 13H1 	OR13H1	308	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG94	-	O11H1_HUMAN	Olfactory receptor 11H1 	OR11H1	326	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG95	-	OR7G3_HUMAN	Olfactory receptor 7G3 	OR7G3	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG97	-	OR2Z1_HUMAN	Olfactory receptor 2Z1 	OR2Z1	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG98	-	OR7D4_HUMAN	Olfactory receptor 7D4 	OR7D4	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NG99	-	OR7G2_HUMAN	Olfactory receptor 7G2 	OR7G2	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGA0	-	OR7G1_HUMAN	Olfactory receptor 7G1 	OR7G1	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGA1	-	OR1M1_HUMAN	Olfactory receptor 1M1 	OR1M1	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGA2	-	OR7A2_HUMAN	Putative olfactory receptor 7A2 	OR7A2P	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGA4	-	G32P1_HUMAN	Putative G-protein coupled receptor GPR32P1 	GPR32P1	272	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGA5	-	O10H4_HUMAN	Olfactory receptor 10H4 	OR10H4	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGA6	-	O10H5_HUMAN	Olfactory receptor 10H5 	OR10H5	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGA8	-	O4F17_HUMAN	Olfactory receptor 4F17 	OR4F17	305	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGB2	-	OR4C5_HUMAN	Olfactory receptor 4C5 	OR4C5	326	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGB4	-	OR4S1_HUMAN	Olfactory receptor 4S1 	OR4S1	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGB6	-	OR4M2_HUMAN	Olfactory receptor 4M2 	OR4M2	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGB8	-	O4F15_HUMAN	Olfactory receptor 4F15 	OR4F15	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGB9	-	OR4F6_HUMAN	Olfactory receptor 4F6 	OR4F6	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGC0	-	O5AU1_HUMAN	Olfactory receptor 5AU1 	OR5AU1	362	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGC1	-	O11G2_HUMAN	Olfactory receptor 11G2 	OR11G2	345	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGC2	-	OR4E2_HUMAN	Olfactory receptor 4E2 	OR4E2	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGC3	-	O10G2_HUMAN	Olfactory receptor 10G2	OR10G2	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGC4	-	O10G3_HUMAN	Olfactory receptor 10G3 	OR10G3	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGC5	-	OR6J1_HUMAN	Olfactory receptor 6J1 	OR6J1	347	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGC6	-	OR4KH_HUMAN	Olfactory receptor 4K17 	OR4K17	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGC7	-	O11H6_HUMAN	Olfactory receptor 11H6 	OR11H6	330	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGC8	-	O11H7_HUMAN	Olfactory receptor 11H7 	OR11H7	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGC9	-	O11H4_HUMAN	Olfactory receptor 11H4 	OR11H4	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGD0	-	OR4M1_HUMAN	Olfactory receptor 4M1 	OR4M1	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGD1	-	OR4N2_HUMAN	Olfactory receptor 4N2 	OR4N2	307	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGD2	-	OR4K2_HUMAN	Olfactory receptor 4K2 	OR4K2	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGD3	-	OR4K5_HUMAN	Olfactory receptor 4K5 	OR4K5	323	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGD4	-	OR4K1_HUMAN	Olfactory receptor 4K1 	OR4K1	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGD5	-	OR4KE_HUMAN	Olfactory receptor 4K14 	OR4K14	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGE0	-	O10AD_HUMAN	Olfactory receptor 10AD1 	OR10AD1	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGE1	-	OR6C4_HUMAN	Olfactory receptor 6C4 	OR6C4	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGE2	-	O2AP1_HUMAN	Olfactory receptor 2AP1 	OR2AP1	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGE3	-	O10P1_HUMAN	Olfactory receptor 10P1 	OR10P1	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGE5	-	O10A7_HUMAN	Olfactory receptor 10A7 	OR10A7	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGE7	-	OR9K2_HUMAN	Olfactory receptor 9K2 	OR9K2	335	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGE8	-	OR4D9_HUMAN	Olfactory receptor 4D9 	OR4D9	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGE9	-	OR9Q2_HUMAN	Olfactory receptor 9Q2	OR9Q2	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGF0	-	O52B6_HUMAN	Olfactory receptor 52B6 	OR52B6	335	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGF1	-	O52R1_HUMAN	Olfactory receptor 52R1 	OR52R1	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGF3	-	O51D1_HUMAN	Olfactory receptor 51D1 	OR51D1	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGF4	-	O5AP2_HUMAN	Olfactory receptor 5AP2	OR5AP2	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGF6	-	O10W1_HUMAN	Olfactory receptor 10W1 	OR10W1	305	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGF7	-	OR5BH_HUMAN	Olfactory receptor 5B17 	OR5B17	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGF8	-	OR4B1_HUMAN	Olfactory receptor 4B1 	OR4B1	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGF9	-	OR4X2_HUMAN	Olfactory receptor 4X2 	OR4X2	303	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGG0	-	OR8J3_HUMAN	Olfactory receptor 8J3 	OR8J3	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGG1	-	OR8J2_HUMAN	Olfactory receptor 8J2	OR8J2	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGG2	-	OR5T2_HUMAN	Olfactory receptor 5T2 	OR5T2	359	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGG3	-	OR5T3_HUMAN	Olfactory receptor 5T3 	OR5T3	340	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGG4	-	OR8H1_HUMAN	Olfactory receptor 8H1 	OR8H1	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGG5	-	OR8K1_HUMAN	Olfactory receptor 8K1 	OR8K1	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGG6	-	OR8BC_HUMAN	Olfactory receptor 8B12 	OR8B12	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGG7	-	OR8A1_HUMAN	Olfactory receptor 8A1 	OR8A1	326	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGG8	-	OR8B3_HUMAN	Olfactory receptor 8B3 	OR8B3	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGH3	-	OR2D3_HUMAN	Olfactory receptor 2D3 	OR2D3	330	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGH5	-	O56A1_HUMAN	Olfactory receptor 56A1 	OR56A1	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGH6	-	O52L2_HUMAN	Putative olfactory receptor 52L2 	OR52L2P	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGH7	-	O52L1_HUMAN	Olfactory receptor 52L1 	OR52L1	329	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGH8	-	O56A4_HUMAN	Olfactory receptor 56A4 	OR56A4	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGH9	-	O52E4_HUMAN	Olfactory receptor 52E4 	OR52E4	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGI0	-	O52N2_HUMAN	Olfactory receptor 52N2 	OR52N2	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGI1	-	O56B2_HUMAN	Putative olfactory receptor 56B2	OR56B2P	322	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGI2	-	O52N4_HUMAN	Olfactory receptor 52N4 	OR52N4	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGI3	-	O56B1_HUMAN	Olfactory receptor 56B1 	OR56B1	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGI4	-	OR4DB_HUMAN	Olfactory receptor 4D11	OR4D11	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGI6	-	OR4DA_HUMAN	Olfactory receptor 4D10 	OR4D10	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGI7	-	O10V1_HUMAN	Olfactory receptor 10V1 	OR10V1	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGI8	-	O5AN1_HUMAN	Olfactory receptor 5AN1 	OR5AN1	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGI9	-	OR5A2_HUMAN	Olfactory receptor 5A2 	OR5A2	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGJ0	-	OR5A1_HUMAN	Olfactory receptor 5A1 	OR5A1	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGJ1	-	OR4D6_HUMAN	Olfactory receptor 4D6 	OR4D6	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGJ2	-	O52H1_HUMAN	Olfactory receptor 52H1 	OR52H1	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGJ3	-	O52E1_HUMAN	Olfactory receptor 52E1	OR52E1	308	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGJ4	-	O52E2_HUMAN	Olfactory receptor 52E2	OR52E2	325	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGJ5	-	O51L1_HUMAN	Olfactory receptor 51L1 	OR51L1	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGJ6	-	O51A4_HUMAN	Olfactory receptor 51A4	OR51A4	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGJ7	-	O51A2_HUMAN	Olfactory receptor 51A2	OR51A2	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGJ8	-	O51S1_HUMAN	Olfactory receptor 51S1 	OR51S1	323	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGJ9	-	O51T1_HUMAN	Olfactory receptor 51T1 	OR51T1	327	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGK0	-	O51G2_HUMAN	Olfactory receptor 51G2 	OR51G2	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGK1	-	O51G1_HUMAN	Olfactory receptor 51G1 	OR51G1	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGK2	-	O52B4_HUMAN	Olfactory receptor 52B4 	OR52B4	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGK3	-	O52K2_HUMAN	Olfactory receptor 52K2 	OR52K2	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGK4	-	O52K1_HUMAN	Olfactory receptor 52K1 	OR52K1	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGK5	-	O52M1_HUMAN	Olfactory receptor 52M1 	OR52M1	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGK6	-	O52I1_HUMAN	Olfactory receptor 52I1 	OR52I1	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGK9	-	OR5DG_HUMAN	Olfactory receptor 5D16 	OR5D16	328	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGL0	-	OR5L2_HUMAN	Olfactory receptor 5L2 	OR5L2	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGL1	-	OR5DI_HUMAN	Olfactory receptor 5D18 	OR5D18	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGL2	-	OR5L1_HUMAN	Olfactory receptor 5L1 	OR5L1	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGL3	-	OR5DE_HUMAN	Olfactory receptor 5D14 	OR5D14	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGL4	-	OR5DD_HUMAN	Olfactory receptor 5D13 	OR5D13	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGL6	-	O4A15_HUMAN	Olfactory receptor 4A15 	OR4A15	344	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGL7	-	OR4P4_HUMAN	Olfactory receptor 4P4 	OR4P4	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGL9	-	OR4CG_HUMAN	Olfactory receptor 4C16 	OR4C16	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGM1	-	OR4CF_HUMAN	Olfactory receptor 4C15 	OR4C15	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGM8	-	OR6M1_HUMAN	Olfactory receptor 6M1 	OR6M1	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGM9	-	OR8D4_HUMAN	Olfactory receptor 8D4 	OR8D4	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGN0	-	OR4D5_HUMAN	Olfactory receptor 4D5 	OR4D5	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGN1	-	OR6T1_HUMAN	Olfactory receptor 6T1 	OR6T1	323	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGN2	-	O10S1_HUMAN	Olfactory receptor 10S1 	OR10S1	331	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGN3	-	O10G4_HUMAN	Olfactory receptor 10G4 	OR10G4	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGN4	-	O10G9_HUMAN	Olfactory receptor 10G9 	OR10G9	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGN5	-	O10G8_HUMAN	Olfactory receptor 10G8 	OR10G8	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGN6	-	O10G7_HUMAN	Olfactory receptor 10G7 	OR10G7	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGN7	-	O10D4_HUMAN	Putative olfactory receptor 10D4	OR10D4P	298	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGN8	-	OR4A4_HUMAN	Putative olfactory receptor 4A4 	OR4A4P	299	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGP0	-	OR4CD_HUMAN	Olfactory receptor 4C13 	OR4C13	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGP2	-	OR8J1_HUMAN	Olfactory receptor 8J1 	OR8J1	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGP3	-	OR5M9_HUMAN	Olfactory receptor 5M9 	OR5M9	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGP4	-	OR5M3_HUMAN	Olfactory receptor 5M3 	OR5M3	307	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGP6	-	OR5M8_HUMAN	Olfactory receptor 5M8 	OR5M8	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGP8	-	OR5M1_HUMAN	Olfactory receptor 5M1 	OR5M1	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGP9	-	O5AR1_HUMAN	Olfactory receptor 5AR1 	OR5AR1	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGQ1	-	OR9G4_HUMAN	Olfactory receptor 9G4 	OR9G4	327	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGQ2	-	OR6Q1_HUMAN	Olfactory receptor 6Q1 	OR6Q1	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGQ3	-	OR1S2_HUMAN	Olfactory receptor 1S2 	OR1S2	325	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGQ4	-	O10Q1_HUMAN	Olfactory receptor 10Q1 	OR10Q1	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGQ5	-	OR9Q1_HUMAN	Olfactory receptor 9Q1	OR9Q1	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGQ6	-	OR9I1_HUMAN	Olfactory receptor 9I1 	OR9I1	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGR1	-	O13A1_HUMAN	Olfactory receptor 13A1 	OR13A1	328	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGR2	-	OR1L6_HUMAN	Olfactory receptor 1L6 	OR1L6	347	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGR3	-	OR1K1_HUMAN	Olfactory receptor 1K1	OR1K1	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGR4	-	OR5C1_HUMAN	Olfactory receptor 5C1 	OR5C1	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGR5	-	OR1L4_HUMAN	Olfactory receptor 1L4 	OR1L4	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGR6	-	OR1B1_HUMAN	Olfactory receptor 1B1 	OR1B1	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGR8	-	OR1L8_HUMAN	Olfactory receptor 1L8 	OR1L8	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGR9	-	OR1N2_HUMAN	Olfactory receptor 1N2 	OR1N2	330	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGS0	-	OR1N1_HUMAN	Olfactory receptor 1N1 	OR1N1	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGS1	-	OR1J4_HUMAN	Olfactory receptor 1J4 	OR1J4	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGS2	-	OR1J2_HUMAN	Olfactory receptor 1J2 	OR1J2	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGS3	-	OR1J1_HUMAN	Olfactory receptor 1J1 	OR1J1	322	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGS4	-	O13F1_HUMAN	Olfactory receptor 13F1 	OR13F1	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGS5	-	O13C4_HUMAN	Olfactory receptor 13C4 	OR13C4	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGS6	-	O13C3_HUMAN	Olfactory receptor 13C3 	OR13C3	347	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGS7	-	O13C8_HUMAN	Olfactory receptor 13C8	OR13C8	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGS8	-	O13C5_HUMAN	Olfactory receptor 13C5 	OR13C5	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGS9	-	O13C2_HUMAN	Olfactory receptor 13C2 	OR13C2	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGT0	-	O13C9_HUMAN	Olfactory receptor 13C9 	OR13C9	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGT1	-	OR2K2_HUMAN	Olfactory receptor 2K2 	OR2K2	345	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGT2	-	O13J1_HUMAN	Olfactory receptor 13J1 	OR13J1	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGT5	-	OR9A2_HUMAN	Olfactory receptor 9A2 	OR9A2	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGT7	-	O2A12_HUMAN	Olfactory receptor 2A12 	OR2A12	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGT9	-	OR2A1_HUMAN	Olfactory receptor 2A1/2A42 	OR2A1	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGU1	-	OR9A1_HUMAN	Putative olfactory receptor 9A1 	OR9A1P	263	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGU2	-	OR9A4_HUMAN	Olfactory receptor 9A4 	OR9A4	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGU4	-	OR2I1_HUMAN	Putative olfactory receptor 2I1 	OR2I1P	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGU9	-	GP150_HUMAN	Probable G-protein coupled receptor 150	GPR150	434	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR150</i>
+Q8NGV0	-	OR2Y1_HUMAN	Olfactory receptor 2Y1 	OR2Y1	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGV5	-	O13D1_HUMAN	Olfactory receptor 13D1 	OR13D1	346	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGV6	-	OR5H6_HUMAN	Olfactory receptor 5H6 	OR5H6	325	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGV7	-	OR5H2_HUMAN	Olfactory receptor 5H2 	OR5H2	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGW1	-	OR6B3_HUMAN	Olfactory receptor 6B3 	OR6B3	331	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGW6	-	OR6K6_HUMAN	Olfactory receptor 6K6 	OR6K6	343	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGX0	-	O11L1_HUMAN	Olfactory receptor 11L1	OR11L1	322	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGX1	-	O2T34_HUMAN	Olfactory receptor 2T34 	OR2T34	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGX2	-	O2T35_HUMAN	Olfactory receptor 2T35 	OR2T35	323	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGX3	-	O10T2_HUMAN	Olfactory receptor 10T2 	OR10T2	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGX5	-	O10K1_HUMAN	Olfactory receptor 10K1 	OR10K1	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGX6	-	O10R2_HUMAN	Olfactory receptor 10R2 	OR10R2	335	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGX8	-	OR6Y1_HUMAN	Olfactory receptor 6Y1 	OR6Y1	325	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGX9	-	OR6P1_HUMAN	Olfactory receptor 6P1 	OR6P1	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGY0	-	O10X1_HUMAN	Olfactory receptor 10X1 	OR10X1	326	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGY1	-	O10Z1_HUMAN	Olfactory receptor 10Z1 	OR10Z1	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGY2	-	OR6K2_HUMAN	Olfactory receptor 6K2 	OR6K2	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGY3	-	OR6K3_HUMAN	Olfactory receptor 6K3 	OR6K3	331	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGY5	-	OR6N1_HUMAN	Olfactory receptor 6N1	OR6N1	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGY6	-	OR6N2_HUMAN	Olfactory receptor 6N2 	OR6N2	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGY7	-	O10J6_HUMAN	Putative olfactory receptor 10J6	OR10J6P	276	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGY9	-	OR2L8_HUMAN	Olfactory receptor 2L8 	OR2L8	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGZ0	-	O2AJ1_HUMAN	Olfactory receptor 2AJ1	OR2AJ1	328	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGZ2	-	O14K1_HUMAN	Olfactory receptor 14K1 	OR14K1	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGZ3	-	O13G1_HUMAN	Olfactory receptor 13G1 	OR13G1	307	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGZ4	-	OR2G3_HUMAN	Olfactory receptor 2G3 	OR2G3	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGZ5	-	OR2G2_HUMAN	Olfactory receptor 2G2 	OR2G2	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGZ6	-	OR6F1_HUMAN	Olfactory receptor 6F1 	OR6F1	308	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NGZ9	-	O2T10_HUMAN	Olfactory receptor 2T10 	OR2T10	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH00	-	OR2T4_HUMAN	Olfactory receptor 2T4 	OR2T4	348	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH01	-	O2T11_HUMAN	Olfactory receptor 2T11 	OR2T11	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH02	-	O2T29_HUMAN	Olfactory receptor 2T29	OR2T29	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH03	-	OR2T3_HUMAN	Olfactory receptor 2T3	OR2T3	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH04	-	O2T27_HUMAN	Olfactory receptor 2T27 	OR2T27	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH05	-	OR4Q3_HUMAN	Olfactory receptor 4Q3 	OR4Q3	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH06	-	OR1P1_HUMAN	Olfactory receptor 1P1 	OR1P1	330	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH07	-	O11H2_HUMAN	Olfactory receptor 11H2 	OR11H2	326	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH08	-	O10AC_HUMAN	Olfactory receptor 10AC1 	OR10AC1	325	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH09	-	OR8S1_HUMAN	Olfactory receptor 8S1	OR8S1	359	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH10	-	OR8U1_HUMAN	Olfactory receptor 8U1	OR8U1	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH16	-	OR2L2_HUMAN	Olfactory receptor 2L2 	OR2L2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH18	-	OR5J2_HUMAN	Olfactory receptor 5J2 	OR5J2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH19	-	O10AG_HUMAN	Olfactory receptor 10AG1 	OR10AG1	301	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH21	-	OR4F5_HUMAN	Olfactory receptor 4F5	OR4F5	305	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH37	-	OR4C3_HUMAN	Olfactory receptor 4C3 	OR4C3	302	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH40	-	OR6S1_HUMAN	Olfactory receptor 6S1 	OR6S1	331	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH41	-	OR4KF_HUMAN	Olfactory receptor 4K15 	OR4K15	348	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH42	-	OR4KD_HUMAN	Olfactory receptor 4K13 	OR4K13	304	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH43	-	OR4L1_HUMAN	Olfactory receptor 4L1 	OR4L1	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH48	-	OR5B3_HUMAN	Olfactory receptor 5B3 	OR5B3	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH49	-	OR4X1_HUMAN	Olfactory receptor 4X1 	OR4X1	305	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH50	-	OR8K5_HUMAN	Olfactory receptor 8K5 	OR8K5	307	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH51	-	OR8K3_HUMAN	Olfactory receptor 8K3 	OR8K3	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH53	-	O52N1_HUMAN	Olfactory receptor 52N1 	OR52N1	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH54	-	O56A3_HUMAN	Olfactory receptor 56A3 	OR56A3	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH55	-	O52E5_HUMAN	Olfactory receptor 52E5	OR52E5	327	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH56	-	O52N5_HUMAN	Olfactory receptor 52N5 	OR52N5	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH57	-	O52P1_HUMAN	Putative olfactory receptor 52P1	OR52P1P	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH59	-	O51Q1_HUMAN	Olfactory receptor 51Q1	OR51Q1	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH60	-	O52J3_HUMAN	Olfactory receptor 52J3 	OR52J3	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH61	-	O51F2_HUMAN	Olfactory receptor 51F2 	OR51F2	342	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH63	-	O51H1_HUMAN	Olfactory receptor 51H1 	OR51H1	302	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH64	-	O51A7_HUMAN	Olfactory receptor 51A7 	OR51A7	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH67	-	O52I2_HUMAN	Olfactory receptor 52I2 	OR52I2	350	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH69	-	OR5W2_HUMAN	Olfactory receptor 5W2 	OR5W2	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH70	-	O4A16_HUMAN	Olfactory receptor 4A16 	OR4A16	328	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH72	-	OR4C6_HUMAN	Olfactory receptor 4C6 	OR4C6	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH73	-	OR4S2_HUMAN	Olfactory receptor 4S2 	OR4S2	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH74	-	O10A6_HUMAN	Olfactory receptor 10A6 	OR10A6	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH76	-	O56B4_HUMAN	Olfactory receptor 56B4 	OR56B4	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH79	-	OR6X1_HUMAN	Olfactory receptor 6X1 	OR6X1	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH80	-	O10D3_HUMAN	Putative olfactory receptor 10D3 	OR10D3	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH81	-	O10G6_HUMAN	Olfactory receptor 10G6 	OR10G6	332	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH83	-	OR4A5_HUMAN	Olfactory receptor 4A5 	OR4A5	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH85	-	OR5R1_HUMAN	Olfactory receptor 5R1 	OR5R1	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH87	-	OR9G1_HUMAN	Olfactory receptor 9G1 	OR9G1	305	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH89	-	O5AK3_HUMAN	Putative olfactory receptor 5AK3	OR5AK3P	298	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH90	-	O5AK2_HUMAN	Olfactory receptor 5AK2	OR5AK2	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH92	-	OR1S1_HUMAN	Olfactory receptor 1S1 	OR1S1	325	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH93	-	OR1L3_HUMAN	Olfactory receptor 1L3 	OR1L3	324	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH94	-	OR1L1_HUMAN	Olfactory receptor 1L1 	OR1L1	360	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NH95	-	O13C6_HUMAN	Putative olfactory receptor 13C6 	OR13C6P	151	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NHA4	-	O2AE1_HUMAN	Olfactory receptor 2AE1 	OR2AE1	323	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NHA6	-	OR2W6_HUMAN	Putative olfactory receptor 2W6 	OR2W6P	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NHA8	-	OR1FC_HUMAN	Olfactory receptor 1F12 	OR1F12	337	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NHB1	-	OR2V1_HUMAN	Olfactory receptor 2V1	OR2V1	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NHB7	-	OR5K1_HUMAN	Olfactory receptor 5K1 	OR5K1	308	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NHB8	-	OR5K2_HUMAN	Olfactory receptor 5K2 	OR5K2	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NHC4	-	O10J5_HUMAN	Olfactory receptor 10J5 	OR10J5	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NHC5	-	O14AG_HUMAN	Olfactory receptor 14A16 	OR14A16	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NHC6	-	O14L1_HUMAN	Putative olfactory receptor 14L1 	OR14L1P	308	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NHC7	-	O14CZ_HUMAN	Olfactory receptor 14C36 	OR14C36	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8NHC8	-	OR2T6_HUMAN	Olfactory receptor 2T6 	OR2T6	308	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8TCB6	-	O51E1_HUMAN	Olfactory receptor 51E1 	OR51E1	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8TCW9	-	PKR1_HUMAN	Prokineticin receptor 1 	PROKR1	393	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Prokineticin receptors	PKR<sub>1</sub>
+Q8TDS4	-	HCAR2_HUMAN	Hydroxycarboxylic acid receptor 2 	HCAR2	363	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Alicarboxylic acid receptors	Hydroxycarboxylic acid receptors	HCA<sub>2</sub> receptor
+Q8TDS5	-	OXER1_HUMAN	Oxoeicosanoid receptor 1 	OXER1	423	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Leukotriene receptors	OXE receptor
+Q8TDS7	-	MRGRD_HUMAN	Mas-related G-protein coupled receptor member D 	MRGPRD	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>MRGPRD</i>
+Q8TDT2	-	GP152_HUMAN	Probable G-protein coupled receptor 152 	GPR152	470	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR152</i>
+Q8TDU5	-	VNRL4_HUMAN	Putative vomeronasal receptor-like protein 4 	VN1R17P	208	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8TDU6	-	GPBAR_HUMAN	G-protein coupled bile acid receptor 1 	GPBAR1	330	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Steroid receptors	Bile acid receptors	GPBA receptor
+Q8TDU9	-	RL3R2_HUMAN	Relaxin-3 receptor 2 	RXFP4	374	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Relaxin family peptide receptors	RXFP4
+Q8TDV0	-	GP151_HUMAN	G-protein coupled receptor 151	GPR151	419	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR151</i>
+Q8TDV2	-	GP148_HUMAN	Probable G-protein coupled receptor 148 	GPR148	347	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR148</i>
+Q8TDV5	-	GP119_HUMAN	Glucose-dependent insulinotropic receptor 	GPR119	335	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	GPR18- GPR55 and GPR119	<i>GPR119</i>
+Q8TE23	-	TS1R2_HUMAN	Taste receptor type 1 member 2 	TAS1R2	839	CG	Homo	sapiens	Human	Glutamate-like	Class C	Sensory receptors	Taste 1 receptors	<i>TAS1R2</i>
+Q8WXD0	2M96	RXFP2_HUMAN	Relaxin receptor 2 	RXFP2	754	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Relaxin family peptide receptors	RXFP2
+Q8WXG9	-	GPR98_HUMAN	Adhesion G-protein coupled receptor V1 	ADGRV1	6306	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRV	ADGRV1
+Q8WZ84	-	OR8D1_HUMAN	Olfactory receptor 8D1 	OR8D1	308	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8WZ92	-	OR5P2_HUMAN	Olfactory receptor 5P2 	OR5P2	322	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8WZ94	-	OR5P3_HUMAN	Olfactory receptor 5P3 	OR5P3	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q8WZA6	-	OR1E3_HUMAN	Olfactory receptor 1E3 	OR1E3	343	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q92633	-	LPAR1_HUMAN	Lysophosphatidic acid receptor 1 	LPAR1	364	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Lysophospholipid (LPA) receptors	LPA<sub>1</sub> receptor
+Q92847	-	GHSR_HUMAN	Growth hormone secretagogue receptor type 1 	GHSR	366	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Ghrelin receptors	ghrelin receptor
+Q969F8	-	KISSR_HUMAN	KiSS-1 receptor 	KISS1R	398	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Kisspeptin receptors	kisspeptin receptor
+Q969N4	-	TAAR8_HUMAN	Trace amine-associated receptor 8 	TAAR8	342	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>TAAR8</i>
+Q969V1	-	MCHR2_HUMAN	Melanin-concentrating hormone receptor 2 	MCHR2	340	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Melanin-concentrating hormone	MCH<sub>2</sub> receptor
+Q96AM1	-	MRGRF_HUMAN	Mas-related G-protein coupled receptor member F 	MRGPRF	343	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>MRGPRF</i>
+Q96CH1	-	GP146_HUMAN	Probable G-protein coupled receptor 146 	GPR146	333	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR146</i>
+Q96G91	-	P2Y11_HUMAN	P2Y purinoceptor 11 	P2RY11	374	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	P2Y receptors	P2Y<sub>11</sub> receptor
+Q96K78	-	AGRG7_HUMAN	Adhesion G-protein coupled receptor G7 	ADGRG7	797	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRG	ADGRG7
+Q96KK4	-	O10C1_HUMAN	Olfactory receptor 10C1 	OR10C1	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96LA9	-	MRGX4_HUMAN	Mas-related G-protein coupled receptor member X4 	MRGPRX4	322	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>MRGPRX4</i>
+Q96LB0	-	MRGX3_HUMAN	Mas-related G-protein coupled receptor member X3 	MRGPRX3	322	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>MRGPRX3</i>
+Q96LB1	-	MRGX2_HUMAN	Mas-related G-protein coupled receptor member X2	MRGPRX2	330	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>MRGPRX2</i>
+Q96LB2	-	MRGX1_HUMAN	Mas-related G-protein coupled receptor member X1 	MRGPRX1	322	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>MRGPRX1</i>
+Q96P65	-	QRFPR_HUMAN	Pyroglutamylated RF-amide peptide receptor 	QRFPR	431	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Peptide P518 receptors	QRFP receptor
+Q96P66	-	GP101_HUMAN	Probable G-protein coupled receptor 101	GPR101	508	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR101</i>
+Q96P67	-	GPR82_HUMAN	Probable G-protein coupled receptor 82	GPR82	336	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR82</i>
+Q96P68	-	OXGR1_HUMAN	2-oxoglutarate receptor 1 	OXGR1	337	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Alicarboxylic acid receptors	Oxoglutarate receptors	oxoglutarate receptor
+Q96P69	-	GPR78_HUMAN	G-protein coupled receptor 78	GPR78	363	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR78</i>
+Q96P88	-	GNRR2_HUMAN	Putative gonadotropin-releasing hormone II receptor 	GNRHR2	292	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96PE1	-	AGRA2_HUMAN	Adhesion G protein-coupled receptor A2 	ADGRA2	1338	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRA	ADGRA2
+Q96R08	-	OR5BC_HUMAN	Olfactory receptor 5B12 	OR5B12	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R09	-	OR5B2_HUMAN	Olfactory receptor 5B2 	OR5B2	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R27	-	OR2M4_HUMAN	Olfactory receptor 2M4 	OR2M4	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R28	-	OR2M2_HUMAN	Olfactory receptor 2M2 	OR2M2	347	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R30	-	OR2V2_HUMAN	Olfactory receptor 2V2 	OR2V2	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R45	-	OR2A7_HUMAN	Olfactory receptor 2A7 	OR2A7	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R47	-	O2A14_HUMAN	Olfactory receptor 2A14 	OR2A14	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R48	-	OR2A5_HUMAN	Olfactory receptor 2A5 	OR2A5	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R54	-	O14A2_HUMAN	Olfactory receptor 14A2 	OR14A2	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R67	-	OR4CC_HUMAN	Olfactory receptor 4C12 	OR4C12	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R69	-	OR4F4_HUMAN	Olfactory receptor 4F4 	OR4F4	305	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R72	-	OR4K3_HUMAN	Olfactory receptor 4K3 	OR4K3	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96R84	-	OR1F2_HUMAN	Putative olfactory receptor 1F2 	OR1F2P	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96RA2	-	OR7D2_HUMAN	Olfactory receptor 7D2 	OR7D2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96RB7	-	OR5MB_HUMAN	Olfactory receptor 5M11	OR5M11	305	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96RC9	-	OR8B4_HUMAN	Olfactory receptor 8B4 	OR8B4	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96RD0	-	OR8B2_HUMAN	Olfactory receptor 8B2 	OR8B2	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96RD1	-	OR6C1_HUMAN	Olfactory receptor 6C1 	OR6C1	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96RD2	-	O52B2_HUMAN	Olfactory receptor 52B2 	OR52B2	323	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96RD3	-	O52E6_HUMAN	Olfactory receptor 52E6 	OR52E6	313	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q96RI0	2ZPK  3QDZ	PAR4_HUMAN	Proteinase-activated receptor 4 	F2RL3	385	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Proteinase-activated receptors	PAR4
+Q96RI8	-	TAAR6_HUMAN	Trace amine-associated receptor 6 	TAAR6	345	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>TAAR6</i>
+Q96RI9	-	TAAR9_HUMAN	Trace amine-associated receptor 9 	TAAR9	348	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>TAAR9</i>
+Q96RJ0	-	TAAR1_HUMAN	Trace amine-associated receptor 1 	TAAR1	339	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Trace amine receptors	TA<sub>1</sub> receptor
+Q99463	-	NPY6R_HUMAN	Putative neuropeptide Y receptor type 6 	NPY6R	290	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuropeptide Y receptors	y<sub>6</sub> receptor
+Q99500	-	S1PR3_HUMAN	Sphingosine 1-phosphate receptor 3 	S1PR3	378	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Lysophospholipid (S1P) receptors	S1P<sub>3</sub> receptor
+Q99527	-	GPER1_HUMAN	G-protein coupled estrogen receptor 1 	GPER1	375	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Steroid receptors	Estrogen (G protein-coupled) receptors	GPER
+Q99677	-	LPAR4_HUMAN	Lysophosphatidic acid receptor 4 	LPAR4	370	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Lysophospholipid (LPA) receptors	LPA<sub>4</sub> receptor
+Q99678	-	GPR20_HUMAN	G-protein coupled receptor 20	GPR20	358	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR20</i>
+Q99679	-	GPR21_HUMAN	Probable G-protein coupled receptor 21	GPR21	349	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR21</i>
+Q99680	-	GPR22_HUMAN	G-protein coupled receptor 22	GPR22	433	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR22</i>
+Q99705	-	MCHR1_HUMAN	Melanin-concentrating hormone receptor 1 	MCHR1	422	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Melanin-concentrating hormone	MCH<sub>1</sub> receptor
+Q99788	-	CML1_HUMAN	Chemokine-like receptor 1 	CMKLR1	373	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemerin receptor	chemerin receptor
+Q99835	4JKV  4N4W  4O9R  4QIM  4QIN  5L7D  5L7I  5V56  5V57  6OT0	SMO_HUMAN	Smoothened homolog 	SMO	787	CG	Homo	sapiens	Human	Frizzled	Class F	Protein receptors	Frizzled	SMO
+Q9BPV8	-	P2Y13_HUMAN	P2Y purinoceptor 13 	P2RY13	354	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	P2Y receptors	P2Y<sub>13</sub> receptor
+Q9BXA5	-	SUCR1_HUMAN	Succinate receptor 1 	SUCNR1	334	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Alicarboxylic acid receptors	Succinate receptors	succinate receptor
+Q9BXB1	4KT1  4QXE  4QXF	LGR4_HUMAN	Leucine-rich repeat-containing G-protein coupled receptor 4 	LGR4	951	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>LGR4</i>
+Q9BXC0	-	HCAR1_HUMAN	Hydroxycarboxylic acid receptor 1 	HCAR1	346	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Alicarboxylic acid receptors	Hydroxycarboxylic acid receptors	HCA<sub>1</sub> receptor
+Q9BXC1	-	GP174_HUMAN	Probable G-protein coupled receptor 174	GPR174	333	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR174</i>
+Q9BXE9	-	VN1R3_HUMAN	Vomeronasal type-1 receptor 3 	VN1R3	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9BY15	-	AGRE3_HUMAN	Adhesion G protein-coupled receptor E3 	ADGRE3	652	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRE	ADGRE3
+Q9BY21	-	GPR87_HUMAN	G-protein coupled receptor 87 	GPR87	358	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR87</i>
+Q9BZJ6	-	GPR63_HUMAN	Probable G-protein coupled receptor 63 	GPR63	419	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR63</i>
+Q9BZJ7	-	GPR62_HUMAN	G-protein coupled receptor 62 	GPR62	368	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR62</i>
+Q9BZJ8	-	GPR61_HUMAN	G-protein coupled receptor 61 	GPR61	451	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR61</i>
+Q9GZK3	-	OR2B2_HUMAN	Olfactory receptor 2B2 	OR2B2	357	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9GZK4	-	OR2H1_HUMAN	Olfactory receptor 2H1 	OR2H1	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9GZK6	-	OR2J1_HUMAN	Olfactory receptor 2J1 	OR2J1	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9GZK7	-	O11A1_HUMAN	Olfactory receptor 11A1 	OR11A1	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9GZM6	-	OR8D2_HUMAN	Olfactory receptor 8D2 	OR8D2	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9GZN0	-	GPR88_HUMAN	Probable G-protein coupled receptor 88 	GPR88	384	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR88</i>
+Q9GZP7	-	VN1R1_HUMAN	Vomeronasal type-1 receptor 1 	VN1R1	353	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9GZQ4	-	NMUR2_HUMAN	Neuromedin-U receptor 2 	NMUR2	415	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuromedin U receptors	NMU2 receptor
+Q9GZQ6	-	NPFF1_HUMAN	Neuropeptide FF receptor 1 	NPFFR1	430	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuropeptide FF/neuropeptide AF receptors	NPFF1 receptor
+Q9H1C0	-	LPAR5_HUMAN	Lysophosphatidic acid receptor 5 	LPAR5	372	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Lysophospholipid (LPA) receptors	LPA<sub>5</sub> receptor
+Q9H1Y3	-	OPN3_HUMAN	Opsin-3 	OPN3	402	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Sensory receptors	Opsins	Opsin-3
+Q9H205	-	O2AG1_HUMAN	Olfactory receptor 2AG1 	OR2AG1	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H207	-	O10A5_HUMAN	Olfactory receptor 10A5 	OR10A5	317	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H208	-	O10A2_HUMAN	Olfactory receptor 10A2 	OR10A2	303	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H209	-	O10A4_HUMAN	Olfactory receptor 10A4 	OR10A4	315	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H210	-	OR2D2_HUMAN	Olfactory receptor 2D2 	OR2D2	308	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H228	-	S1PR5_HUMAN	Sphingosine 1-phosphate receptor 5 	S1PR5	398	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Lysophospholipid (S1P) receptors	S1P<sub>5</sub> receptor
+Q9H244	-	P2Y12_HUMAN	P2Y purinoceptor 12 	P2RY12	342	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Nucleotide receptors	P2Y receptors	P2Y<sub>12</sub> receptor
+Q9H255	-	O51E2_HUMAN	Olfactory receptor 51E2 	OR51E2	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H2C5	-	O52A5_HUMAN	Olfactory receptor 52A5 	OR52A5	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H2C8	-	O51V1_HUMAN	Olfactory receptor 51V1 	OR51V1	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H339	-	O51B5_HUMAN	Olfactory receptor 51B5 	OR51B5	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H340	-	O51B6_HUMAN	Olfactory receptor 51B6 	OR51B6	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H341	-	O51M1_HUMAN	Olfactory receptor 51M1 	OR51M1	326	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H342	-	O51J1_HUMAN	Olfactory receptor 51J1 	OR51J1	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H343	-	O51I1_HUMAN	Olfactory receptor 51I1 	OR51I1	314	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H344	-	O51I2_HUMAN	Olfactory receptor 51I2 	OR51I2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H346	-	O52D1_HUMAN	Olfactory receptor 52D1 	OR52D1	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9H3N8	-	HRH4_HUMAN	Histamine H4 receptor 	HRH4	390	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Histamine receptors	H<sub>4</sub> receptor
+Q9H461	5UN5  5UN6  6NDZ	FZD8_HUMAN	Frizzled-8 	FZD8	694	CG	Homo	sapiens	Human	Frizzled	Class F	Protein receptors	Frizzled	FZD<sub>8</sub>
+Q9HAR2	5AFB  5CMN	AGRL3_HUMAN	Adhesion G protein-coupled receptor L3 	ADGRL3	1447	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRL	ADGRL3
+Q9HB89	-	NMUR1_HUMAN	Neuromedin-U receptor 1 	NMUR1	426	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuromedin U receptors	NMU1 receptor
+Q9HBW0	-	LPAR2_HUMAN	Lysophosphatidic acid receptor 2 	LPAR2	351	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Lysophospholipid (LPA) receptors	LPA<sub>2</sub> receptor
+Q9HBW9	-	AGRL4_HUMAN	Adhesion G protein-coupled receptor L4 	ADGRL4	690	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRL	ADGRL4
+Q9HBX8	-	LGR6_HUMAN	Leucine-rich repeat-containing G-protein coupled receptor 6	LGR6	967	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>LGR6</i>
+Q9HBX9	2JM4  2M7P	RXFP1_HUMAN	Relaxin receptor 1 	RXFP1	757	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Relaxin family peptide receptors	RXFP1
+Q9HC97	-	GPR35_HUMAN	G-protein coupled receptor 35 	GPR35	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR35</i>
+Q9HCU4	-	CELR2_HUMAN	Cadherin EGF LAG seven-pass G-type receptor 2 	CELSR2	2923	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRC	<i>CELSR2</i>
+Q9NPB9	-	ACKR4_HUMAN	Atypical chemokine receptor 4 	ACKR4	350	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Protein receptors	Chemokine receptors	ACKR4
+Q9NPC1	-	LT4R2_HUMAN	Leukotriene B4 receptor 2 	LTB4R2	389	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Leukotriene receptors	BLT<sub>2</sub> receptor
+Q9NPG1	-	FZD3_HUMAN	Frizzled-3 	FZD3	666	CG	Homo	sapiens	Human	Frizzled	Class F	Protein receptors	Frizzled	FZD<sub>3</sub>
+Q9NQ84	-	GPC5C_HUMAN	G-protein coupled receptor family C group 5 member C 	GPRC5C	441	CG	Homo	sapiens	Human	Glutamate-like	Class C	Orphan receptors	Class C Orphans	<i>GPRC5C</i>
+Q9NQN1	-	OR2S1_HUMAN	Olfactory receptor 2S2 	OR2S2	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9NQS5	-	GPR84_HUMAN	G-protein coupled receptor 84 	GPR84	396	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR84</i>
+Q9NS66	-	GP173_HUMAN	Probable G-protein coupled receptor 173 	GPR173	373	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR173</i>
+Q9NS67	-	GPR27_HUMAN	Probable G-protein coupled receptor 27 	GPR27	375	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR27</i>
+Q9NS75	-	CLTR2_HUMAN	Cysteinyl leukotriene receptor 2 	CYSLTR2	346	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Leukotriene receptors	CysLT<sub>2</sub> receptor
+Q9NSD7	-	RL3R1_HUMAN	Relaxin-3 receptor 1 	RXFP3	469	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Relaxin family peptide receptors	RXFP3
+Q9NYM4	-	GPR83_HUMAN	Probable G-protein coupled receptor 83 	GPR83	423	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR83</i>
+Q9NYQ6	-	CELR1_HUMAN	Cadherin EGF LAG seven-pass G-type receptor 1 	CELSR1	3014	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRC	<i>CELSR1</i>
+Q9NYQ7	-	CELR3_HUMAN	Cadherin EGF LAG seven-pass G-type receptor 3 	CELSR3	3312	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRC	<i>CELSR3</i>
+Q9NYV7	-	T2R16_HUMAN	Taste receptor type 2 member 16 	TAS2R16	291	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R16</i>
+Q9NYV8	-	T2R14_HUMAN	Taste receptor type 2 member 14 	TAS2R14	317	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R14</i>
+Q9NYV9	-	T2R13_HUMAN	Taste receptor type 2 member 13 	TAS2R13	303	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R13</i>
+Q9NYW0	-	T2R10_HUMAN	Taste receptor type 2 member 10 	TAS2R10	307	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R10</i>
+Q9NYW1	-	TA2R9_HUMAN	Taste receptor type 2 member 9 	TAS2R9	312	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R9</i>
+Q9NYW2	-	TA2R8_HUMAN	Taste receptor type 2 member 8 	TAS2R8	309	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R8</i>
+Q9NYW3	-	TA2R7_HUMAN	Taste receptor type 2 member 7 	TAS2R7	318	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R7</i>
+Q9NYW4	-	TA2R5_HUMAN	Taste receptor type 2 member 5 	TAS2R5	299	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R5</i>
+Q9NYW5	-	TA2R4_HUMAN	Taste receptor type 2 member 4 	TAS2R4	299	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R4</i>
+Q9NYW6	-	TA2R3_HUMAN	Taste receptor type 2 member 3 	TAS2R3	316	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R3</i>
+Q9NYW7	-	TA2R1_HUMAN	Taste receptor type 2 member 1 	TAS2R1	299	CG	Homo	sapiens	Human	Taste2R	Class T2R	Sensory receptors	Taste 2 receptors	<i>TAS2R1</i>
+Q9NZD1	-	GPC5D_HUMAN	G-protein coupled receptor family C group 5 member D	GPRC5D	345	CG	Homo	sapiens	Human	Glutamate-like	Class C	Orphan receptors	Class C Orphans	<i>GPRC5D</i>
+Q9NZH0	-	GPC5B_HUMAN	G-protein coupled receptor family C group 5 member B 	GPRC5B	403	CG	Homo	sapiens	Human	Glutamate-like	Class C	Orphan receptors	Class C Orphans	<i>GPRC5B</i>
+Q9NZP0	-	OR6C3_HUMAN	Olfactory receptor 6C3 	OR6C3	311	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9NZP2	-	OR6C2_HUMAN	Olfactory receptor 6C2 	OR6C2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9NZP5	-	O5AC2_HUMAN	Olfactory receptor 5AC2 	OR5AC2	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9P1P4	-	TAAR3_HUMAN	Putative trace amine-associated receptor 3 	TAAR3P	343	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>TAAR3</i>
+Q9P1P5	-	TAAR2_HUMAN	Trace amine-associated receptor 2 	TAAR2	351	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>TAAR2</i>
+Q9P1Q5	-	OR1A1_HUMAN	Olfactory receptor 1A1 	OR1A1	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9P296	-	C5AR2_HUMAN	C5a anaphylatoxin chemotactic receptor 2 	C5AR2	337	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Complement peptide receptors	C5a<sub>2</sub> receptor
+Q9UBS5	4MQE  4MQF  4MR7  4MR8  4MR9  4MRM  4MS1  4MS3  4MS4  4PAS  6HKC	GABR1_HUMAN	Gamma-aminobutyric acid type B receptor subunit 1 	GABBR1	961	CG	Homo	sapiens	Human	Glutamate-like	Class C	Amino acid receptors	GABA<sub>B</sub> receptors	GABA<sub>B1</sub>
+Q9UBY5	-	LPAR3_HUMAN	Lysophosphatidic acid receptor 3 	LPAR3	353	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Lysophospholipid (LPA) receptors	LPA<sub>3</sub> receptor
+Q9UGF5	-	O14J1_HUMAN	Olfactory receptor 14J1 	OR14J1	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9UGF6	-	OR5V1_HUMAN	Olfactory receptor 5V1 	OR5V1	321	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9UGF7	-	O12D3_HUMAN	Olfactory receptor 12D3 	OR12D3	316	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9UHM6	-	OPN4_HUMAN	Melanopsin 	OPN4	478	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Sensory receptors	Opsins	Melanopsin
+Q9UHX3	2BO2  2BOU  2BOX	AGRE2_HUMAN	Adhesion G protein-coupled receptor E2 	ADGRE2	823	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRE	ADGRE2
+Q9UJ42	-	GP160_HUMAN	Probable G-protein coupled receptor 160 	GPR160	338	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR160</i>
+Q9UKL2	-	O52A1_HUMAN	Olfactory receptor 52A1 	OR52A1	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9UKP6	-	UR2R_HUMAN	Urotensin-2 receptor 	UTS2R	389	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Urotensin receptors	UT receptor
+Q9ULV1	5BPB  5BPQ  5BQC  5BQE  5CL1  5CM4  5UWG  6BD4  6NE1	FZD4_HUMAN	Frizzled-4 	FZD4	537	CG	Homo	sapiens	Human	Frizzled	Class F	Protein receptors	Frizzled	FZD<sub>4</sub>
+Q9ULW2	-	FZD10_HUMAN	Frizzled-10 	FZD10	581	CG	Homo	sapiens	Human	Frizzled	Class F	Protein receptors	Frizzled	FZD<sub>10</sub>
+Q9UNW8	-	GP132_HUMAN	Probable G-protein coupled receptor 132 	GPR132	380	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR132</i>
+Q9UP38	-	FZD1_HUMAN	Frizzled-1 	FZD1	647	CG	Homo	sapiens	Human	Frizzled	Class F	Protein receptors	Frizzled	FZD<sub>1</sub>
+Q9UPC5	-	GPR34_HUMAN	Probable G-protein coupled receptor 34	GPR34	381	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR34</i>
+Q9Y271	-	CLTR1_HUMAN	Cysteinyl leukotriene receptor 1 	CYSLTR1	337	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Leukotriene receptors	CysLT<sub>1</sub> receptor
+Q9Y2T5	-	GPR52_HUMAN	G-protein coupled receptor 52	GPR52	361	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR52</i>
+Q9Y2T6	-	GPR55_HUMAN	G-protein coupled receptor 55	GPR55	319	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	GPR18- GPR55 and GPR119	<i>GPR55</i>
+Q9Y3N9	-	OR2W1_HUMAN	Olfactory receptor 2W1 	OR2W1	320	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9Y4A9	-	O10H1_HUMAN	Olfactory receptor 10H1 	OR10H1	318	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9Y585	-	OR1A2_HUMAN	Olfactory receptor 1A2 	OR1A2	309	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9Y5N1	-	HRH3_HUMAN	Histamine H3 receptor 	HRH3	445	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Aminergic receptors	Histamine receptors	H<sub>3</sub> receptor
+Q9Y5P0	-	O51B4_HUMAN	Olfactory receptor 51B4 	OR51B4	310	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9Y5P1	-	O51B2_HUMAN	Olfactory receptor 51B2 	OR51B2	312	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	-	-	-
+Q9Y5X5	-	NPFF2_HUMAN	Neuropeptide FF receptor 2 	NPFFR2	522	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Peptide receptors	Neuropeptide FF/neuropeptide AF receptors	NPFF2 receptor
+Q9Y5Y3	-	GPR45_HUMAN	Probable G-protein coupled receptor 45 	GPR45	372	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Orphan receptors	Class A orphans	<i>GPR45</i>
+Q9Y5Y4	-	PD2R2_HUMAN	Prostaglandin D2 receptor 2 	PTGDR2	395	CG	Homo	sapiens	Human	Rhodopsin-like	Class A	Lipid receptors	Prostanoid receptors	DP<sub>2</sub> receptor
+Q9Y653	-	AGRG1_HUMAN	Adhesion G-protein coupled receptor G1 	ADGRG1	693	CG	Homo	sapiens	Human	Adhesion-like	Class B	Adhesion receptors	ADGRG	ADGRG1
+P52381	-	UL33_HHV7J	G-protein coupled receptor homolog U12	U12	346	CG	Herpesviridae	Human herpesvirus 7		Rhodopsin-like	Class A	-	-	-
+P52383	-	VU51_HHV7J	G-protein coupled receptor homolog U51	U51	294	CG	Herpesviridae	Human herpesvirus 7		Rhodopsin-like	Class A	-	-	-
